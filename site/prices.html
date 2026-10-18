@@ -1,5 +1,5 @@
-<!doctype html><html><head><meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="0"><link rel="icon" type="image/svg+xml" href="img/favicon.svg?v=20261018151142"><meta charset="utf-8"><title>Market / Auction Price Tracker (Draft)</title>
-<link rel="stylesheet" href="style.css?v=20261018151142"><script src="vendor/chart.umd.min.js?v=20261018151142"></script><script src="prices-data.js?v=20261018151142"></script>
+<!doctype html><html><head><meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="0"><link rel="icon" type="image/svg+xml" href="img/favicon.svg?v=20261018151235"><meta charset="utf-8"><title>Market / Auction Price Tracker (Draft)</title>
+<link rel="stylesheet" href="style.css?v=20261018151235"><script src="vendor/chart.umd.min.js?v=20261018151235"></script><script src="prices-data.js?v=20261018151235"></script>
 <style>.panel{background:#fff;border-radius:10px;padding:16px 20px;margin-bottom:18px;box-shadow:0 2px 8px rgba(60,40,20,.12);font-family:Arial,sans-serif;font-size:13px}
 table{border-collapse:collapse;width:100%}th,td{border-bottom:1px solid #eee;padding:5px 7px;text-align:right}th:first-child,td:first-child{text-align:left}th{background:#f3ece0}
 .note{color:#7a6a50;font-size:12px}.chartbox{height:440px}label{margin-right:12px}</style></head><body>
@@ -32,4 +32,4 @@ cnt.innerHTML='<table><tr><th>Type</th>'+Y.map(y=>`<th>${y}</th>`).join('')+'</t
 agg.innerHTML='<table><tr><th>Event</th><th>Year</th><th>Lots</th><th>Total</th><th>Note</th></tr>'+PRICES.aggregates.map(a=>`<tr><td><a href="${a.url}">${a.event}</a></td><td>${a.year}</td><td>${a.lots}</td><td>${fmt(a.total_sales)}</td><td>${a.note}</td></tr>`).join('')+'</table>';
 all.innerHTML='<table><tr><th>Species</th><th>Class</th><th>Year</th><th>Type</th><th>Head</th><th>Lot</th><th>Per head</th><th>Source</th></tr>'+P.map(p=>`<tr><td>${p.species}</td><td>${p.sex_class}</td><td>${p.year}</td><td>${p.type}</td><td>${p.head}</td><td>${fmt(p.lot_price)}</td><td>${fmt(p.price_per_head)}</td><td><a href="${p.url}" title="${p.note}">${p.source}</a></td></tr>`).join('')+'</table>';
 src.innerHTML=[...new Map(P.map(p=>[p.url,p.source])).entries()].map(([u,s])=>`<li>${s}: <a href="${u}">${u}</a></li>`).join('');
-</script><script src="nav.js?v=20261018151142"></script></body></html>
+</script><script src="nav.js?v=20261018151235"></script></body></html>
