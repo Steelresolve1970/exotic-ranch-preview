@@ -1,0 +1,177 @@
+{
+ "axis-deer": {
+  "file": "img/axis-deer.jpg",
+  "author": "Giles Laurent",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:066_Chital_in_Ranthambore_National_Park_Photo_by_Giles_Laurent.jpg"
+ },
+ "fallow-deer": {
+  "file": "img/fallow-deer.jpg",
+  "author": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Wildpark_--_2018_--_3762.jpg"
+ },
+ "sika-deer": {
+  "file": "img/sika-deer.jpg",
+  "author": "Lilly M",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Cervus_nippon_002.jpg"
+ },
+ "blackbuck": {
+  "file": "img/blackbuck.jpg",
+  "author": "Mr Raja Purohit",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "source": "https://commons.wikimedia.org/wiki/File:Blackbuck_male_female.jpg"
+ },
+ "nilgai": {
+  "file": "img/nilgai.jpg",
+  "author": "Charles J. Sharp",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Nilgai_(Boselaphus_tragocamelus)_male.jpg"
+ },
+ "aoudad": {
+  "file": "img/aoudad.jpg",
+  "author": "Kevin Floyd",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Ammotragus_lervia_110535403.jpg"
+ },
+ "scimitar-oryx": {
+  "file": "img/scimitar-oryx.jpg",
+  "author": "Cheima fezzani",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Oryx_Dammah_oryx_algazelle_2.jpg"
+ },
+ "gemsbok": {
+  "file": "img/gemsbok.jpg",
+  "author": "Charles J. Sharp",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Gemsbok_(Oryx_gazella)_male.jpg"
+ },
+ "addax": {
+  "file": "img/addax.jpg",
+  "author": "HaytemBouchri93",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:A_big_male_Addax_showing_as_the_power_of_his_horns.jpg"
+ },
+ "greater-kudu": {
+  "file": "img/greater-kudu.jpg",
+  "author": "L0k1m0nk33 at English Wikipedia",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source": "https://commons.wikimedia.org/wiki/File:Male_greater_kudu.jpg"
+ },
+ "eland": {
+  "file": "img/eland.jpg",
+  "author": "Yathin S Krishnappa",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Taurotragus_oryx_-_young_bull_-_Etosha_2015.jpg"
+ },
+ "sable": {
+  "file": "img/sable.jpg",
+  "author": "Charles J. Sharp",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Sable_antelope_(Hippotragus_niger)_adult_male.jpg"
+ },
+ "roan": {
+  "file": "img/roan.jpg",
+  "author": "Charles J. Sharp",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Roan_antelope_(Hippotragus_equinus_equinus)_Mlilwane.jpg"
+ },
+ "waterbuck": {
+  "file": "img/waterbuck.jpg",
+  "author": "Giles Laurent",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:069_Waterbuck_at_Queen_Elizabeth_National_Park_Photo_by_Giles_Laurent.jpg"
+ },
+ "blue-wildebeest": {
+  "file": "img/blue-wildebeest.jpg",
+  "author": "Charles J. Sharp",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Blue_wildebeest_(Connochaetes_taurinus_taurinus)_male_Namibia.jpg"
+ },
+ "black-wildebeest": {
+  "file": "img/black-wildebeest.jpg",
+  "author": "Bernard DUPONT from FRANCE",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Black_Wildebeest_(Connochaetes_gnou)_(31746882054).jpg"
+ },
+ "giraffe": {
+  "file": "img/giraffe.jpg",
+  "author": "Charles J. Sharp",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Angolan_giraffe_(Giraffa_camelopardalis_angolensis)_female_with_young_2_months.jpg"
+ },
+ "elk": {
+  "file": "img/elk.jpg",
+  "author": "Membeth",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File:Jasper.Wapiti-Hirsch.P1033401.jpg"
+ },
+ "red-deer": {
+  "file": "img/red-deer.jpg",
+  "author": "Lviatour",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Cervus_elaphus_Luc_Viatour_6.jpg"
+ },
+ "mouflon": {
+  "file": "img/mouflon.jpg",
+  "author": "Charles J. Sharp",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Cyprus_mouflon_(Ovis_gmelini_ophion).jpg"
+ },
+ "ibex": {
+  "file": "img/ibex.jpg",
+  "author": "Giles Laurent",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:003_Wild_Alpine_Ibex_Sunset_Creux_du_Van_Mont_Racine_Photo_by_Giles_Laurent.jpg"
+ },
+ "camel-dromedary": {
+  "file": "img/camel-dromedary.jpg",
+  "author": "Garrondo",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Camelcalf-feeding.jpg"
+ },
+ "camel-bactrian": {
+  "file": "img/camel-bactrian.jpg",
+  "author": "Edmart80",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Bactrian_camel_in_Kyzyllkum.jpg"
+ },
+ "grevys-zebra": {
+  "file": "img/grevys-zebra.jpg",
+  "author": "Rainbirder",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Grevy%27s_Zebra_Stallion.jpg"
+ },
+ "plains-zebra": {
+  "file": "img/plains-zebra.jpg",
+  "author": "Joachim Huber 2007-2025 (R.I.P.)",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Equus_quagga.jpg"
+ }
+}

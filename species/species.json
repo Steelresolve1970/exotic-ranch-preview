@@ -1,0 +1,5103 @@
+[
+ {
+  "id": "greater-kudu",
+  "name": "Greater Kudu",
+  "scientific_name": "Tragelaphus strepsiceros",
+  "adw": "Tragelaphus_strepsiceros",
+  "sections": [
+   {
+    "key": "overview",
+    "title": "Overview",
+    "text": "One of the tallest antelopes, with the largest horns in the bushbuck tribe (average ~120 cm).",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "native_range",
+    "title": "Native range",
+    "text": "Eastern and southern Africa.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "size",
+    "title": "Size",
+    "text": "120–315 kg; shoulder height 100–150 cm.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "lifespan",
+    "title": "Lifespan",
+    "text": "~20.8–23 years recorded in captivity.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "gestation",
+    "title": "Breeding & gestation",
+    "text": "About 9 months (ADW range 7–8.7 months); seasonal breeder in southern Africa, calving when grass is high.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "temperament_social",
+    "title": "Temperament & social structure",
+    "text": "Male calves stay with the maternity herd 1.5–2 years; females longer. Adult males are often solitary or in bachelor groups.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "habitat_needs",
+    "title": "Habitat needs",
+    "text": "Savanna/woodland and scrub forest with cover.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "us_regions",
+    "title": "Where they thrive (Texas / US)",
+    "text": "Not verified from a primary source for specific Texas regions.",
+    "cite": []
+   },
+   {
+    "key": "space",
+    "title": "Space per animal",
+    "text": "No verified species-specific stocking rate was found. Carrying capacity depends on rainfall, range condition and competing grazers—get a range/stocking assessment (NRCS or Texas A&M AgriLife).",
+    "cite": []
+   },
+   {
+    "key": "housing_shelter",
+    "title": "Housing & shelter",
+    "text": "Tropical/subtropical species; no verified cold-tolerance threshold was found. Provide windbreaks and shelter in freezes as a precaution.",
+    "cite": []
+   },
+   {
+    "key": "fencing",
+    "title": "Fencing",
+    "text": "Texas Parks & Wildlife states game fences at least 8 ft high (woven-wire or high-tensile) are the only fully reliable deer-exclusion fence. That is the common high-fence standard for deer and antelope; a species-specific minimum for this animal was not found in a primary source.",
+    "cite": [
+     2
+    ]
+   },
+   {
+    "key": "diet",
+    "title": "Natural diet",
+    "text": "Browser (leaves, shoots, pods) with some forbs.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "feed_supplementation",
+    "title": "Feed & supplementation",
+    "text": "No verified species-specific protein % or mineral formula was found. Texas deer guidance (16–20% CP pellet; 13–16% CP for growth/reproduction) is sometimes used as a reference point but is not antelope-specific—work with a ruminant nutritionist/exotic vet.",
+    "cite": [
+     3,
+     4
+    ]
+   },
+   {
+    "key": "health_parasites",
+    "title": "Common health issues & parasites",
+    "text": "Haemonchus contortus and Longistrongylus dominate abomasal worm burdens in free-ranging exotic antelope in Texas (sable, addax, blesbok studied); captive wild ruminants show anthelmintic resistance, so use fecal egg counts and fecal egg-count reduction tests instead of routine blanket deworming.",
+    "cite": [
+     5,
+     6
+    ]
+   },
+   {
+    "key": "vet",
+    "title": "Vet care & vaccination",
+    "text": "No vaccines are labeled for this species in the US; any vaccination protocol is extra-label and should be set by a veterinarian experienced with exotic hoofstock. (No specific protocol was verified for this page.)",
+    "cite": []
+   },
+   {
+    "key": "handling",
+    "title": "Handling & capture",
+    "text": "Capture myopathy—muscle damage from pursuit, restraint and transport—is often fatal in wild ungulates. Minimize chase time and stress, avoid hot conditions, use appropriate chemical immobilization by a vet, and release/unload quickly.",
+    "cite": [
+     7
+    ]
+   },
+   {
+    "key": "conservation",
+    "title": "Conservation status",
+    "text": "IUCN Red List: Least Concern.",
+    "cite": [
+     8
+    ]
+   },
+   {
+    "key": "legal",
+    "title": "Legal notes (general info, not legal advice)",
+    "text": "General information, not legal advice. USDA APHIS licensing under the Animal Welfare Act applies to dealers and exhibitors; check USDA and your state wildlife and animal-health agencies before buying, moving or selling.",
+    "cite": [
+     9,
+     10
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "n": 1,
+    "title": "Animal Diversity Web (Univ. of Michigan) – Tragelaphus strepsiceros",
+    "url": "https://animaldiversity.org/accounts/Tragelaphus_strepsiceros/"
+   },
+   {
+    "n": 2,
+    "title": "TPWD, Local Control Methods (deer damage): 8-ft woven-wire/high-tensile game fence",
+    "url": "https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_1196.pdf"
+   },
+   {
+    "n": 3,
+    "title": "TPWD, Specific Habitat Management Practices – White-tailed Deer (16–20% protein pellet; corn 7–10% CP)",
+    "url": "https://tpwd.texas.gov/landwater/land/private/agricultural_land/stx2010/Appendix%20F%20White-tailed%20Deer.pdf"
+   },
+   {
+    "n": 4,
+    "title": "Tomeček, Texas A&M AgriLife Extension – Deer & goat co-management (6–7% CP maintenance; 13–16% CP growth/antlers/reproduction)",
+    "url": "https://agrilife.org/agrilifesheepandgoat/files/2019/09/5-DeerGoatCoMgmt-Dr.-John-Tomecek.pdf"
+   },
+   {
+    "n": 5,
+    "title": "Longistrongylus/Haemonchus in free-ranging exotic antelope in Texas (J. Wildl. Dis., PubMed 8355363)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8355363/"
+   },
+   {
+    "n": 6,
+    "title": "Anthelmintic activity in captive wild ruminants by fecal egg reduction tests (J. Zoo Wildl. Med. 2000)",
+    "url": "https://doi.org/10.1638/1042-7260(2000)031[0348:eoaaic]2.0.co;2"
+   },
+   {
+    "n": 7,
+    "title": "Breed et al. 2019, Understanding capture myopathy (Conservation Physiology, PMC6612673)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6612673/"
+   },
+   {
+    "n": 8,
+    "title": "IUCN Red List – Tragelaphus strepsiceros (assessment page)",
+    "url": "https://www.iucnredlist.org/species/22054/166487759"
+   },
+   {
+    "n": 9,
+    "title": "TPWD Outdoor Annual – Nongame, Exotic & Other Species (exotic status in Texas)",
+    "url": "https://tpwd.texas.gov/regulations/outdoor-annual/hunting/nongame-and-other-species"
+   },
+   {
+    "n": 10,
+    "title": "USDA APHIS – Animal Welfare Act licensing & registration",
+    "url": "https://www.aphis.usda.gov/awa"
+   }
+  ],
+  "image": {
+   "file": "img/greater-kudu.jpg",
+   "author": "L0k1m0nk33 at English Wikipedia",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://commons.wikimedia.org/wiki/File:Male_greater_kudu.jpg"
+  }
+ },
+ {
+  "id": "sable",
+  "name": "Sable Antelope",
+  "scientific_name": "Hippotragus niger",
+  "adw": "Hippotragus_niger",
+  "sections": [
+   {
+    "key": "overview",
+    "title": "Overview",
+    "text": "Large savanna antelope; males darken to black and develop large curved horns at about 3 years old.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "native_range",
+    "title": "Native range",
+    "text": "East and southern Africa savanna woodlands.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "size",
+    "title": "Size",
+    "text": "220–238 kg (ADW mass range).",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "lifespan",
+    "title": "Lifespan",
+    "text": "Up to 16 years in the wild; over 19 years in captivity.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "gestation",
+    "title": "Breeding & gestation",
+    "text": "8–9 months; single calf, timed for the end of the rains. Females start breeding at ~2.5 years; weaned at ~6 months.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "temperament_social",
+    "title": "Temperament & social structure",
+    "text": "Dominant males defend harems and a territory extending 300–500 m; females form seniority-ranked groups; young males are evicted at 3–4 years and live in bachelor herds until maturity at ~5 years.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "habitat_needs",
+    "title": "Habitat needs",
+    "text": "Savanna woodland.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "us_regions",
+    "title": "Where they thrive (Texas / US)",
+    "text": "Present on Texas ranches; free-ranging sable were among exotic antelope studied in Texas.",
+    "cite": [
+     2
+    ]
+   },
+   {
+    "key": "space",
+    "title": "Space per animal",
+    "text": "No verified species-specific stocking rate was found. Carrying capacity depends on rainfall, range condition and competing grazers—get a range/stocking assessment (NRCS or Texas A&M AgriLife).",
+    "cite": []
+   },
+   {
+    "key": "housing_shelter",
+    "title": "Housing & shelter",
+    "text": "No verified cold-tolerance threshold was found; provide shelter/windbreaks in freezes as a precaution.",
+    "cite": []
+   },
+   {
+    "key": "fencing",
+    "title": "Fencing",
+    "text": "Texas Parks & Wildlife states game fences at least 8 ft high (woven-wire or high-tensile) are the only fully reliable deer-exclusion fence. That is the common high-fence standard for deer and antelope; a species-specific minimum for this animal was not found in a primary source.",
+    "cite": [
+     3
+    ]
+   },
+   {
+    "key": "diet",
+    "title": "Natural diet",
+    "text": "Grazer.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "feed_supplementation",
+    "title": "Feed & supplementation",
+    "text": "No verified species-specific protein % or mineral formula was found. Texas deer guidance (16–20% CP pellet; 13–16% CP for growth/reproduction) is sometimes used as a reference point but is not antelope-specific—work with a ruminant nutritionist/exotic vet.",
+    "cite": [
+     4,
+     5
+    ]
+   },
+   {
+    "key": "health_parasites",
+    "title": "Common health issues & parasites",
+    "text": "Haemonchus contortus and Longistrongylus dominate abomasal worm burdens in free-ranging exotic antelope in Texas (sable, addax, blesbok studied); captive wild ruminants show anthelmintic resistance, so use fecal egg counts and fecal egg-count reduction tests instead of routine blanket deworming.",
+    "cite": [
+     2,
+     6
+    ]
+   },
+   {
+    "key": "vet",
+    "title": "Vet care & vaccination",
+    "text": "No vaccines are labeled for this species in the US; any vaccination protocol is extra-label and should be set by a veterinarian experienced with exotic hoofstock. (No specific protocol was verified for this page.)",
+    "cite": []
+   },
+   {
+    "key": "handling",
+    "title": "Handling & capture",
+    "text": "Capture myopathy—muscle damage from pursuit, restraint and transport—is often fatal in wild ungulates. Minimize chase time and stress, avoid hot conditions, use appropriate chemical immobilization by a vet, and release/unload quickly.",
+    "cite": [
+     7
+    ]
+   },
+   {
+    "key": "conservation",
+    "title": "Conservation status",
+    "text": "IUCN Red List: Least Concern.",
+    "cite": [
+     8
+    ]
+   },
+   {
+    "key": "legal",
+    "title": "Legal notes (general info, not legal advice)",
+    "text": "General information, not legal advice. USDA APHIS licensing under the Animal Welfare Act applies to dealers and exhibitors; check USDA and your state wildlife and animal-health agencies before buying, moving or selling.",
+    "cite": [
+     9
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "n": 1,
+    "title": "Animal Diversity Web (Univ. of Michigan) – Hippotragus niger",
+    "url": "https://animaldiversity.org/accounts/Hippotragus_niger/"
+   },
+   {
+    "n": 2,
+    "title": "Longistrongylus/Haemonchus in free-ranging exotic antelope in Texas (J. Wildl. Dis., PubMed 8355363)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8355363/"
+   },
+   {
+    "n": 3,
+    "title": "TPWD, Local Control Methods (deer damage): 8-ft woven-wire/high-tensile game fence",
+    "url": "https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_1196.pdf"
+   },
+   {
+    "n": 4,
+    "title": "TPWD, Specific Habitat Management Practices – White-tailed Deer (16–20% protein pellet; corn 7–10% CP)",
+    "url": "https://tpwd.texas.gov/landwater/land/private/agricultural_land/stx2010/Appendix%20F%20White-tailed%20Deer.pdf"
+   },
+   {
+    "n": 5,
+    "title": "Tomeček, Texas A&M AgriLife Extension – Deer & goat co-management (6–7% CP maintenance; 13–16% CP growth/antlers/reproduction)",
+    "url": "https://agrilife.org/agrilifesheepandgoat/files/2019/09/5-DeerGoatCoMgmt-Dr.-John-Tomecek.pdf"
+   },
+   {
+    "n": 6,
+    "title": "Anthelmintic activity in captive wild ruminants by fecal egg reduction tests (J. Zoo Wildl. Med. 2000)",
+    "url": "https://doi.org/10.1638/1042-7260(2000)031[0348:eoaaic]2.0.co;2"
+   },
+   {
+    "n": 7,
+    "title": "Breed et al. 2019, Understanding capture myopathy (Conservation Physiology, PMC6612673)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6612673/"
+   },
+   {
+    "n": 8,
+    "title": "IUCN Red List – Hippotragus niger (assessment page)",
+    "url": "https://www.iucnredlist.org/species/10170/50188654"
+   },
+   {
+    "n": 9,
+    "title": "USDA APHIS – Animal Welfare Act licensing & registration",
+    "url": "https://www.aphis.usda.gov/awa"
+   }
+  ],
+  "image": {
+   "file": "img/sable.jpg",
+   "author": "Charles J. Sharp",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sable_antelope_(Hippotragus_niger)_adult_male.jpg"
+  }
+ },
+ {
+  "id": "gemsbok",
+  "name": "Gemsbok (Southern Oryx)",
+  "scientific_name": "Oryx gazella",
+  "adw": "Oryx_gazella",
+  "sections": [
+   {
+    "key": "overview",
+    "title": "Overview",
+    "text": "Large oryx with straight ringed horns 60–150 cm long; introduced into Mexico and the southwestern US.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "native_range",
+    "title": "Native range",
+    "text": "Southern Africa; wooded grassland at ~900–1,200 m elevation and arid areas.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "size",
+    "title": "Size",
+    "text": "Females 180–225 kg, males 180–240 kg; shoulder height 115–125 cm; body length 180–195 cm.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "lifespan",
+    "title": "Lifespan",
+    "text": "~18 years wild; 20–22 years captive.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "gestation",
+    "title": "Breeding & gestation",
+    "text": "~8.5 months (270 days); calves 9–15 kg at birth; females mature at ~2 years.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "temperament_social",
+    "title": "Temperament & social structure",
+    "text": "Herding antelope; horns are used defensively.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "habitat_needs",
+    "title": "Habitat needs",
+    "text": "Arid adapted: forage plus wild melons/cucumbers can supply all water needed (~3 L per 100 kg body weight daily).",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "us_regions",
+    "title": "Where they thrive (Texas / US)",
+    "text": "INFERRED only: desert-adapted (see Habitat needs), so the arid Trans-Pecos/Chihuahuan Desert is the closest climate match; no Texas county distribution data found. See the interactive Texas species map (../site/map.html).",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "space",
+    "title": "Space per animal",
+    "text": "No verified species-specific stocking rate was found. Carrying capacity depends on rainfall, range condition and competing grazers—get a range/stocking assessment (NRCS or Texas A&M AgriLife).",
+    "cite": []
+   },
+   {
+    "key": "housing_shelter",
+    "title": "Housing & shelter",
+    "text": "No verified cold threshold; provide shelter from cold rain as a precaution.",
+    "cite": []
+   },
+   {
+    "key": "fencing",
+    "title": "Fencing",
+    "text": "Texas Parks & Wildlife states game fences at least 8 ft high (woven-wire or high-tensile) are the only fully reliable deer-exclusion fence. That is the common high-fence standard for deer and antelope; a species-specific minimum for this animal was not found in a primary source.",
+    "cite": [
+     2
+    ]
+   },
+   {
+    "key": "diet",
+    "title": "Natural diet",
+    "text": "Grasses and browse plus water-rich melons and tubers.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "feed_supplementation",
+    "title": "Feed & supplementation",
+    "text": "No verified species-specific protein % or mineral formula was found. Texas deer guidance (16–20% CP pellet; 13–16% CP for growth/reproduction) is sometimes used as a reference point but is not antelope-specific—work with a ruminant nutritionist/exotic vet.",
+    "cite": [
+     3,
+     4
+    ]
+   },
+   {
+    "key": "health_parasites",
+    "title": "Common health issues & parasites",
+    "text": "Haemonchus contortus and Longistrongylus dominate abomasal worm burdens in free-ranging exotic antelope in Texas (sable, addax, blesbok studied); captive wild ruminants show anthelmintic resistance, so use fecal egg counts and fecal egg-count reduction tests instead of routine blanket deworming.",
+    "cite": [
+     5,
+     6
+    ]
+   },
+   {
+    "key": "vet",
+    "title": "Vet care & vaccination",
+    "text": "No vaccines are labeled for this species in the US; any vaccination protocol is extra-label and should be set by a veterinarian experienced with exotic hoofstock. (No specific protocol was verified for this page.)",
+    "cite": []
+   },
+   {
+    "key": "handling",
+    "title": "Handling & capture",
+    "text": "Capture myopathy—muscle damage from pursuit, restraint and transport—is often fatal in wild ungulates. Minimize chase time and stress, avoid hot conditions, use appropriate chemical immobilization by a vet, and release/unload quickly.",
+    "cite": [
+     7
+    ]
+   },
+   {
+    "key": "conservation",
+    "title": "Conservation status",
+    "text": "IUCN Red List: Least Concern.",
+    "cite": [
+     8
+    ]
+   },
+   {
+    "key": "legal",
+    "title": "Legal notes (general info, not legal advice)",
+    "text": "General information, not legal advice. USDA APHIS licensing under the Animal Welfare Act applies to dealers and exhibitors; check USDA and your state wildlife and animal-health agencies before buying, moving or selling.",
+    "cite": [
+     9
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "n": 1,
+    "title": "Animal Diversity Web (Univ. of Michigan) – Oryx gazella",
+    "url": "https://animaldiversity.org/accounts/Oryx_gazella/"
+   },
+   {
+    "n": 2,
+    "title": "TPWD, Local Control Methods (deer damage): 8-ft woven-wire/high-tensile game fence",
+    "url": "https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_1196.pdf"
+   },
+   {
+    "n": 3,
+    "title": "TPWD, Specific Habitat Management Practices – White-tailed Deer (16–20% protein pellet; corn 7–10% CP)",
+    "url": "https://tpwd.texas.gov/landwater/land/private/agricultural_land/stx2010/Appendix%20F%20White-tailed%20Deer.pdf"
+   },
+   {
+    "n": 4,
+    "title": "Tomeček, Texas A&M AgriLife Extension – Deer & goat co-management (6–7% CP maintenance; 13–16% CP growth/antlers/reproduction)",
+    "url": "https://agrilife.org/agrilifesheepandgoat/files/2019/09/5-DeerGoatCoMgmt-Dr.-John-Tomecek.pdf"
+   },
+   {
+    "n": 5,
+    "title": "Longistrongylus/Haemonchus in free-ranging exotic antelope in Texas (J. Wildl. Dis., PubMed 8355363)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8355363/"
+   },
+   {
+    "n": 6,
+    "title": "Anthelmintic activity in captive wild ruminants by fecal egg reduction tests (J. Zoo Wildl. Med. 2000)",
+    "url": "https://doi.org/10.1638/1042-7260(2000)031[0348:eoaaic]2.0.co;2"
+   },
+   {
+    "n": 7,
+    "title": "Breed et al. 2019, Understanding capture myopathy (Conservation Physiology, PMC6612673)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6612673/"
+   },
+   {
+    "n": 8,
+    "title": "IUCN Red List – Oryx gazella (assessment page)",
+    "url": "https://www.iucnredlist.org/species/15573/166485425"
+   },
+   {
+    "n": 9,
+    "title": "USDA APHIS – Animal Welfare Act licensing & registration",
+    "url": "https://www.aphis.usda.gov/awa"
+   }
+  ],
+  "image": {
+   "file": "img/gemsbok.jpg",
+   "author": "Charles J. Sharp",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Gemsbok_(Oryx_gazella)_male.jpg"
+  }
+ },
+ {
+  "id": "giraffe",
+  "name": "Giraffe",
+  "scientific_name": "Giraffa camelopardalis",
+  "adw": "Giraffa_camelopardalis",
+  "sections": [
+   {
+    "key": "overview",
+    "title": "Overview",
+    "text": "Tallest land animal; needs specialist husbandry, especially for cold weather.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "native_range",
+    "title": "Native range",
+    "text": "Sub-Saharan Africa.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "size",
+    "title": "Size",
+    "text": "Bulls up to 1,930 kg, cows up to 1,180 kg; 4.7–5.7 m tall; calves 50–55 kg.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "lifespan",
+    "title": "Lifespan",
+    "text": "10–15 years wild; 20–25 years captive (record 27).",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "gestation",
+    "title": "Breeding & gestation",
+    "text": "~457 days (range 400–468); females breed every 20–30 months; weaning 12–16 months.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "temperament_social",
+    "title": "Temperament & social structure",
+    "text": "Loose herds; females mature at 3–4 years, males breed from ~7 years.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "habitat_needs",
+    "title": "Habitat needs",
+    "text": "Open savanna/woodland with browse.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "us_regions",
+    "title": "Where they thrive (Texas / US)",
+    "text": "Suitable anywhere in Texas only with a heated barn: AZA/USDA call for heated housing when temperatures average below 50 °F (inference: this occurs statewide in winter). See the interactive Texas species map (../site/map.html).",
+    "cite": [
+     2,
+     3
+    ]
+   },
+   {
+    "key": "space",
+    "title": "Space per animal",
+    "text": "No verified species-specific stocking rate was found. Carrying capacity depends on rainfall, range condition and competing grazers—get a range/stocking assessment (NRCS or Texas A&M AgriLife).",
+    "cite": []
+   },
+   {
+    "key": "housing_shelter",
+    "title": "Housing & shelter",
+    "text": "AZA: when average daily temperatures fall below 10 °C (50 °F), provide heated housing that holds at least 18 °C (65 °F), with areas near 24 °C (75 °F); measure at chest height of the smallest giraffe. USDA recommends keeping giraffes indoors in cold, inclement weather; a giraffe died in a drafty barn that was ~70°F up high but 45°F lower down. Acclimatized giraffes tolerate heat up to 49 °C (120 °F) with shade.",
+    "cite": [
+     2,
+     3
+    ]
+   },
+   {
+    "key": "fencing",
+    "title": "Fencing",
+    "text": "Follow the AZA Giraffe Care Manual for barrier and barn design; no ranch fence-height figure was verified for this page.",
+    "cite": [
+     2
+    ]
+   },
+   {
+    "key": "diet",
+    "title": "Natural diet",
+    "text": "Browser; an adult male can eat up to 66 kg of food per day, surviving on ~7 kg in poor areas.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "feed_supplementation",
+    "title": "Feed & supplementation",
+    "text": "Follow the AZA Giraffe Care Manual nutrition chapter; no protein % was verified for this page.",
+    "cite": [
+     2
+    ]
+   },
+   {
+    "key": "health_parasites",
+    "title": "Common health issues & parasites",
+    "text": "Cold stress/hypothermia is a major documented killer; once chilled, a giraffe struggles to regain body temperature without an outside heat source, and its immune system is compromised. Calves and juveniles are at greatest risk.",
+    "cite": [
+     3
+    ]
+   },
+   {
+    "key": "vet",
+    "title": "Vet care & vaccination",
+    "text": "No vaccines are labeled for this species in the US; any vaccination protocol is extra-label and should be set by a veterinarian experienced with exotic hoofstock. (No specific protocol was verified for this page.)",
+    "cite": []
+   },
+   {
+    "key": "handling",
+    "title": "Handling & capture",
+    "text": "Capture myopathy—muscle damage from pursuit, restraint and transport—is often fatal in wild ungulates. Minimize chase time and stress, avoid hot conditions, use appropriate chemical immobilization by a vet, and release/unload quickly.",
+    "cite": [
+     4
+    ]
+   },
+   {
+    "key": "conservation",
+    "title": "Conservation status",
+    "text": "IUCN Red List: Vulnerable.",
+    "cite": [
+     5
+    ]
+   },
+   {
+    "key": "legal",
+    "title": "Legal notes (general info, not legal advice)",
+    "text": "A USDA AWA exhibitor license is required if exhibited to the public. General information, not legal advice. USDA APHIS licensing under the Animal Welfare Act applies to dealers and exhibitors; check USDA and your state wildlife and animal-health agencies before buying, moving or selling.",
+    "cite": [
+     6
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "n": 1,
+    "title": "Animal Diversity Web (Univ. of Michigan) – Giraffa camelopardalis",
+    "url": "https://animaldiversity.org/accounts/Giraffa_camelopardalis/"
+   },
+   {
+    "n": 2,
+    "title": "AZA Giraffe Care Manual (2025)",
+    "url": "https://assets.speakcdn.com/assets/2332/aza_giraffe_care_manual.pdf"
+   },
+   {
+    "n": 3,
+    "title": "USDA Animal Care tech note – Proper Giraffe Care in Cold Weather",
+    "url": "https://nationalawa.org/files/tech-note-giraffes-in-the-cold.pdf"
+   },
+   {
+    "n": 4,
+    "title": "Breed et al. 2019, Understanding capture myopathy (Conservation Physiology, PMC6612673)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6612673/"
+   },
+   {
+    "n": 5,
+    "title": "IUCN Red List – Giraffa camelopardalis (assessment page)",
+    "url": "https://www.iucnredlist.org/species/9194/136266699"
+   },
+   {
+    "n": 6,
+    "title": "USDA APHIS – Animal Welfare Act licensing & registration",
+    "url": "https://www.aphis.usda.gov/awa"
+   }
+  ],
+  "image": {
+   "file": "img/giraffe.jpg",
+   "author": "Charles J. Sharp",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Angolan_giraffe_(Giraffa_camelopardalis_angolensis)_female_with_young_2_months.jpg"
+  }
+ },
+ {
+  "id": "camel-dromedary",
+  "name": "Dromedary Camel",
+  "scientific_name": "Camelus dromedarius",
+  "adw": "Camelus_dromedarius",
+  "sections": [
+   {
+    "key": "overview",
+    "title": "Overview",
+    "text": "One-humped domesticated camel, highly adapted to heat and water scarcity.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "native_range",
+    "title": "Native range",
+    "text": "Domesticated; no wild population. Kept across North Africa, the Middle East and beyond.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "size",
+    "title": "Size",
+    "text": "300–690 kg; males ~10% heavier than females (males 400–600 kg).",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "lifespan",
+    "title": "Lifespan",
+    "text": "40–50 years in captivity (max ~50).",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "gestation",
+    "title": "Breeding & gestation",
+    "text": "370–440 days.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "temperament_social",
+    "title": "Temperament & social structure",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "habitat_needs",
+    "title": "Habitat needs",
+    "text": "Hot, dry climates. Tolerates >30% water loss and can drink ~100 L in 10 minutes; body temperature varies daily from ~34 °C to 41 °C to save water.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "us_regions",
+    "title": "Where they thrive (Texas / US)",
+    "text": "INFERRED only: desert-adapted (see Habitat needs), so the arid Trans-Pecos/Chihuahuan Desert is the closest climate match; no Texas county distribution data found. See the interactive Texas species map (../site/map.html).",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "space",
+    "title": "Space per animal",
+    "text": "Scottish DWA guidance (minimum, zoo/licence context): one camel ≥5×10 m; one male + two females ≥10×20 m. Pasture-kept animals need far more.",
+    "cite": [
+     2
+    ]
+   },
+   {
+    "key": "housing_shelter",
+    "title": "Housing & shelter",
+    "text": "Provide a shelter large enough for all animals, sited against the worst prevailing weather, plus shade through all daylight hours; lockable shelter recommended.",
+    "cite": [
+     2,
+     3
+    ]
+   },
+   {
+    "key": "fencing",
+    "title": "Fencing",
+    "text": "Wire mesh, visible high-tensile wire or post-and-rail at least 1.9 m (6 ft); mesh must not entangle heads or legs; barbed wire is not appropriate.",
+    "cite": [
+     2
+    ]
+   },
+   {
+    "key": "diet",
+    "title": "Natural diet",
+    "text": "Not verified in detail for this page; consult the husbandry manual.",
+    "cite": [
+     3
+    ]
+   },
+   {
+    "key": "feed_supplementation",
+    "title": "Feed & supplementation",
+    "text": "No verified protein/mineral figures for this page.",
+    "cite": []
+   },
+   {
+    "key": "health_parasites",
+    "title": "Common health issues & parasites",
+    "text": "No verified species-specific list for this page; work with a camelid vet.",
+    "cite": []
+   },
+   {
+    "key": "vet",
+    "title": "Vet care & vaccination",
+    "text": "No vaccines are labeled for this species in the US; any vaccination protocol is extra-label and should be set by a veterinarian experienced with exotic hoofstock. (No specific protocol was verified for this page.)",
+    "cite": []
+   },
+   {
+    "key": "handling",
+    "title": "Handling & capture",
+    "text": "Not verified for this page; camels are large and can be dangerous—use experienced handlers.",
+    "cite": [
+     2
+    ]
+   },
+   {
+    "key": "conservation",
+    "title": "Conservation status",
+    "text": "IUCN Red List: Not assessed as a wild species (domesticated; no wild population).",
+    "cite": []
+   },
+   {
+    "key": "legal",
+    "title": "Legal notes (general info, not legal advice)",
+    "text": "Camels are listed under the UK Dangerous Wild Animals regime, a sign of handling risk; US state rules vary. General information, not legal advice. USDA APHIS licensing under the Animal Welfare Act applies to dealers and exhibitors; check USDA and your state wildlife and animal-health agencies before buying, moving or selling.",
+    "cite": [
+     2,
+     4
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "n": 1,
+    "title": "Animal Diversity Web (Univ. of Michigan) – Camelus dromedarius",
+    "url": "https://animaldiversity.org/accounts/Camelus_dromedarius/"
+   },
+   {
+    "n": 2,
+    "title": "Scottish Government – Dangerous Wild Animals species guidance: Camels (fence ≥1.9 m, no barbed wire, enclosure guide)",
+    "url": "https://www.gov.scot/publications/dangerous-wild-animals-species-guidance/pages/camels/"
+   },
+   {
+    "n": 3,
+    "title": "Arabian Camel husbandry manual (NSW Fauna & Marine Parks Assoc.) – shelter/shade",
+    "url": "https://nswfmpa.org/Husbandry%20Manuals/Published%20Manuals/Mammalia/Arabian%20Camel.pdf"
+   },
+   {
+    "n": 4,
+    "title": "USDA APHIS – Animal Welfare Act licensing & registration",
+    "url": "https://www.aphis.usda.gov/awa"
+   }
+  ],
+  "image": {
+   "file": "img/camel-dromedary.jpg",
+   "author": "Garrondo",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Camelcalf-feeding.jpg"
+  }
+ },
+ {
+  "id": "camel-bactrian",
+  "name": "Bactrian Camel",
+  "scientific_name": "Camelus bactrianus",
+  "adw": "Camelus_bactrianus",
+  "sections": [
+   {
+    "key": "overview",
+    "title": "Overview",
+    "text": "Two-humped camel of Central Asian deserts with a heavy coat shed seasonally.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "native_range",
+    "title": "Native range",
+    "text": "Central Asia (Gobi and steppe deserts); the wild Bactrian camel (C. ferus) is a separate, endangered species.",
+    "cite": [
+     1,
+     2
+    ]
+   },
+   {
+    "key": "size",
+    "title": "Size",
+    "text": "300–690 kg; calves ~37 kg and mobile within 24 hours.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "lifespan",
+    "title": "Lifespan",
+    "text": "Average ~30 years wild (up to 50); ~35 years recorded in captivity.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "gestation",
+    "title": "Breeding & gestation",
+    "text": "360–440 days.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "temperament_social",
+    "title": "Temperament & social structure",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "habitat_needs",
+    "title": "Habitat needs",
+    "text": "Built for extreme seasonal desert temperatures: sheds its heavy coat with the seasons and tolerates a 6 °C rise in body temperature before sweating.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "us_regions",
+    "title": "Where they thrive (Texas / US)",
+    "text": "Coat and climate adaptation suggest better cold tolerance than dromedaries; no verified US region guidance found.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "space",
+    "title": "Space per animal",
+    "text": "Scottish DWA guidance (minimum): one camel ≥5×10 m; one male + two females ≥10×20 m.",
+    "cite": [
+     3
+    ]
+   },
+   {
+    "key": "housing_shelter",
+    "title": "Housing & shelter",
+    "text": "Shelter for all animals sited against prevailing weather; lockable shelter recommended.",
+    "cite": [
+     3
+    ]
+   },
+   {
+    "key": "fencing",
+    "title": "Fencing",
+    "text": "At least 1.9 m (6 ft) mesh, visible high-tensile or post-and-rail; no barbed wire.",
+    "cite": [
+     3
+    ]
+   },
+   {
+    "key": "diet",
+    "title": "Natural diet",
+    "text": "Not verified in detail for this page.",
+    "cite": []
+   },
+   {
+    "key": "feed_supplementation",
+    "title": "Feed & supplementation",
+    "text": "No verified protein/mineral figures for this page.",
+    "cite": []
+   },
+   {
+    "key": "health_parasites",
+    "title": "Common health issues & parasites",
+    "text": "No verified species-specific list for this page; work with a camelid vet.",
+    "cite": []
+   },
+   {
+    "key": "vet",
+    "title": "Vet care & vaccination",
+    "text": "No vaccines are labeled for this species in the US; any vaccination protocol is extra-label and should be set by a veterinarian experienced with exotic hoofstock. (No specific protocol was verified for this page.)",
+    "cite": []
+   },
+   {
+    "key": "handling",
+    "title": "Handling & capture",
+    "text": "Not verified for this page; use experienced handlers.",
+    "cite": [
+     3
+    ]
+   },
+   {
+    "key": "conservation",
+    "title": "Conservation status",
+    "text": "IUCN Red List: EN (wild Bactrian camel, Camelus ferus); domestic Bactrian not separately assessed.",
+    "cite": [
+     2
+    ]
+   },
+   {
+    "key": "legal",
+    "title": "Legal notes (general info, not legal advice)",
+    "text": "General information, not legal advice. USDA APHIS licensing under the Animal Welfare Act applies to dealers and exhibitors; check USDA and your state wildlife and animal-health agencies before buying, moving or selling.",
+    "cite": [
+     3,
+     4
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "n": 1,
+    "title": "Animal Diversity Web (Univ. of Michigan) – Camelus bactrianus",
+    "url": "https://animaldiversity.org/accounts/Camelus_bactrianus/"
+   },
+   {
+    "n": 2,
+    "title": "IUCN Red List – Camelus bactrianus (assessment page)",
+    "url": "https://www.iucnredlist.org/species/63543/50197851"
+   },
+   {
+    "n": 3,
+    "title": "Scottish Government – Dangerous Wild Animals species guidance: Camels (fence ≥1.9 m, no barbed wire, enclosure guide)",
+    "url": "https://www.gov.scot/publications/dangerous-wild-animals-species-guidance/pages/camels/"
+   },
+   {
+    "n": 4,
+    "title": "USDA APHIS – Animal Welfare Act licensing & registration",
+    "url": "https://www.aphis.usda.gov/awa"
+   }
+  ],
+  "image": {
+   "file": "img/camel-bactrian.jpg",
+   "author": "Edmart80",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bactrian_camel_in_Kyzyllkum.jpg"
+  }
+ },
+ {
+  "id": "axis-deer",
+  "name": "Axis Deer (Chital)",
+  "scientific_name": "Axis axis",
+  "adw": "Axis_axis",
+  "sections": [
+   {
+    "key": "overview",
+    "title": "Overview",
+    "text": "Spotted deer introduced to Texas and Hawaii; important for hunting in the US.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "native_range",
+    "title": "Native range",
+    "text": "India, Nepal, Sri Lanka; introduced to Texas and Hawaii.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "size",
+    "title": "Size",
+    "text": "27–45 kg (ADW range).",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "lifespan",
+    "title": "Lifespan",
+    "text": "15–20.8 years recorded in captivity.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "gestation",
+    "title": "Breeding & gestation",
+    "text": "~7.5 months (226 days); ADW notes breeding in April–May; first pregnancies at 14–17 months.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "temperament_social",
+    "title": "Temperament & social structure",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "habitat_needs",
+    "title": "Habitat needs",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "us_regions",
+    "title": "Where they thrive (Texas / US)",
+    "text": "Documented free-ranging in major portions of Kerr, Bandera, Edwards and Real counties (Edwards Plateau/Hill Country). TPWD's 1988 survey found axis confined on 293 ranches in 92 counties plus free-ranging in 2 more (counties not named). See the interactive Texas species map (../site/map.html).",
+    "cite": [
+     2,
+     3
+    ]
+   },
+   {
+    "key": "space",
+    "title": "Space per animal",
+    "text": "No verified species-specific stocking rate was found. Carrying capacity depends on rainfall, range condition and competing grazers—get a range/stocking assessment (NRCS or Texas A&M AgriLife).",
+    "cite": []
+   },
+   {
+    "key": "housing_shelter",
+    "title": "Housing & shelter",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "fencing",
+    "title": "Fencing",
+    "text": "Texas Parks & Wildlife states game fences at least 8 ft high (woven-wire or high-tensile) are the only fully reliable deer-exclusion fence. That is the common high-fence standard for deer and antelope; a species-specific minimum for this animal was not found in a primary source.",
+    "cite": [
+     4
+    ]
+   },
+   {
+    "key": "diet",
+    "title": "Natural diet",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "feed_supplementation",
+    "title": "Feed & supplementation",
+    "text": "For supplementation TPWD recommends a 16–20% crude-protein pelleted feed rather than corn (corn is only 7–10% CP). AgriLife cites ~6–7% CP for rumen maintenance and 13–16% CP for growth, antler production and reproduction (white-tailed deer data; applied to exotic deer by analogy). Mineral program: set with a nutritionist/vet; no verified species figure.",
+    "cite": [
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "key": "health_parasites",
+    "title": "Common health issues & parasites",
+    "text": "Haemonchus contortus and Longistrongylus dominate abomasal worm burdens in free-ranging exotic antelope in Texas (sable, addax, blesbok studied); captive wild ruminants show anthelmintic resistance, so use fecal egg counts and fecal egg-count reduction tests instead of routine blanket deworming.",
+    "cite": [
+     8,
+     9
+    ]
+   },
+   {
+    "key": "vet",
+    "title": "Vet care & vaccination",
+    "text": "No vaccines are labeled for this species in the US; any vaccination protocol is extra-label and should be set by a veterinarian experienced with exotic hoofstock. (No specific protocol was verified for this page.)",
+    "cite": []
+   },
+   {
+    "key": "handling",
+    "title": "Handling & capture",
+    "text": "Capture myopathy—muscle damage from pursuit, restraint and transport—is often fatal in wild ungulates. Minimize chase time and stress, avoid hot conditions, use appropriate chemical immobilization by a vet, and release/unload quickly.",
+    "cite": [
+     10
+    ]
+   },
+   {
+    "key": "conservation",
+    "title": "Conservation status",
+    "text": "IUCN Red List: Least Concern.",
+    "cite": [
+     11
+    ]
+   },
+   {
+    "key": "legal",
+    "title": "Legal notes (general info, not legal advice)",
+    "text": "General information, not legal advice. USDA APHIS licensing under the Animal Welfare Act applies to dealers and exhibitors; check USDA and your state wildlife and animal-health agencies before buying, moving or selling.",
+    "cite": [
+     12,
+     13
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "n": 1,
+    "title": "Animal Diversity Web (Univ. of Michigan) – Axis axis",
+    "url": "https://animaldiversity.org/accounts/Axis_axis/"
+   },
+   {
+    "n": 2,
+    "title": "TPWD Kerr WMA – Exotic game research",
+    "url": "https://tpwd.texas.gov/huntwild/hunt/wma/wildlife_management/kerr_wma/research/invasives-exotics-pigs.phtml"
+   },
+   {
+    "n": 3,
+    "title": "TPWD, Exotics in Texas (1988 statewide survey summary)",
+    "url": "https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_0206.pdf"
+   },
+   {
+    "n": 4,
+    "title": "TPWD, Local Control Methods (deer damage): 8-ft woven-wire/high-tensile game fence",
+    "url": "https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_1196.pdf"
+   },
+   {
+    "n": 5,
+    "title": "TPWD, Specific Habitat Management Practices – White-tailed Deer (16–20% protein pellet; corn 7–10% CP)",
+    "url": "https://tpwd.texas.gov/landwater/land/private/agricultural_land/stx2010/Appendix%20F%20White-tailed%20Deer.pdf"
+   },
+   {
+    "n": 6,
+    "title": "Tomeček, Texas A&M AgriLife Extension – Deer & goat co-management (6–7% CP maintenance; 13–16% CP growth/antlers/reproduction)",
+    "url": "https://agrilife.org/agrilifesheepandgoat/files/2019/09/5-DeerGoatCoMgmt-Dr.-John-Tomecek.pdf"
+   },
+   {
+    "n": 7,
+    "title": "Texas A&M AgriLife – Supplemental Feeding of White-tailed Deer",
+    "url": "https://mytexas.ag.tamu.edu/publications/supplemental-feeding-of-white-tailed-deer/"
+   },
+   {
+    "n": 8,
+    "title": "Longistrongylus/Haemonchus in free-ranging exotic antelope in Texas (J. Wildl. Dis., PubMed 8355363)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8355363/"
+   },
+   {
+    "n": 9,
+    "title": "Anthelmintic activity in captive wild ruminants by fecal egg reduction tests (J. Zoo Wildl. Med. 2000)",
+    "url": "https://doi.org/10.1638/1042-7260(2000)031[0348:eoaaic]2.0.co;2"
+   },
+   {
+    "n": 10,
+    "title": "Breed et al. 2019, Understanding capture myopathy (Conservation Physiology, PMC6612673)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6612673/"
+   },
+   {
+    "n": 11,
+    "title": "IUCN Red List – Axis axis (assessment page)",
+    "url": "https://www.iucnredlist.org/species/41783/22158006"
+   },
+   {
+    "n": 12,
+    "title": "TPWD Outdoor Annual – Nongame, Exotic & Other Species (exotic status in Texas)",
+    "url": "https://tpwd.texas.gov/regulations/outdoor-annual/hunting/nongame-and-other-species"
+   },
+   {
+    "n": 13,
+    "title": "USDA APHIS – Animal Welfare Act licensing & registration",
+    "url": "https://www.aphis.usda.gov/awa"
+   }
+  ],
+  "image": {
+   "file": "img/axis-deer.jpg",
+   "author": "Giles Laurent",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:066_Chital_in_Ranthambore_National_Park_Photo_by_Giles_Laurent.jpg"
+  }
+ },
+ {
+  "id": "fallow-deer",
+  "name": "Fallow Deer",
+  "scientific_name": "Dama dama",
+  "adw": "Dama_dama",
+  "sections": [
+   {
+    "key": "overview",
+    "title": "Overview",
+    "text": "See native range and biology below.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "native_range",
+    "title": "Native range",
+    "text": "Native to Eurasia; introduced to 38 countries.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "size",
+    "title": "Size",
+    "text": "Males 46–80 kg (avg 67), females 30–50 kg (avg 44).",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "lifespan",
+    "title": "Lifespan",
+    "text": "Typically 20–25 years in captivity.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "gestation",
+    "title": "Breeding & gestation",
+    "text": "231–245 days; one fawn; rut Sept–Jan (N. Hemisphere); females first conceive ~16 months.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "temperament_social",
+    "title": "Temperament & social structure",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "habitat_needs",
+    "title": "Habitat needs",
+    "text": "Lives in climates from cool-humid to warm-dry.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "us_regions",
+    "title": "Where they thrive (Texas / US)",
+    "text": "Documented free-ranging in major portions of Kerr, Bandera, Edwards and Real counties (Edwards Plateau/Hill Country). 1988 survey: confined on 268 ranches in 92 counties. See the interactive Texas species map (../site/map.html).",
+    "cite": [
+     2,
+     3
+    ]
+   },
+   {
+    "key": "space",
+    "title": "Space per animal",
+    "text": "No verified species-specific stocking rate was found. Carrying capacity depends on rainfall, range condition and competing grazers—get a range/stocking assessment (NRCS or Texas A&M AgriLife).",
+    "cite": []
+   },
+   {
+    "key": "housing_shelter",
+    "title": "Housing & shelter",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "fencing",
+    "title": "Fencing",
+    "text": "Texas Parks & Wildlife states game fences at least 8 ft high (woven-wire or high-tensile) are the only fully reliable deer-exclusion fence. That is the common high-fence standard for deer and antelope; a species-specific minimum for this animal was not found in a primary source.",
+    "cite": [
+     4
+    ]
+   },
+   {
+    "key": "diet",
+    "title": "Natural diet",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "feed_supplementation",
+    "title": "Feed & supplementation",
+    "text": "For supplementation TPWD recommends a 16–20% crude-protein pelleted feed rather than corn (corn is only 7–10% CP). AgriLife cites ~6–7% CP for rumen maintenance and 13–16% CP for growth, antler production and reproduction (white-tailed deer data; applied to exotic deer by analogy). Mineral program: set with a nutritionist/vet; no verified species figure.",
+    "cite": [
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "key": "health_parasites",
+    "title": "Common health issues & parasites",
+    "text": "Haemonchus contortus and Longistrongylus dominate abomasal worm burdens in free-ranging exotic antelope in Texas (sable, addax, blesbok studied); captive wild ruminants show anthelmintic resistance, so use fecal egg counts and fecal egg-count reduction tests instead of routine blanket deworming.",
+    "cite": [
+     8,
+     9
+    ]
+   },
+   {
+    "key": "vet",
+    "title": "Vet care & vaccination",
+    "text": "No vaccines are labeled for this species in the US; any vaccination protocol is extra-label and should be set by a veterinarian experienced with exotic hoofstock. (No specific protocol was verified for this page.)",
+    "cite": []
+   },
+   {
+    "key": "handling",
+    "title": "Handling & capture",
+    "text": "Capture myopathy—muscle damage from pursuit, restraint and transport—is often fatal in wild ungulates. Minimize chase time and stress, avoid hot conditions, use appropriate chemical immobilization by a vet, and release/unload quickly.",
+    "cite": [
+     10
+    ]
+   },
+   {
+    "key": "conservation",
+    "title": "Conservation status",
+    "text": "IUCN Red List: Least Concern.",
+    "cite": [
+     11
+    ]
+   },
+   {
+    "key": "legal",
+    "title": "Legal notes (general info, not legal advice)",
+    "text": "General information, not legal advice. USDA APHIS licensing under the Animal Welfare Act applies to dealers and exhibitors; check USDA and your state wildlife and animal-health agencies before buying, moving or selling.",
+    "cite": [
+     12,
+     13
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "n": 1,
+    "title": "Animal Diversity Web (Univ. of Michigan) – Dama dama",
+    "url": "https://animaldiversity.org/accounts/Dama_dama/"
+   },
+   {
+    "n": 2,
+    "title": "TPWD Kerr WMA – Exotic game research",
+    "url": "https://tpwd.texas.gov/huntwild/hunt/wma/wildlife_management/kerr_wma/research/invasives-exotics-pigs.phtml"
+   },
+   {
+    "n": 3,
+    "title": "TPWD, Exotics in Texas (1988 statewide survey summary)",
+    "url": "https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_0206.pdf"
+   },
+   {
+    "n": 4,
+    "title": "TPWD, Local Control Methods (deer damage): 8-ft woven-wire/high-tensile game fence",
+    "url": "https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_1196.pdf"
+   },
+   {
+    "n": 5,
+    "title": "TPWD, Specific Habitat Management Practices – White-tailed Deer (16–20% protein pellet; corn 7–10% CP)",
+    "url": "https://tpwd.texas.gov/landwater/land/private/agricultural_land/stx2010/Appendix%20F%20White-tailed%20Deer.pdf"
+   },
+   {
+    "n": 6,
+    "title": "Tomeček, Texas A&M AgriLife Extension – Deer & goat co-management (6–7% CP maintenance; 13–16% CP growth/antlers/reproduction)",
+    "url": "https://agrilife.org/agrilifesheepandgoat/files/2019/09/5-DeerGoatCoMgmt-Dr.-John-Tomecek.pdf"
+   },
+   {
+    "n": 7,
+    "title": "Texas A&M AgriLife – Supplemental Feeding of White-tailed Deer",
+    "url": "https://mytexas.ag.tamu.edu/publications/supplemental-feeding-of-white-tailed-deer/"
+   },
+   {
+    "n": 8,
+    "title": "Longistrongylus/Haemonchus in free-ranging exotic antelope in Texas (J. Wildl. Dis., PubMed 8355363)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8355363/"
+   },
+   {
+    "n": 9,
+    "title": "Anthelmintic activity in captive wild ruminants by fecal egg reduction tests (J. Zoo Wildl. Med. 2000)",
+    "url": "https://doi.org/10.1638/1042-7260(2000)031[0348:eoaaic]2.0.co;2"
+   },
+   {
+    "n": 10,
+    "title": "Breed et al. 2019, Understanding capture myopathy (Conservation Physiology, PMC6612673)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6612673/"
+   },
+   {
+    "n": 11,
+    "title": "IUCN Red List – Dama dama (assessment page)",
+    "url": "https://www.iucnredlist.org/species/42188/10656554"
+   },
+   {
+    "n": 12,
+    "title": "TPWD Outdoor Annual – Nongame, Exotic & Other Species (exotic status in Texas)",
+    "url": "https://tpwd.texas.gov/regulations/outdoor-annual/hunting/nongame-and-other-species"
+   },
+   {
+    "n": 13,
+    "title": "USDA APHIS – Animal Welfare Act licensing & registration",
+    "url": "https://www.aphis.usda.gov/awa"
+   }
+  ],
+  "image": {
+   "file": "img/fallow-deer.jpg",
+   "author": "Dietmar Rabich",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Wildpark_--_2018_--_3762.jpg"
+  }
+ },
+ {
+  "id": "sika-deer",
+  "name": "Sika Deer",
+  "scientific_name": "Cervus nippon",
+  "adw": "Cervus_nippon",
+  "sections": [
+   {
+    "key": "overview",
+    "title": "Overview",
+    "text": "See native range and biology below.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "native_range",
+    "title": "Native range",
+    "text": "East Asia; introduced to Texas, Maryland, Virginia, Oklahoma, Wisconsin and others.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "size",
+    "title": "Size",
+    "text": "Up to ~80 kg (ADW range 4.5–80 kg includes young).",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "lifespan",
+    "title": "Lifespan",
+    "text": "15–18 years typical in captivity; record 25+.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "gestation",
+    "title": "Breeding & gestation",
+    "text": "~7 months (210 days); fall rut (Sept–Oct); single calf May–June.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "temperament_social",
+    "title": "Temperament & social structure",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "habitat_needs",
+    "title": "Habitat needs",
+    "text": "Forest deer preferring dense understory; primarily nocturnal.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "us_regions",
+    "title": "Where they thrive (Texas / US)",
+    "text": "Documented free-ranging in major portions of Kerr, Bandera, Edwards and Real counties (Edwards Plateau/Hill Country). 1988 survey: confined on 207 ranches in 77 counties. See the interactive Texas species map (../site/map.html).",
+    "cite": [
+     2,
+     3
+    ]
+   },
+   {
+    "key": "space",
+    "title": "Space per animal",
+    "text": "No verified species-specific stocking rate was found. Carrying capacity depends on rainfall, range condition and competing grazers—get a range/stocking assessment (NRCS or Texas A&M AgriLife).",
+    "cite": []
+   },
+   {
+    "key": "housing_shelter",
+    "title": "Housing & shelter",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "fencing",
+    "title": "Fencing",
+    "text": "Texas Parks & Wildlife states game fences at least 8 ft high (woven-wire or high-tensile) are the only fully reliable deer-exclusion fence. That is the common high-fence standard for deer and antelope; a species-specific minimum for this animal was not found in a primary source.",
+    "cite": [
+     4
+    ]
+   },
+   {
+    "key": "diet",
+    "title": "Natural diet",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "feed_supplementation",
+    "title": "Feed & supplementation",
+    "text": "For supplementation TPWD recommends a 16–20% crude-protein pelleted feed rather than corn (corn is only 7–10% CP). AgriLife cites ~6–7% CP for rumen maintenance and 13–16% CP for growth, antler production and reproduction (white-tailed deer data; applied to exotic deer by analogy). Mineral program: set with a nutritionist/vet; no verified species figure.",
+    "cite": [
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "key": "health_parasites",
+    "title": "Common health issues & parasites",
+    "text": "Haemonchus contortus and Longistrongylus dominate abomasal worm burdens in free-ranging exotic antelope in Texas (sable, addax, blesbok studied); captive wild ruminants show anthelmintic resistance, so use fecal egg counts and fecal egg-count reduction tests instead of routine blanket deworming.",
+    "cite": [
+     8,
+     9
+    ]
+   },
+   {
+    "key": "vet",
+    "title": "Vet care & vaccination",
+    "text": "No vaccines are labeled for this species in the US; any vaccination protocol is extra-label and should be set by a veterinarian experienced with exotic hoofstock. (No specific protocol was verified for this page.)",
+    "cite": []
+   },
+   {
+    "key": "handling",
+    "title": "Handling & capture",
+    "text": "Capture myopathy—muscle damage from pursuit, restraint and transport—is often fatal in wild ungulates. Minimize chase time and stress, avoid hot conditions, use appropriate chemical immobilization by a vet, and release/unload quickly.",
+    "cite": [
+     10
+    ]
+   },
+   {
+    "key": "conservation",
+    "title": "Conservation status",
+    "text": "IUCN Red List: Least Concern.",
+    "cite": [
+     11
+    ]
+   },
+   {
+    "key": "legal",
+    "title": "Legal notes (general info, not legal advice)",
+    "text": " In Texas, exotic CWD-susceptible species (elk, red deer, sika and others) must carry official ID, have movements reported to TAHC within 48 hours, and eligible mortalities tested; TAHC ended its voluntary CWD Herd Certification Program on Sept 16, 2025. General information, not legal advice. USDA APHIS licensing under the Animal Welfare Act applies to dealers and exhibitors; check USDA and your state wildlife and animal-health agencies before buying, moving or selling.",
+    "cite": [
+     12,
+     13,
+     14,
+     15
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "n": 1,
+    "title": "Animal Diversity Web (Univ. of Michigan) – Cervus nippon",
+    "url": "https://animaldiversity.org/accounts/Cervus_nippon/"
+   },
+   {
+    "n": 2,
+    "title": "TPWD Kerr WMA – Exotic game research",
+    "url": "https://tpwd.texas.gov/huntwild/hunt/wma/wildlife_management/kerr_wma/research/invasives-exotics-pigs.phtml"
+   },
+   {
+    "n": 3,
+    "title": "TPWD, Exotics in Texas (1988 statewide survey summary)",
+    "url": "https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_0206.pdf"
+   },
+   {
+    "n": 4,
+    "title": "TPWD, Local Control Methods (deer damage): 8-ft woven-wire/high-tensile game fence",
+    "url": "https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_1196.pdf"
+   },
+   {
+    "n": 5,
+    "title": "TPWD, Specific Habitat Management Practices – White-tailed Deer (16–20% protein pellet; corn 7–10% CP)",
+    "url": "https://tpwd.texas.gov/landwater/land/private/agricultural_land/stx2010/Appendix%20F%20White-tailed%20Deer.pdf"
+   },
+   {
+    "n": 6,
+    "title": "Tomeček, Texas A&M AgriLife Extension – Deer & goat co-management (6–7% CP maintenance; 13–16% CP growth/antlers/reproduction)",
+    "url": "https://agrilife.org/agrilifesheepandgoat/files/2019/09/5-DeerGoatCoMgmt-Dr.-John-Tomecek.pdf"
+   },
+   {
+    "n": 7,
+    "title": "Texas A&M AgriLife – Supplemental Feeding of White-tailed Deer",
+    "url": "https://mytexas.ag.tamu.edu/publications/supplemental-feeding-of-white-tailed-deer/"
+   },
+   {
+    "n": 8,
+    "title": "Longistrongylus/Haemonchus in free-ranging exotic antelope in Texas (J. Wildl. Dis., PubMed 8355363)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8355363/"
+   },
+   {
+    "n": 9,
+    "title": "Anthelmintic activity in captive wild ruminants by fecal egg reduction tests (J. Zoo Wildl. Med. 2000)",
+    "url": "https://doi.org/10.1638/1042-7260(2000)031[0348:eoaaic]2.0.co;2"
+   },
+   {
+    "n": 10,
+    "title": "Breed et al. 2019, Understanding capture myopathy (Conservation Physiology, PMC6612673)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6612673/"
+   },
+   {
+    "n": 11,
+    "title": "IUCN Red List – Cervus nippon (assessment page)",
+    "url": "https://www.iucnredlist.org/species/41788/22155877"
+   },
+   {
+    "n": 12,
+    "title": "TAHC – Chronic Wasting Disease & exotic CWD-susceptible species",
+    "url": "https://www.tahc.texas.gov/animal_health/elk-deer/"
+   },
+   {
+    "n": 13,
+    "title": "TAHC Complete Rules (4 TAC Part 2; Ch. 40 CWD §40.5 movement/ID/reporting; Ch. 41 Fever Ticks)",
+    "url": "https://www.tahc.texas.gov/regs/pdf/TAHCCompleteRules.pdf"
+   },
+   {
+    "n": 14,
+    "title": "TPWD Outdoor Annual – Nongame, Exotic & Other Species (exotic status in Texas)",
+    "url": "https://tpwd.texas.gov/regulations/outdoor-annual/hunting/nongame-and-other-species"
+   },
+   {
+    "n": 15,
+    "title": "USDA APHIS – Animal Welfare Act licensing & registration",
+    "url": "https://www.aphis.usda.gov/awa"
+   }
+  ],
+  "image": {
+   "file": "img/sika-deer.jpg",
+   "author": "Lilly M",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cervus_nippon_002.jpg"
+  }
+ },
+ {
+  "id": "blackbuck",
+  "name": "Blackbuck",
+  "scientific_name": "Antilope cervicapra",
+  "adw": "Antilope_cervicapra",
+  "sections": [
+   {
+    "key": "overview",
+    "title": "Overview",
+    "text": "See native range and biology below.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "native_range",
+    "title": "Native range",
+    "text": "India and Nepal.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "size",
+    "title": "Size",
+    "text": "32–43 kg; bucks 73.7–83.8 cm at shoulder; horns 50–61 cm (males only).",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "lifespan",
+    "title": "Lifespan",
+    "text": "~15 years.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "gestation",
+    "title": "Breeding & gestation",
+    "text": "~5–6 months; single young; mating year-round with rut peaks Mar–Apr and Aug–Oct.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "temperament_social",
+    "title": "Temperament & social structure",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "habitat_needs",
+    "title": "Habitat needs",
+    "text": "Savanna/grassland.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "us_regions",
+    "title": "Where they thrive (Texas / US)",
+    "text": "1988 survey: confined on 326 ranches in 86 counties (not named); free-ranging blackbuck were only 0.4% of free-ranging exotics. See the interactive Texas species map (../site/map.html).",
+    "cite": [
+     2
+    ]
+   },
+   {
+    "key": "space",
+    "title": "Space per animal",
+    "text": "No verified species-specific stocking rate was found. Carrying capacity depends on rainfall, range condition and competing grazers—get a range/stocking assessment (NRCS or Texas A&M AgriLife).",
+    "cite": []
+   },
+   {
+    "key": "housing_shelter",
+    "title": "Housing & shelter",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "fencing",
+    "title": "Fencing",
+    "text": "Texas Parks & Wildlife states game fences at least 8 ft high (woven-wire or high-tensile) are the only fully reliable deer-exclusion fence. That is the common high-fence standard for deer and antelope; a species-specific minimum for this animal was not found in a primary source.",
+    "cite": [
+     3
+    ]
+   },
+   {
+    "key": "diet",
+    "title": "Natural diet",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "feed_supplementation",
+    "title": "Feed & supplementation",
+    "text": "No verified species-specific protein % or mineral formula was found. Texas deer guidance (16–20% CP pellet; 13–16% CP for growth/reproduction) is sometimes used as a reference point but is not antelope-specific—work with a ruminant nutritionist/exotic vet.",
+    "cite": [
+     4,
+     5
+    ]
+   },
+   {
+    "key": "health_parasites",
+    "title": "Common health issues & parasites",
+    "text": "Parasites of blackbuck in Texas documented in J. Wildl. Dis. (1973); Haemonchus contortus and Longistrongylus dominate abomasal worm burdens in free-ranging exotic antelope in Texas (sable, addax, blesbok studied); captive wild ruminants show anthelmintic resistance, so use fecal egg counts and fecal egg-count reduction tests instead of routine blanket deworming.",
+    "cite": [
+     6,
+     7
+    ]
+   },
+   {
+    "key": "vet",
+    "title": "Vet care & vaccination",
+    "text": "No vaccines are labeled for this species in the US; any vaccination protocol is extra-label and should be set by a veterinarian experienced with exotic hoofstock. (No specific protocol was verified for this page.)",
+    "cite": []
+   },
+   {
+    "key": "handling",
+    "title": "Handling & capture",
+    "text": "Capture myopathy—muscle damage from pursuit, restraint and transport—is often fatal in wild ungulates. Minimize chase time and stress, avoid hot conditions, use appropriate chemical immobilization by a vet, and release/unload quickly.",
+    "cite": [
+     8
+    ]
+   },
+   {
+    "key": "conservation",
+    "title": "Conservation status",
+    "text": "IUCN Red List: Least Concern.",
+    "cite": [
+     9
+    ]
+   },
+   {
+    "key": "legal",
+    "title": "Legal notes (general info, not legal advice)",
+    "text": "General information, not legal advice. USDA APHIS licensing under the Animal Welfare Act applies to dealers and exhibitors; check USDA and your state wildlife and animal-health agencies before buying, moving or selling.",
+    "cite": [
+     10,
+     11
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "n": 1,
+    "title": "Animal Diversity Web (Univ. of Michigan) – Antilope cervicapra",
+    "url": "https://animaldiversity.org/accounts/Antilope_cervicapra/"
+   },
+   {
+    "n": 2,
+    "title": "TPWD, Exotics in Texas (1988 statewide survey summary)",
+    "url": "https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_0206.pdf"
+   },
+   {
+    "n": 3,
+    "title": "TPWD, Local Control Methods (deer damage): 8-ft woven-wire/high-tensile game fence",
+    "url": "https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_1196.pdf"
+   },
+   {
+    "n": 4,
+    "title": "TPWD, Specific Habitat Management Practices – White-tailed Deer (16–20% protein pellet; corn 7–10% CP)",
+    "url": "https://tpwd.texas.gov/landwater/land/private/agricultural_land/stx2010/Appendix%20F%20White-tailed%20Deer.pdf"
+   },
+   {
+    "n": 5,
+    "title": "Tomeček, Texas A&M AgriLife Extension – Deer & goat co-management (6–7% CP maintenance; 13–16% CP growth/antlers/reproduction)",
+    "url": "https://agrilife.org/agrilifesheepandgoat/files/2019/09/5-DeerGoatCoMgmt-Dr.-John-Tomecek.pdf"
+   },
+   {
+    "n": 6,
+    "title": "Longistrongylus/Haemonchus in free-ranging exotic antelope in Texas (J. Wildl. Dis., PubMed 8355363)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8355363/"
+   },
+   {
+    "n": 7,
+    "title": "Anthelmintic activity in captive wild ruminants by fecal egg reduction tests (J. Zoo Wildl. Med. 2000)",
+    "url": "https://doi.org/10.1638/1042-7260(2000)031[0348:eoaaic]2.0.co;2"
+   },
+   {
+    "n": 8,
+    "title": "Breed et al. 2019, Understanding capture myopathy (Conservation Physiology, PMC6612673)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6612673/"
+   },
+   {
+    "n": 9,
+    "title": "IUCN Red List – Antilope cervicapra (assessment page)",
+    "url": "https://www.iucnredlist.org/species/1681/50181949"
+   },
+   {
+    "n": 10,
+    "title": "TPWD Outdoor Annual – Nongame, Exotic & Other Species (exotic status in Texas)",
+    "url": "https://tpwd.texas.gov/regulations/outdoor-annual/hunting/nongame-and-other-species"
+   },
+   {
+    "n": 11,
+    "title": "USDA APHIS – Animal Welfare Act licensing & registration",
+    "url": "https://www.aphis.usda.gov/awa"
+   }
+  ],
+  "image": {
+   "file": "img/blackbuck.jpg",
+   "author": "Mr Raja Purohit",
+   "license": "CC BY-SA 2.5",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+   "source": "https://commons.wikimedia.org/wiki/File:Blackbuck_male_female.jpg"
+  }
+ },
+ {
+  "id": "nilgai",
+  "name": "Nilgai",
+  "scientific_name": "Boselaphus tragocamelus",
+  "adw": "Boselaphus_tragocamelus",
+  "sections": [
+   {
+    "key": "overview",
+    "title": "Overview",
+    "text": "See native range and biology below.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "native_range",
+    "title": "Native range",
+    "text": "India, Nepal, Pakistan; released in Texas ~1930.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "size",
+    "title": "Size",
+    "text": "120–240 kg; 120–150 cm at shoulder.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "lifespan",
+    "title": "Lifespan",
+    "text": "~21 years in captivity.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "gestation",
+    "title": "Breeding & gestation",
+    "text": "240–258 days; twins common; females can conceive at 18 months.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "temperament_social",
+    "title": "Temperament & social structure",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "habitat_needs",
+    "title": "Habitat needs",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "us_regions",
+    "title": "Where they thrive (Texas / US)",
+    "text": "Documented free-ranging in South Texas: Kenedy and Willacy counties, and Hidalgo/Cameron (2021 freeze survey). Freezes with 11+ hours below −3 °C caused significant mortality and are expected to limit spread north and west. See the interactive Texas species map (../site/map.html).",
+    "cite": [
+     1,
+     2
+    ]
+   },
+   {
+    "key": "space",
+    "title": "Space per animal",
+    "text": "No verified species-specific stocking rate was found. Carrying capacity depends on rainfall, range condition and competing grazers—get a range/stocking assessment (NRCS or Texas A&M AgriLife).",
+    "cite": []
+   },
+   {
+    "key": "housing_shelter",
+    "title": "Housing & shelter",
+    "text": "Cold-limited: mortality documented after 11+ hours below −3 °C (27 °F); provide brush cover/windbreaks.",
+    "cite": [
+     2
+    ]
+   },
+   {
+    "key": "fencing",
+    "title": "Fencing",
+    "text": "Texas Parks & Wildlife states game fences at least 8 ft high (woven-wire or high-tensile) are the only fully reliable deer-exclusion fence. That is the common high-fence standard for deer and antelope; a species-specific minimum for this animal was not found in a primary source.",
+    "cite": [
+     3
+    ]
+   },
+   {
+    "key": "diet",
+    "title": "Natural diet",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "feed_supplementation",
+    "title": "Feed & supplementation",
+    "text": "No verified species-specific protein % or mineral formula was found. Texas deer guidance (16–20% CP pellet; 13–16% CP for growth/reproduction) is sometimes used as a reference point but is not antelope-specific—work with a ruminant nutritionist/exotic vet.",
+    "cite": [
+     4,
+     5
+    ]
+   },
+   {
+    "key": "health_parasites",
+    "title": "Common health issues & parasites",
+    "text": "Competent host of southern cattle fever tick (Rhipicephalus microplus); USDA lists no approved treatment protocol for nilgai. Haemonchus contortus and Longistrongylus dominate abomasal worm burdens in free-ranging exotic antelope in Texas (sable, addax, blesbok studied); captive wild ruminants show anthelmintic resistance, so use fecal egg counts and fecal egg-count reduction tests instead of routine blanket deworming.",
+    "cite": [
+     6,
+     2,
+     7
+    ]
+   },
+   {
+    "key": "vet",
+    "title": "Vet care & vaccination",
+    "text": "No vaccines are labeled for this species in the US; any vaccination protocol is extra-label and should be set by a veterinarian experienced with exotic hoofstock. (No specific protocol was verified for this page.)",
+    "cite": []
+   },
+   {
+    "key": "handling",
+    "title": "Handling & capture",
+    "text": "Capture myopathy—muscle damage from pursuit, restraint and transport—is often fatal in wild ungulates. Minimize chase time and stress, avoid hot conditions, use appropriate chemical immobilization by a vet, and release/unload quickly.",
+    "cite": [
+     8
+    ]
+   },
+   {
+    "key": "conservation",
+    "title": "Conservation status",
+    "text": "IUCN Red List: Least Concern.",
+    "cite": [
+     9
+    ]
+   },
+   {
+    "key": "legal",
+    "title": "Legal notes (general info, not legal advice)",
+    "text": "In fever-tick quarantine areas, nilgai (live or hides/capes/heads) must be inspected/treated by TAHC or USDA and need a movement permit. General information, not legal advice. USDA APHIS licensing under the Animal Welfare Act applies to dealers and exhibitors; check USDA and your state wildlife and animal-health agencies before buying, moving or selling.",
+    "cite": [
+     10,
+     6,
+     11,
+     12
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "n": 1,
+    "title": "Animal Diversity Web (Univ. of Michigan) – Boselaphus tragocamelus",
+    "url": "https://animaldiversity.org/accounts/Boselaphus_tragocamelus/"
+   },
+   {
+    "n": 2,
+    "title": "Goolsby et al. 2021, Nilgai mortality in South Texas after historic freeze (USDA-ARS)",
+    "url": "http://www.subplantsci.org/wp-content/uploads/2021/07/Goolsby-et-al.2021_2-1.pdf"
+   },
+   {
+    "n": 3,
+    "title": "TPWD, Local Control Methods (deer damage): 8-ft woven-wire/high-tensile game fence",
+    "url": "https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_1196.pdf"
+   },
+   {
+    "n": 4,
+    "title": "TPWD, Specific Habitat Management Practices – White-tailed Deer (16–20% protein pellet; corn 7–10% CP)",
+    "url": "https://tpwd.texas.gov/landwater/land/private/agricultural_land/stx2010/Appendix%20F%20White-tailed%20Deer.pdf"
+   },
+   {
+    "n": 5,
+    "title": "Tomeček, Texas A&M AgriLife Extension – Deer & goat co-management (6–7% CP maintenance; 13–16% CP growth/antlers/reproduction)",
+    "url": "https://agrilife.org/agrilifesheepandgoat/files/2019/09/5-DeerGoatCoMgmt-Dr.-John-Tomecek.pdf"
+   },
+   {
+    "n": 6,
+    "title": "USDA APHIS – Cattle Fever Ticks: wildlife species (no approved nilgai treatment protocol)",
+    "url": "https://www.aphis.usda.gov/sites/default/files/cattle-fever-tick-wildlife.pdf"
+   },
+   {
+    "n": 7,
+    "title": "Longistrongylus/Haemonchus in free-ranging exotic antelope in Texas (J. Wildl. Dis., PubMed 8355363)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8355363/"
+   },
+   {
+    "n": 8,
+    "title": "Breed et al. 2019, Understanding capture myopathy (Conservation Physiology, PMC6612673)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6612673/"
+   },
+   {
+    "n": 9,
+    "title": "IUCN Red List – Boselaphus tragocamelus (assessment page)",
+    "url": "https://www.iucnredlist.org/species/2893/115064758"
+   },
+   {
+    "n": 10,
+    "title": "TAHC – Cattle Fever Tick inspection, treatment & movement requirements",
+    "url": "https://www.tahc.texas.gov/news/brochures/TAHCBrochure_FeverTickInspectionTreatmentMovement.pdf"
+   },
+   {
+    "n": 11,
+    "title": "TAHC Complete Rules (4 TAC Part 2; Ch. 40 CWD §40.5 movement/ID/reporting; Ch. 41 Fever Ticks)",
+    "url": "https://www.tahc.texas.gov/regs/pdf/TAHCCompleteRules.pdf"
+   },
+   {
+    "n": 12,
+    "title": "USDA APHIS – Animal Welfare Act licensing & registration",
+    "url": "https://www.aphis.usda.gov/awa"
+   }
+  ],
+  "image": {
+   "file": "img/nilgai.jpg",
+   "author": "Charles J. Sharp",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Nilgai_(Boselaphus_tragocamelus)_male.jpg"
+  }
+ },
+ {
+  "id": "aoudad",
+  "name": "Aoudad (Barbary Sheep)",
+  "scientific_name": "Ammotragus lervia",
+  "adw": "Ammotragus_lervia",
+  "sections": [
+   {
+    "key": "overview",
+    "title": "Overview",
+    "text": "See native range and biology below.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "native_range",
+    "title": "Native range",
+    "text": "North Africa; released in New Mexico (1950) and Texas (1957).",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "size",
+    "title": "Size",
+    "text": "Males up to 145 kg; females up to 65 kg.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "lifespan",
+    "title": "Lifespan",
+    "text": "~10 years wild; ~20 years captive.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "gestation",
+    "title": "Breeding & gestation",
+    "text": "~160 days (5.2–5.5 months); lambs mostly Mar–May; females mature ~19 months.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "temperament_social",
+    "title": "Temperament & social structure",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "habitat_needs",
+    "title": "Habitat needs",
+    "text": "Desert and rocky arid terrain.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "us_regions",
+    "title": "Where they thrive (Texas / US)",
+    "text": "Documented free-ranging in major portions of Kerr, Bandera, Edwards and Real counties (Edwards Plateau/Hill Country). Also the 8 Panhandle counties around Palo Duro Canyon (Armstrong, Briscoe, Donley, Floyd, Hall, Motley, Randall, Swisher), and free-ranging across the Trans-Pecos, where TPWD has tested 500+ aoudad in 17 mountain ranges and the regional population is believed to exceed 100,000. See the interactive Texas species map (../site/map.html).",
+    "cite": [
+     2,
+     3,
+     4
+    ]
+   },
+   {
+    "key": "space",
+    "title": "Space per animal",
+    "text": "No verified species-specific stocking rate was found. Carrying capacity depends on rainfall, range condition and competing grazers—get a range/stocking assessment (NRCS or Texas A&M AgriLife).",
+    "cite": []
+   },
+   {
+    "key": "housing_shelter",
+    "title": "Housing & shelter",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "fencing",
+    "title": "Fencing",
+    "text": "Texas Parks & Wildlife states game fences at least 8 ft high (woven-wire or high-tensile) are the only fully reliable deer-exclusion fence. That is the common high-fence standard for deer and antelope; a species-specific minimum for this animal was not found in a primary source.",
+    "cite": [
+     5
+    ]
+   },
+   {
+    "key": "diet",
+    "title": "Natural diet",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "feed_supplementation",
+    "title": "Feed & supplementation",
+    "text": "No verified species-specific protein % or mineral formula was found. Texas deer guidance (16–20% CP pellet; 13–16% CP for growth/reproduction) is sometimes used as a reference point but is not antelope-specific—work with a ruminant nutritionist/exotic vet.",
+    "cite": [
+     6,
+     7
+    ]
+   },
+   {
+    "key": "health_parasites",
+    "title": "Common health issues & parasites",
+    "text": "Haemonchus contortus and Longistrongylus dominate abomasal worm burdens in free-ranging exotic antelope in Texas (sable, addax, blesbok studied); captive wild ruminants show anthelmintic resistance, so use fecal egg counts and fecal egg-count reduction tests instead of routine blanket deworming.",
+    "cite": [
+     8,
+     9
+    ]
+   },
+   {
+    "key": "vet",
+    "title": "Vet care & vaccination",
+    "text": "No vaccines are labeled for this species in the US; any vaccination protocol is extra-label and should be set by a veterinarian experienced with exotic hoofstock. (No specific protocol was verified for this page.)",
+    "cite": []
+   },
+   {
+    "key": "handling",
+    "title": "Handling & capture",
+    "text": "Capture myopathy—muscle damage from pursuit, restraint and transport—is often fatal in wild ungulates. Minimize chase time and stress, avoid hot conditions, use appropriate chemical immobilization by a vet, and release/unload quickly.",
+    "cite": [
+     10
+    ]
+   },
+   {
+    "key": "conservation",
+    "title": "Conservation status",
+    "text": "IUCN Red List: Vulnerable.",
+    "cite": [
+     11
+    ]
+   },
+   {
+    "key": "legal",
+    "title": "Legal notes (general info, not legal advice)",
+    "text": "General information, not legal advice. USDA APHIS licensing under the Animal Welfare Act applies to dealers and exhibitors; check USDA and your state wildlife and animal-health agencies before buying, moving or selling.",
+    "cite": [
+     12,
+     13
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "n": 1,
+    "title": "Animal Diversity Web (Univ. of Michigan) – Ammotragus lervia",
+    "url": "https://animaldiversity.org/accounts/Ammotragus_lervia/"
+   },
+   {
+    "n": 2,
+    "title": "TPWD Kerr WMA – Exotic game research",
+    "url": "https://tpwd.texas.gov/huntwild/hunt/wma/wildlife_management/kerr_wma/research/invasives-exotics-pigs.phtml"
+   },
+   {
+    "n": 3,
+    "title": "TPWD, Exotics in Texas (1988 statewide survey summary)",
+    "url": "https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_0206.pdf"
+   },
+   {
+    "n": 4,
+    "title": "Borderlands Research Institute (Sul Ross) – Trans-Pecos aoudad",
+    "url": "https://bri.sulross.edu/tpwc26-big-game-mgmt/"
+   },
+   {
+    "n": 5,
+    "title": "TPWD, Local Control Methods (deer damage): 8-ft woven-wire/high-tensile game fence",
+    "url": "https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_1196.pdf"
+   },
+   {
+    "n": 6,
+    "title": "TPWD, Specific Habitat Management Practices – White-tailed Deer (16–20% protein pellet; corn 7–10% CP)",
+    "url": "https://tpwd.texas.gov/landwater/land/private/agricultural_land/stx2010/Appendix%20F%20White-tailed%20Deer.pdf"
+   },
+   {
+    "n": 7,
+    "title": "Tomeček, Texas A&M AgriLife Extension – Deer & goat co-management (6–7% CP maintenance; 13–16% CP growth/antlers/reproduction)",
+    "url": "https://agrilife.org/agrilifesheepandgoat/files/2019/09/5-DeerGoatCoMgmt-Dr.-John-Tomecek.pdf"
+   },
+   {
+    "n": 8,
+    "title": "Longistrongylus/Haemonchus in free-ranging exotic antelope in Texas (J. Wildl. Dis., PubMed 8355363)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8355363/"
+   },
+   {
+    "n": 9,
+    "title": "Anthelmintic activity in captive wild ruminants by fecal egg reduction tests (J. Zoo Wildl. Med. 2000)",
+    "url": "https://doi.org/10.1638/1042-7260(2000)031[0348:eoaaic]2.0.co;2"
+   },
+   {
+    "n": 10,
+    "title": "Breed et al. 2019, Understanding capture myopathy (Conservation Physiology, PMC6612673)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6612673/"
+   },
+   {
+    "n": 11,
+    "title": "IUCN Red List – Ammotragus lervia (assessment page)",
+    "url": "https://www.iucnredlist.org/species/1151/3288917"
+   },
+   {
+    "n": 12,
+    "title": "TPWD Outdoor Annual – Nongame, Exotic & Other Species (exotic status in Texas)",
+    "url": "https://tpwd.texas.gov/regulations/outdoor-annual/hunting/nongame-and-other-species"
+   },
+   {
+    "n": 13,
+    "title": "USDA APHIS – Animal Welfare Act licensing & registration",
+    "url": "https://www.aphis.usda.gov/awa"
+   }
+  ],
+  "image": {
+   "file": "img/aoudad.jpg",
+   "author": "Kevin Floyd",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ammotragus_lervia_110535403.jpg"
+  }
+ },
+ {
+  "id": "scimitar-oryx",
+  "name": "Scimitar-horned Oryx",
+  "scientific_name": "Oryx dammah",
+  "adw": "Oryx_dammah",
+  "sections": [
+   {
+    "key": "overview",
+    "title": "Overview",
+    "text": "Large game preserves, mainly in Texas, run successful breeding programs.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "native_range",
+    "title": "Native range",
+    "text": "Sahel of North Africa (extinct in the wild 2000; reintroduced).",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "size",
+    "title": "Size",
+    "text": "Average ~200 kg; calves 9–15 kg.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "lifespan",
+    "title": "Lifespan",
+    "text": "~27.5 years recorded in captivity.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "gestation",
+    "title": "Breeding & gestation",
+    "text": "8–8.5 months; one calf.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "temperament_social",
+    "title": "Temperament & social structure",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "habitat_needs",
+    "title": "Habitat needs",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "us_regions",
+    "title": "Where they thrive (Texas / US)",
+    "text": "INFERRED only: desert-adapted (see Habitat needs), so the arid Trans-Pecos/Chihuahuan Desert is the closest climate match; no Texas county distribution data found. See the interactive Texas species map (../site/map.html).",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "space",
+    "title": "Space per animal",
+    "text": "No verified species-specific stocking rate was found. Carrying capacity depends on rainfall, range condition and competing grazers—get a range/stocking assessment (NRCS or Texas A&M AgriLife).",
+    "cite": []
+   },
+   {
+    "key": "housing_shelter",
+    "title": "Housing & shelter",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "fencing",
+    "title": "Fencing",
+    "text": "Texas Parks & Wildlife states game fences at least 8 ft high (woven-wire or high-tensile) are the only fully reliable deer-exclusion fence. That is the common high-fence standard for deer and antelope; a species-specific minimum for this animal was not found in a primary source.",
+    "cite": [
+     2
+    ]
+   },
+   {
+    "key": "diet",
+    "title": "Natural diet",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "feed_supplementation",
+    "title": "Feed & supplementation",
+    "text": "No verified species-specific protein % or mineral formula was found. Texas deer guidance (16–20% CP pellet; 13–16% CP for growth/reproduction) is sometimes used as a reference point but is not antelope-specific—work with a ruminant nutritionist/exotic vet.",
+    "cite": [
+     3,
+     4
+    ]
+   },
+   {
+    "key": "health_parasites",
+    "title": "Common health issues & parasites",
+    "text": "Haemonchus contortus and Longistrongylus dominate abomasal worm burdens in free-ranging exotic antelope in Texas (sable, addax, blesbok studied); captive wild ruminants show anthelmintic resistance, so use fecal egg counts and fecal egg-count reduction tests instead of routine blanket deworming.",
+    "cite": [
+     5,
+     6
+    ]
+   },
+   {
+    "key": "vet",
+    "title": "Vet care & vaccination",
+    "text": "No vaccines are labeled for this species in the US; any vaccination protocol is extra-label and should be set by a veterinarian experienced with exotic hoofstock. (No specific protocol was verified for this page.)",
+    "cite": []
+   },
+   {
+    "key": "handling",
+    "title": "Handling & capture",
+    "text": "Capture myopathy—muscle damage from pursuit, restraint and transport—is often fatal in wild ungulates. Minimize chase time and stress, avoid hot conditions, use appropriate chemical immobilization by a vet, and release/unload quickly.",
+    "cite": [
+     7
+    ]
+   },
+   {
+    "key": "conservation",
+    "title": "Conservation status",
+    "text": "IUCN Red List: Endangered.",
+    "cite": [
+     8
+    ]
+   },
+   {
+    "key": "legal",
+    "title": "Legal notes (general info, not legal advice)",
+    "text": "Listed Endangered under the US ESA (70 FR 52319, 2005); check current USFWS captive-bred rules before interstate sale or hunting. General information, not legal advice. USDA APHIS licensing under the Animal Welfare Act applies to dealers and exhibitors; check USDA and your state wildlife and animal-health agencies before buying, moving or selling.",
+    "cite": [
+     9,
+     10,
+     11
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "n": 1,
+    "title": "Animal Diversity Web (Univ. of Michigan) – Oryx dammah",
+    "url": "https://animaldiversity.org/accounts/Oryx_dammah/"
+   },
+   {
+    "n": 2,
+    "title": "TPWD, Local Control Methods (deer damage): 8-ft woven-wire/high-tensile game fence",
+    "url": "https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_1196.pdf"
+   },
+   {
+    "n": 3,
+    "title": "TPWD, Specific Habitat Management Practices – White-tailed Deer (16–20% protein pellet; corn 7–10% CP)",
+    "url": "https://tpwd.texas.gov/landwater/land/private/agricultural_land/stx2010/Appendix%20F%20White-tailed%20Deer.pdf"
+   },
+   {
+    "n": 4,
+    "title": "Tomeček, Texas A&M AgriLife Extension – Deer & goat co-management (6–7% CP maintenance; 13–16% CP growth/antlers/reproduction)",
+    "url": "https://agrilife.org/agrilifesheepandgoat/files/2019/09/5-DeerGoatCoMgmt-Dr.-John-Tomecek.pdf"
+   },
+   {
+    "n": 5,
+    "title": "Longistrongylus/Haemonchus in free-ranging exotic antelope in Texas (J. Wildl. Dis., PubMed 8355363)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8355363/"
+   },
+   {
+    "n": 6,
+    "title": "Anthelmintic activity in captive wild ruminants by fecal egg reduction tests (J. Zoo Wildl. Med. 2000)",
+    "url": "https://doi.org/10.1638/1042-7260(2000)031[0348:eoaaic]2.0.co;2"
+   },
+   {
+    "n": 7,
+    "title": "Breed et al. 2019, Understanding capture myopathy (Conservation Physiology, PMC6612673)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6612673/"
+   },
+   {
+    "n": 8,
+    "title": "IUCN Red List – Oryx dammah (assessment page)",
+    "url": "https://www.iucnredlist.org/species/15568/197393805"
+   },
+   {
+    "n": 9,
+    "title": "Federal Register 70 FR 52319 (2005): scimitar-horned oryx, addax, dama gazelle listed Endangered",
+    "url": "https://www.federalregister.gov/documents/2005/09/02/05-17431/endangered-and-threatened-wildlife-and-plants-final-rule-to-list-the-scimitar-horned-oryx-addax-and"
+   },
+   {
+    "n": 10,
+    "title": "USFWS ECOS – Listed Animals (current ESA status)",
+    "url": "https://ecos.fws.gov/ecp0/pub/listedAnimals.jsp"
+   },
+   {
+    "n": 11,
+    "title": "USDA APHIS – Animal Welfare Act licensing & registration",
+    "url": "https://www.aphis.usda.gov/awa"
+   }
+  ],
+  "image": {
+   "file": "img/scimitar-oryx.jpg",
+   "author": "Cheima fezzani",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Oryx_Dammah_oryx_algazelle_2.jpg"
+  }
+ },
+ {
+  "id": "addax",
+  "name": "Addax",
+  "scientific_name": "Addax nasomaculatus",
+  "adw": "Addax_nasomaculatus",
+  "sections": [
+   {
+    "key": "overview",
+    "title": "Overview",
+    "text": "See native range and biology below.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "native_range",
+    "title": "Native range",
+    "text": "Sahara.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "size",
+    "title": "Size",
+    "text": "60–125 kg; 95–115 cm at shoulder; horns avg ~72 cm.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "lifespan",
+    "title": "Lifespan",
+    "text": "19–25 years captive.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "gestation",
+    "title": "Breeding & gestation",
+    "text": "257–264 days; almost always one young.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "temperament_social",
+    "title": "Temperament & social structure",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "habitat_needs",
+    "title": "Habitat needs",
+    "text": "Desert/dunes with very low rainfall.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "us_regions",
+    "title": "Where they thrive (Texas / US)",
+    "text": "INFERRED only: desert-adapted (see Habitat needs), so the arid Trans-Pecos/Chihuahuan Desert is the closest climate match; no Texas county distribution data found. See the interactive Texas species map (../site/map.html).",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "space",
+    "title": "Space per animal",
+    "text": "No verified species-specific stocking rate was found. Carrying capacity depends on rainfall, range condition and competing grazers—get a range/stocking assessment (NRCS or Texas A&M AgriLife).",
+    "cite": []
+   },
+   {
+    "key": "housing_shelter",
+    "title": "Housing & shelter",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "fencing",
+    "title": "Fencing",
+    "text": "Texas Parks & Wildlife states game fences at least 8 ft high (woven-wire or high-tensile) are the only fully reliable deer-exclusion fence. That is the common high-fence standard for deer and antelope; a species-specific minimum for this animal was not found in a primary source.",
+    "cite": [
+     2
+    ]
+   },
+   {
+    "key": "diet",
+    "title": "Natural diet",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "feed_supplementation",
+    "title": "Feed & supplementation",
+    "text": "No verified species-specific protein % or mineral formula was found. Texas deer guidance (16–20% CP pellet; 13–16% CP for growth/reproduction) is sometimes used as a reference point but is not antelope-specific—work with a ruminant nutritionist/exotic vet.",
+    "cite": [
+     3,
+     4
+    ]
+   },
+   {
+    "key": "health_parasites",
+    "title": "Common health issues & parasites",
+    "text": "Haemonchus contortus and Longistrongylus dominate abomasal worm burdens in free-ranging exotic antelope in Texas (sable, addax, blesbok studied); captive wild ruminants show anthelmintic resistance, so use fecal egg counts and fecal egg-count reduction tests instead of routine blanket deworming.",
+    "cite": [
+     5,
+     6
+    ]
+   },
+   {
+    "key": "vet",
+    "title": "Vet care & vaccination",
+    "text": "No vaccines are labeled for this species in the US; any vaccination protocol is extra-label and should be set by a veterinarian experienced with exotic hoofstock. (No specific protocol was verified for this page.)",
+    "cite": []
+   },
+   {
+    "key": "handling",
+    "title": "Handling & capture",
+    "text": "Capture myopathy—muscle damage from pursuit, restraint and transport—is often fatal in wild ungulates. Minimize chase time and stress, avoid hot conditions, use appropriate chemical immobilization by a vet, and release/unload quickly.",
+    "cite": [
+     7
+    ]
+   },
+   {
+    "key": "conservation",
+    "title": "Conservation status",
+    "text": "IUCN Red List: Critically Endangered.",
+    "cite": [
+     8
+    ]
+   },
+   {
+    "key": "legal",
+    "title": "Legal notes (general info, not legal advice)",
+    "text": "Listed Endangered under the US ESA (70 FR 52319, 2005). General information, not legal advice. USDA APHIS licensing under the Animal Welfare Act applies to dealers and exhibitors; check USDA and your state wildlife and animal-health agencies before buying, moving or selling.",
+    "cite": [
+     9,
+     10,
+     11
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "n": 1,
+    "title": "Animal Diversity Web (Univ. of Michigan) – Addax nasomaculatus",
+    "url": "https://animaldiversity.org/accounts/Addax_nasomaculatus/"
+   },
+   {
+    "n": 2,
+    "title": "TPWD, Local Control Methods (deer damage): 8-ft woven-wire/high-tensile game fence",
+    "url": "https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_1196.pdf"
+   },
+   {
+    "n": 3,
+    "title": "TPWD, Specific Habitat Management Practices – White-tailed Deer (16–20% protein pellet; corn 7–10% CP)",
+    "url": "https://tpwd.texas.gov/landwater/land/private/agricultural_land/stx2010/Appendix%20F%20White-tailed%20Deer.pdf"
+   },
+   {
+    "n": 4,
+    "title": "Tomeček, Texas A&M AgriLife Extension – Deer & goat co-management (6–7% CP maintenance; 13–16% CP growth/antlers/reproduction)",
+    "url": "https://agrilife.org/agrilifesheepandgoat/files/2019/09/5-DeerGoatCoMgmt-Dr.-John-Tomecek.pdf"
+   },
+   {
+    "n": 5,
+    "title": "Longistrongylus/Haemonchus in free-ranging exotic antelope in Texas (J. Wildl. Dis., PubMed 8355363)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8355363/"
+   },
+   {
+    "n": 6,
+    "title": "Anthelmintic activity in captive wild ruminants by fecal egg reduction tests (J. Zoo Wildl. Med. 2000)",
+    "url": "https://doi.org/10.1638/1042-7260(2000)031[0348:eoaaic]2.0.co;2"
+   },
+   {
+    "n": 7,
+    "title": "Breed et al. 2019, Understanding capture myopathy (Conservation Physiology, PMC6612673)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6612673/"
+   },
+   {
+    "n": 8,
+    "title": "IUCN Red List – Addax nasomaculatus (assessment page)",
+    "url": "https://www.iucnredlist.org/species/512/50180603"
+   },
+   {
+    "n": 9,
+    "title": "Federal Register 70 FR 52319 (2005): scimitar-horned oryx, addax, dama gazelle listed Endangered",
+    "url": "https://www.federalregister.gov/documents/2005/09/02/05-17431/endangered-and-threatened-wildlife-and-plants-final-rule-to-list-the-scimitar-horned-oryx-addax-and"
+   },
+   {
+    "n": 10,
+    "title": "USFWS ECOS – Listed Animals (current ESA status)",
+    "url": "https://ecos.fws.gov/ecp0/pub/listedAnimals.jsp"
+   },
+   {
+    "n": 11,
+    "title": "USDA APHIS – Animal Welfare Act licensing & registration",
+    "url": "https://www.aphis.usda.gov/awa"
+   }
+  ],
+  "image": {
+   "file": "img/addax.jpg",
+   "author": "HaytemBouchri93",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:A_big_male_Addax_showing_as_the_power_of_his_horns.jpg"
+  }
+ },
+ {
+  "id": "eland",
+  "name": "Common Eland",
+  "scientific_name": "Taurotragus oryx",
+  "adw": "Taurotragus_oryx",
+  "sections": [
+   {
+    "key": "overview",
+    "title": "Overview",
+    "text": "See native range and biology below.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "native_range",
+    "title": "Native range",
+    "text": "East and southern Africa.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "size",
+    "title": "Size",
+    "text": "Males 400–1,000 kg; females 300–600 kg.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "lifespan",
+    "title": "Lifespan",
+    "text": "Maximum ~25 years.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "gestation",
+    "title": "Breeding & gestation",
+    "text": "8.5–9 months; single young; weaned ~6 months; mature ~3 years.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "temperament_social",
+    "title": "Temperament & social structure",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "habitat_needs",
+    "title": "Habitat needs",
+    "text": "Savanna, grassland and scrub forest.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "us_regions",
+    "title": "Where they thrive (Texas / US)",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "space",
+    "title": "Space per animal",
+    "text": "No verified species-specific stocking rate was found. Carrying capacity depends on rainfall, range condition and competing grazers—get a range/stocking assessment (NRCS or Texas A&M AgriLife).",
+    "cite": []
+   },
+   {
+    "key": "housing_shelter",
+    "title": "Housing & shelter",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "fencing",
+    "title": "Fencing",
+    "text": "Texas Parks & Wildlife states game fences at least 8 ft high (woven-wire or high-tensile) are the only fully reliable deer-exclusion fence. That is the common high-fence standard for deer and antelope; a species-specific minimum for this animal was not found in a primary source.",
+    "cite": [
+     2
+    ]
+   },
+   {
+    "key": "diet",
+    "title": "Natural diet",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "feed_supplementation",
+    "title": "Feed & supplementation",
+    "text": "No verified species-specific protein % or mineral formula was found. Texas deer guidance (16–20% CP pellet; 13–16% CP for growth/reproduction) is sometimes used as a reference point but is not antelope-specific—work with a ruminant nutritionist/exotic vet.",
+    "cite": [
+     3,
+     4
+    ]
+   },
+   {
+    "key": "health_parasites",
+    "title": "Common health issues & parasites",
+    "text": "Haemonchus contortus and Longistrongylus dominate abomasal worm burdens in free-ranging exotic antelope in Texas (sable, addax, blesbok studied); captive wild ruminants show anthelmintic resistance, so use fecal egg counts and fecal egg-count reduction tests instead of routine blanket deworming.",
+    "cite": [
+     5,
+     6
+    ]
+   },
+   {
+    "key": "vet",
+    "title": "Vet care & vaccination",
+    "text": "No vaccines are labeled for this species in the US; any vaccination protocol is extra-label and should be set by a veterinarian experienced with exotic hoofstock. (No specific protocol was verified for this page.)",
+    "cite": []
+   },
+   {
+    "key": "handling",
+    "title": "Handling & capture",
+    "text": "Capture myopathy—muscle damage from pursuit, restraint and transport—is often fatal in wild ungulates. Minimize chase time and stress, avoid hot conditions, use appropriate chemical immobilization by a vet, and release/unload quickly.",
+    "cite": [
+     7
+    ]
+   },
+   {
+    "key": "conservation",
+    "title": "Conservation status",
+    "text": "IUCN Red List: Least Concern.",
+    "cite": [
+     8
+    ]
+   },
+   {
+    "key": "legal",
+    "title": "Legal notes (general info, not legal advice)",
+    "text": "General information, not legal advice. USDA APHIS licensing under the Animal Welfare Act applies to dealers and exhibitors; check USDA and your state wildlife and animal-health agencies before buying, moving or selling.",
+    "cite": [
+     9,
+     10
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "n": 1,
+    "title": "Animal Diversity Web (Univ. of Michigan) – Taurotragus oryx",
+    "url": "https://animaldiversity.org/accounts/Taurotragus_oryx/"
+   },
+   {
+    "n": 2,
+    "title": "TPWD, Local Control Methods (deer damage): 8-ft woven-wire/high-tensile game fence",
+    "url": "https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_1196.pdf"
+   },
+   {
+    "n": 3,
+    "title": "TPWD, Specific Habitat Management Practices – White-tailed Deer (16–20% protein pellet; corn 7–10% CP)",
+    "url": "https://tpwd.texas.gov/landwater/land/private/agricultural_land/stx2010/Appendix%20F%20White-tailed%20Deer.pdf"
+   },
+   {
+    "n": 4,
+    "title": "Tomeček, Texas A&M AgriLife Extension – Deer & goat co-management (6–7% CP maintenance; 13–16% CP growth/antlers/reproduction)",
+    "url": "https://agrilife.org/agrilifesheepandgoat/files/2019/09/5-DeerGoatCoMgmt-Dr.-John-Tomecek.pdf"
+   },
+   {
+    "n": 5,
+    "title": "Longistrongylus/Haemonchus in free-ranging exotic antelope in Texas (J. Wildl. Dis., PubMed 8355363)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8355363/"
+   },
+   {
+    "n": 6,
+    "title": "Anthelmintic activity in captive wild ruminants by fecal egg reduction tests (J. Zoo Wildl. Med. 2000)",
+    "url": "https://doi.org/10.1638/1042-7260(2000)031[0348:eoaaic]2.0.co;2"
+   },
+   {
+    "n": 7,
+    "title": "Breed et al. 2019, Understanding capture myopathy (Conservation Physiology, PMC6612673)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6612673/"
+   },
+   {
+    "n": 8,
+    "title": "IUCN Red List – Taurotragus oryx (assessment page)",
+    "url": "https://www.iucnredlist.org/species/22055/115166135"
+   },
+   {
+    "n": 9,
+    "title": "TPWD Outdoor Annual – Nongame, Exotic & Other Species (exotic status in Texas)",
+    "url": "https://tpwd.texas.gov/regulations/outdoor-annual/hunting/nongame-and-other-species"
+   },
+   {
+    "n": 10,
+    "title": "USDA APHIS – Animal Welfare Act licensing & registration",
+    "url": "https://www.aphis.usda.gov/awa"
+   }
+  ],
+  "image": {
+   "file": "img/eland.jpg",
+   "author": "Yathin S Krishnappa",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Taurotragus_oryx_-_young_bull_-_Etosha_2015.jpg"
+  }
+ },
+ {
+  "id": "roan",
+  "name": "Roan Antelope",
+  "scientific_name": "Hippotragus equinus",
+  "adw": "Hippotragus_equinus",
+  "sections": [
+   {
+    "key": "overview",
+    "title": "Overview",
+    "text": "See native range and biology below.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "native_range",
+    "title": "Native range",
+    "text": "Sub-Saharan Africa.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "size",
+    "title": "Size",
+    "text": "Males 260–300 kg, females 225–275 kg; 140–160 cm at shoulder.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "lifespan",
+    "title": "Lifespan",
+    "text": "Up to 17 years.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "gestation",
+    "title": "Breeding & gestation",
+    "text": "260–281 days; calving interval 10–10.5 months; females breed at 32–34 months.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "temperament_social",
+    "title": "Temperament & social structure",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "habitat_needs",
+    "title": "Habitat needs",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "us_regions",
+    "title": "Where they thrive (Texas / US)",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "space",
+    "title": "Space per animal",
+    "text": "No verified species-specific stocking rate was found. Carrying capacity depends on rainfall, range condition and competing grazers—get a range/stocking assessment (NRCS or Texas A&M AgriLife).",
+    "cite": []
+   },
+   {
+    "key": "housing_shelter",
+    "title": "Housing & shelter",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "fencing",
+    "title": "Fencing",
+    "text": "Texas Parks & Wildlife states game fences at least 8 ft high (woven-wire or high-tensile) are the only fully reliable deer-exclusion fence. That is the common high-fence standard for deer and antelope; a species-specific minimum for this animal was not found in a primary source.",
+    "cite": [
+     2
+    ]
+   },
+   {
+    "key": "diet",
+    "title": "Natural diet",
+    "text": "Grazer; prefers feeding height 15–150 cm.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "feed_supplementation",
+    "title": "Feed & supplementation",
+    "text": "No verified species-specific protein % or mineral formula was found. Texas deer guidance (16–20% CP pellet; 13–16% CP for growth/reproduction) is sometimes used as a reference point but is not antelope-specific—work with a ruminant nutritionist/exotic vet.",
+    "cite": [
+     3,
+     4
+    ]
+   },
+   {
+    "key": "health_parasites",
+    "title": "Common health issues & parasites",
+    "text": "Haemonchus contortus and Longistrongylus dominate abomasal worm burdens in free-ranging exotic antelope in Texas (sable, addax, blesbok studied); captive wild ruminants show anthelmintic resistance, so use fecal egg counts and fecal egg-count reduction tests instead of routine blanket deworming.",
+    "cite": [
+     5,
+     6
+    ]
+   },
+   {
+    "key": "vet",
+    "title": "Vet care & vaccination",
+    "text": "No vaccines are labeled for this species in the US; any vaccination protocol is extra-label and should be set by a veterinarian experienced with exotic hoofstock. (No specific protocol was verified for this page.)",
+    "cite": []
+   },
+   {
+    "key": "handling",
+    "title": "Handling & capture",
+    "text": "Capture myopathy—muscle damage from pursuit, restraint and transport—is often fatal in wild ungulates. Minimize chase time and stress, avoid hot conditions, use appropriate chemical immobilization by a vet, and release/unload quickly.",
+    "cite": [
+     7
+    ]
+   },
+   {
+    "key": "conservation",
+    "title": "Conservation status",
+    "text": "IUCN Red List: Least Concern.",
+    "cite": [
+     8
+    ]
+   },
+   {
+    "key": "legal",
+    "title": "Legal notes (general info, not legal advice)",
+    "text": "General information, not legal advice. USDA APHIS licensing under the Animal Welfare Act applies to dealers and exhibitors; check USDA and your state wildlife and animal-health agencies before buying, moving or selling.",
+    "cite": [
+     9,
+     10
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "n": 1,
+    "title": "Animal Diversity Web (Univ. of Michigan) – Hippotragus equinus",
+    "url": "https://animaldiversity.org/accounts/Hippotragus_equinus/"
+   },
+   {
+    "n": 2,
+    "title": "TPWD, Local Control Methods (deer damage): 8-ft woven-wire/high-tensile game fence",
+    "url": "https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_1196.pdf"
+   },
+   {
+    "n": 3,
+    "title": "TPWD, Specific Habitat Management Practices – White-tailed Deer (16–20% protein pellet; corn 7–10% CP)",
+    "url": "https://tpwd.texas.gov/landwater/land/private/agricultural_land/stx2010/Appendix%20F%20White-tailed%20Deer.pdf"
+   },
+   {
+    "n": 4,
+    "title": "Tomeček, Texas A&M AgriLife Extension – Deer & goat co-management (6–7% CP maintenance; 13–16% CP growth/antlers/reproduction)",
+    "url": "https://agrilife.org/agrilifesheepandgoat/files/2019/09/5-DeerGoatCoMgmt-Dr.-John-Tomecek.pdf"
+   },
+   {
+    "n": 5,
+    "title": "Longistrongylus/Haemonchus in free-ranging exotic antelope in Texas (J. Wildl. Dis., PubMed 8355363)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8355363/"
+   },
+   {
+    "n": 6,
+    "title": "Anthelmintic activity in captive wild ruminants by fecal egg reduction tests (J. Zoo Wildl. Med. 2000)",
+    "url": "https://doi.org/10.1638/1042-7260(2000)031[0348:eoaaic]2.0.co;2"
+   },
+   {
+    "n": 7,
+    "title": "Breed et al. 2019, Understanding capture myopathy (Conservation Physiology, PMC6612673)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6612673/"
+   },
+   {
+    "n": 8,
+    "title": "IUCN Red List – Hippotragus equinus (assessment page)",
+    "url": "https://www.iucnredlist.org/species/10167/50188287"
+   },
+   {
+    "n": 9,
+    "title": "TPWD Outdoor Annual – Nongame, Exotic & Other Species (exotic status in Texas)",
+    "url": "https://tpwd.texas.gov/regulations/outdoor-annual/hunting/nongame-and-other-species"
+   },
+   {
+    "n": 10,
+    "title": "USDA APHIS – Animal Welfare Act licensing & registration",
+    "url": "https://www.aphis.usda.gov/awa"
+   }
+  ],
+  "image": {
+   "file": "img/roan.jpg",
+   "author": "Charles J. Sharp",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Roan_antelope_(Hippotragus_equinus_equinus)_Mlilwane.jpg"
+  }
+ },
+ {
+  "id": "waterbuck",
+  "name": "Waterbuck",
+  "scientific_name": "Kobus ellipsiprymnus",
+  "adw": "Kobus_ellipsiprymnus",
+  "sections": [
+   {
+    "key": "overview",
+    "title": "Overview",
+    "text": "See native range and biology below.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "native_range",
+    "title": "Native range",
+    "text": "Sub-Saharan Africa.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "size",
+    "title": "Size",
+    "text": "160–300 kg; 120–136 cm at shoulder; horns 55–99 cm (males).",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "lifespan",
+    "title": "Lifespan",
+    "text": "~18 years captive.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "gestation",
+    "title": "Breeding & gestation",
+    "text": "ADW gives ~8–8.5 months in text and 9.1–9.6 months in data—figures conflict.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "temperament_social",
+    "title": "Temperament & social structure",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "habitat_needs",
+    "title": "Habitat needs",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "us_regions",
+    "title": "Where they thrive (Texas / US)",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "space",
+    "title": "Space per animal",
+    "text": "No verified species-specific stocking rate was found. Carrying capacity depends on rainfall, range condition and competing grazers—get a range/stocking assessment (NRCS or Texas A&M AgriLife).",
+    "cite": []
+   },
+   {
+    "key": "housing_shelter",
+    "title": "Housing & shelter",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "fencing",
+    "title": "Fencing",
+    "text": "Texas Parks & Wildlife states game fences at least 8 ft high (woven-wire or high-tensile) are the only fully reliable deer-exclusion fence. That is the common high-fence standard for deer and antelope; a species-specific minimum for this animal was not found in a primary source.",
+    "cite": [
+     2
+    ]
+   },
+   {
+    "key": "diet",
+    "title": "Natural diet",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "feed_supplementation",
+    "title": "Feed & supplementation",
+    "text": "No verified species-specific protein % or mineral formula was found. Texas deer guidance (16–20% CP pellet; 13–16% CP for growth/reproduction) is sometimes used as a reference point but is not antelope-specific—work with a ruminant nutritionist/exotic vet.",
+    "cite": [
+     3,
+     4
+    ]
+   },
+   {
+    "key": "health_parasites",
+    "title": "Common health issues & parasites",
+    "text": "Haemonchus contortus and Longistrongylus dominate abomasal worm burdens in free-ranging exotic antelope in Texas (sable, addax, blesbok studied); captive wild ruminants show anthelmintic resistance, so use fecal egg counts and fecal egg-count reduction tests instead of routine blanket deworming.",
+    "cite": [
+     5,
+     6
+    ]
+   },
+   {
+    "key": "vet",
+    "title": "Vet care & vaccination",
+    "text": "No vaccines are labeled for this species in the US; any vaccination protocol is extra-label and should be set by a veterinarian experienced with exotic hoofstock. (No specific protocol was verified for this page.)",
+    "cite": []
+   },
+   {
+    "key": "handling",
+    "title": "Handling & capture",
+    "text": "Capture myopathy—muscle damage from pursuit, restraint and transport—is often fatal in wild ungulates. Minimize chase time and stress, avoid hot conditions, use appropriate chemical immobilization by a vet, and release/unload quickly.",
+    "cite": [
+     7
+    ]
+   },
+   {
+    "key": "conservation",
+    "title": "Conservation status",
+    "text": "IUCN Red List: Least Concern.",
+    "cite": [
+     8
+    ]
+   },
+   {
+    "key": "legal",
+    "title": "Legal notes (general info, not legal advice)",
+    "text": "General information, not legal advice. USDA APHIS licensing under the Animal Welfare Act applies to dealers and exhibitors; check USDA and your state wildlife and animal-health agencies before buying, moving or selling.",
+    "cite": [
+     9,
+     10
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "n": 1,
+    "title": "Animal Diversity Web (Univ. of Michigan) – Kobus ellipsiprymnus",
+    "url": "https://animaldiversity.org/accounts/Kobus_ellipsiprymnus/"
+   },
+   {
+    "n": 2,
+    "title": "TPWD, Local Control Methods (deer damage): 8-ft woven-wire/high-tensile game fence",
+    "url": "https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_1196.pdf"
+   },
+   {
+    "n": 3,
+    "title": "TPWD, Specific Habitat Management Practices – White-tailed Deer (16–20% protein pellet; corn 7–10% CP)",
+    "url": "https://tpwd.texas.gov/landwater/land/private/agricultural_land/stx2010/Appendix%20F%20White-tailed%20Deer.pdf"
+   },
+   {
+    "n": 4,
+    "title": "Tomeček, Texas A&M AgriLife Extension – Deer & goat co-management (6–7% CP maintenance; 13–16% CP growth/antlers/reproduction)",
+    "url": "https://agrilife.org/agrilifesheepandgoat/files/2019/09/5-DeerGoatCoMgmt-Dr.-John-Tomecek.pdf"
+   },
+   {
+    "n": 5,
+    "title": "Longistrongylus/Haemonchus in free-ranging exotic antelope in Texas (J. Wildl. Dis., PubMed 8355363)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8355363/"
+   },
+   {
+    "n": 6,
+    "title": "Anthelmintic activity in captive wild ruminants by fecal egg reduction tests (J. Zoo Wildl. Med. 2000)",
+    "url": "https://doi.org/10.1638/1042-7260(2000)031[0348:eoaaic]2.0.co;2"
+   },
+   {
+    "n": 7,
+    "title": "Breed et al. 2019, Understanding capture myopathy (Conservation Physiology, PMC6612673)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6612673/"
+   },
+   {
+    "n": 8,
+    "title": "IUCN Red List – Kobus ellipsiprymnus (assessment page)",
+    "url": "https://www.iucnredlist.org/species/11035/50189324"
+   },
+   {
+    "n": 9,
+    "title": "TPWD Outdoor Annual – Nongame, Exotic & Other Species (exotic status in Texas)",
+    "url": "https://tpwd.texas.gov/regulations/outdoor-annual/hunting/nongame-and-other-species"
+   },
+   {
+    "n": 10,
+    "title": "USDA APHIS – Animal Welfare Act licensing & registration",
+    "url": "https://www.aphis.usda.gov/awa"
+   }
+  ],
+  "image": {
+   "file": "img/waterbuck.jpg",
+   "author": "Giles Laurent",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:069_Waterbuck_at_Queen_Elizabeth_National_Park_Photo_by_Giles_Laurent.jpg"
+  }
+ },
+ {
+  "id": "blue-wildebeest",
+  "name": "Blue Wildebeest",
+  "scientific_name": "Connochaetes taurinus",
+  "adw": "Connochaetes_taurinus",
+  "sections": [
+   {
+    "key": "overview",
+    "title": "Overview",
+    "text": "See native range and biology below.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "native_range",
+    "title": "Native range",
+    "text": "Eastern and southern Africa.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "size",
+    "title": "Size",
+    "text": "118–270 kg.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "lifespan",
+    "title": "Lifespan",
+    "text": "~20 years (24 recorded captive).",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "gestation",
+    "title": "Breeding & gestation",
+    "text": "~8 months; single calf ~19 kg.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "temperament_social",
+    "title": "Temperament & social structure",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "habitat_needs",
+    "title": "Habitat needs",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "us_regions",
+    "title": "Where they thrive (Texas / US)",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "space",
+    "title": "Space per animal",
+    "text": "No verified species-specific stocking rate was found. Carrying capacity depends on rainfall, range condition and competing grazers—get a range/stocking assessment (NRCS or Texas A&M AgriLife).",
+    "cite": []
+   },
+   {
+    "key": "housing_shelter",
+    "title": "Housing & shelter",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "fencing",
+    "title": "Fencing",
+    "text": "Texas Parks & Wildlife states game fences at least 8 ft high (woven-wire or high-tensile) are the only fully reliable deer-exclusion fence. That is the common high-fence standard for deer and antelope; a species-specific minimum for this animal was not found in a primary source.",
+    "cite": [
+     2
+    ]
+   },
+   {
+    "key": "diet",
+    "title": "Natural diet",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "feed_supplementation",
+    "title": "Feed & supplementation",
+    "text": "No verified species-specific protein % or mineral formula was found. Texas deer guidance (16–20% CP pellet; 13–16% CP for growth/reproduction) is sometimes used as a reference point but is not antelope-specific—work with a ruminant nutritionist/exotic vet.",
+    "cite": [
+     3,
+     4
+    ]
+   },
+   {
+    "key": "health_parasites",
+    "title": "Common health issues & parasites",
+    "text": "Wildebeest carry alcelaphine herpesvirus 1 (AlHV-1), cause of usually fatal wildebeest-associated malignant catarrhal fever in cattle; calves shed virus—keep cattle off pasture where wildebeest calve. Haemonchus contortus and Longistrongylus dominate abomasal worm burdens in free-ranging exotic antelope in Texas (sable, addax, blesbok studied); captive wild ruminants show anthelmintic resistance, so use fecal egg counts and fecal egg-count reduction tests instead of routine blanket deworming.",
+    "cite": [
+     5,
+     6
+    ]
+   },
+   {
+    "key": "vet",
+    "title": "Vet care & vaccination",
+    "text": "No vaccines are labeled for this species in the US; any vaccination protocol is extra-label and should be set by a veterinarian experienced with exotic hoofstock. (No specific protocol was verified for this page.)",
+    "cite": []
+   },
+   {
+    "key": "handling",
+    "title": "Handling & capture",
+    "text": "Capture myopathy—muscle damage from pursuit, restraint and transport—is often fatal in wild ungulates. Minimize chase time and stress, avoid hot conditions, use appropriate chemical immobilization by a vet, and release/unload quickly.",
+    "cite": [
+     7
+    ]
+   },
+   {
+    "key": "conservation",
+    "title": "Conservation status",
+    "text": "IUCN Red List: Least Concern.",
+    "cite": [
+     8
+    ]
+   },
+   {
+    "key": "legal",
+    "title": "Legal notes (general info, not legal advice)",
+    "text": "General information, not legal advice. USDA APHIS licensing under the Animal Welfare Act applies to dealers and exhibitors; check USDA and your state wildlife and animal-health agencies before buying, moving or selling.",
+    "cite": [
+     9,
+     10
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "n": 1,
+    "title": "Animal Diversity Web (Univ. of Michigan) – Connochaetes taurinus",
+    "url": "https://animaldiversity.org/accounts/Connochaetes_taurinus/"
+   },
+   {
+    "n": 2,
+    "title": "TPWD, Local Control Methods (deer damage): 8-ft woven-wire/high-tensile game fence",
+    "url": "https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_1196.pdf"
+   },
+   {
+    "n": 3,
+    "title": "TPWD, Specific Habitat Management Practices – White-tailed Deer (16–20% protein pellet; corn 7–10% CP)",
+    "url": "https://tpwd.texas.gov/landwater/land/private/agricultural_land/stx2010/Appendix%20F%20White-tailed%20Deer.pdf"
+   },
+   {
+    "n": 4,
+    "title": "Tomeček, Texas A&M AgriLife Extension – Deer & goat co-management (6–7% CP maintenance; 13–16% CP growth/antlers/reproduction)",
+    "url": "https://agrilife.org/agrilifesheepandgoat/files/2019/09/5-DeerGoatCoMgmt-Dr.-John-Tomecek.pdf"
+   },
+   {
+    "n": 5,
+    "title": "Merck Veterinary Manual – Malignant Catarrhal Fever",
+    "url": "https://www.merckvetmanual.com/generalized-conditions/malignant-catarrhal-fever/malignant-catarrhal-fever-in-animals"
+   },
+   {
+    "n": 6,
+    "title": "Longistrongylus/Haemonchus in free-ranging exotic antelope in Texas (J. Wildl. Dis., PubMed 8355363)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8355363/"
+   },
+   {
+    "n": 7,
+    "title": "Breed et al. 2019, Understanding capture myopathy (Conservation Physiology, PMC6612673)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6612673/"
+   },
+   {
+    "n": 8,
+    "title": "IUCN Red List – Connochaetes taurinus (assessment page)",
+    "url": "https://www.iucnredlist.org/species/5229/163322525"
+   },
+   {
+    "n": 9,
+    "title": "TPWD Outdoor Annual – Nongame, Exotic & Other Species (exotic status in Texas)",
+    "url": "https://tpwd.texas.gov/regulations/outdoor-annual/hunting/nongame-and-other-species"
+   },
+   {
+    "n": 10,
+    "title": "USDA APHIS – Animal Welfare Act licensing & registration",
+    "url": "https://www.aphis.usda.gov/awa"
+   }
+  ],
+  "image": {
+   "file": "img/blue-wildebeest.jpg",
+   "author": "Charles J. Sharp",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Blue_wildebeest_(Connochaetes_taurinus_taurinus)_male_Namibia.jpg"
+  }
+ },
+ {
+  "id": "black-wildebeest",
+  "name": "Black Wildebeest",
+  "scientific_name": "Connochaetes gnou",
+  "adw": "Connochaetes_gnou",
+  "sections": [
+   {
+    "key": "overview",
+    "title": "Overview",
+    "text": "See native range and biology below.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "native_range",
+    "title": "Native range",
+    "text": "South Africa highveld.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "size",
+    "title": "Size",
+    "text": "110–157 kg; 111–121 cm at shoulder.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "lifespan",
+    "title": "Lifespan",
+    "text": "~20 years.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "gestation",
+    "title": "Breeding & gestation",
+    "text": "8–8.5 months; one calf; weaned at 4 months.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "temperament_social",
+    "title": "Temperament & social structure",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "habitat_needs",
+    "title": "Habitat needs",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "us_regions",
+    "title": "Where they thrive (Texas / US)",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "space",
+    "title": "Space per animal",
+    "text": "No verified species-specific stocking rate was found. Carrying capacity depends on rainfall, range condition and competing grazers—get a range/stocking assessment (NRCS or Texas A&M AgriLife).",
+    "cite": []
+   },
+   {
+    "key": "housing_shelter",
+    "title": "Housing & shelter",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "fencing",
+    "title": "Fencing",
+    "text": "Texas Parks & Wildlife states game fences at least 8 ft high (woven-wire or high-tensile) are the only fully reliable deer-exclusion fence. That is the common high-fence standard for deer and antelope; a species-specific minimum for this animal was not found in a primary source.",
+    "cite": [
+     2
+    ]
+   },
+   {
+    "key": "diet",
+    "title": "Natural diet",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "feed_supplementation",
+    "title": "Feed & supplementation",
+    "text": "No verified species-specific protein % or mineral formula was found. Texas deer guidance (16–20% CP pellet; 13–16% CP for growth/reproduction) is sometimes used as a reference point but is not antelope-specific—work with a ruminant nutritionist/exotic vet.",
+    "cite": [
+     3,
+     4
+    ]
+   },
+   {
+    "key": "health_parasites",
+    "title": "Common health issues & parasites",
+    "text": "Carry ticks, flies, lungworms, tapeworms and paramphistome flukes. As a wildebeest, a potential AlHV-1 (malignant catarrhal fever) carrier—separate from cattle.",
+    "cite": [
+     1,
+     5
+    ]
+   },
+   {
+    "key": "vet",
+    "title": "Vet care & vaccination",
+    "text": "No vaccines are labeled for this species in the US; any vaccination protocol is extra-label and should be set by a veterinarian experienced with exotic hoofstock. (No specific protocol was verified for this page.)",
+    "cite": []
+   },
+   {
+    "key": "handling",
+    "title": "Handling & capture",
+    "text": "Capture myopathy—muscle damage from pursuit, restraint and transport—is often fatal in wild ungulates. Minimize chase time and stress, avoid hot conditions, use appropriate chemical immobilization by a vet, and release/unload quickly.",
+    "cite": [
+     6
+    ]
+   },
+   {
+    "key": "conservation",
+    "title": "Conservation status",
+    "text": "IUCN Red List: Least Concern.",
+    "cite": [
+     7
+    ]
+   },
+   {
+    "key": "legal",
+    "title": "Legal notes (general info, not legal advice)",
+    "text": "General information, not legal advice. USDA APHIS licensing under the Animal Welfare Act applies to dealers and exhibitors; check USDA and your state wildlife and animal-health agencies before buying, moving or selling.",
+    "cite": [
+     8,
+     9
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "n": 1,
+    "title": "Animal Diversity Web (Univ. of Michigan) – Connochaetes gnou",
+    "url": "https://animaldiversity.org/accounts/Connochaetes_gnou/"
+   },
+   {
+    "n": 2,
+    "title": "TPWD, Local Control Methods (deer damage): 8-ft woven-wire/high-tensile game fence",
+    "url": "https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_1196.pdf"
+   },
+   {
+    "n": 3,
+    "title": "TPWD, Specific Habitat Management Practices – White-tailed Deer (16–20% protein pellet; corn 7–10% CP)",
+    "url": "https://tpwd.texas.gov/landwater/land/private/agricultural_land/stx2010/Appendix%20F%20White-tailed%20Deer.pdf"
+   },
+   {
+    "n": 4,
+    "title": "Tomeček, Texas A&M AgriLife Extension – Deer & goat co-management (6–7% CP maintenance; 13–16% CP growth/antlers/reproduction)",
+    "url": "https://agrilife.org/agrilifesheepandgoat/files/2019/09/5-DeerGoatCoMgmt-Dr.-John-Tomecek.pdf"
+   },
+   {
+    "n": 5,
+    "title": "Merck Veterinary Manual – Malignant Catarrhal Fever",
+    "url": "https://www.merckvetmanual.com/generalized-conditions/malignant-catarrhal-fever/malignant-catarrhal-fever-in-animals"
+   },
+   {
+    "n": 6,
+    "title": "Breed et al. 2019, Understanding capture myopathy (Conservation Physiology, PMC6612673)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6612673/"
+   },
+   {
+    "n": 7,
+    "title": "IUCN Red List – Connochaetes gnou (assessment page)",
+    "url": "https://www.iucnredlist.org/species/5228/50184962"
+   },
+   {
+    "n": 8,
+    "title": "TPWD Outdoor Annual – Nongame, Exotic & Other Species (exotic status in Texas)",
+    "url": "https://tpwd.texas.gov/regulations/outdoor-annual/hunting/nongame-and-other-species"
+   },
+   {
+    "n": 9,
+    "title": "USDA APHIS – Animal Welfare Act licensing & registration",
+    "url": "https://www.aphis.usda.gov/awa"
+   }
+  ],
+  "image": {
+   "file": "img/black-wildebeest.jpg",
+   "author": "Bernard DUPONT from FRANCE",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Black_Wildebeest_(Connochaetes_gnou)_(31746882054).jpg"
+  }
+ },
+ {
+  "id": "plains-zebra",
+  "name": "Plains Zebra",
+  "scientific_name": "Equus quagga",
+  "adw": "Equus_burchellii",
+  "sections": [
+   {
+    "key": "overview",
+    "title": "Overview",
+    "text": "The plains zebra includes several subspecies; Grant's zebra (E. quagga boehmi) is the subspecies commonly kept on Texas ranches (industry usage; not confirmed by a primary source).",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "native_range",
+    "title": "Native range",
+    "text": "East and southern Africa.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "size",
+    "title": "Size",
+    "text": "175–385 kg (plains zebra).",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "lifespan",
+    "title": "Lifespan",
+    "text": "~9–20 years wild; 35–40 years captive.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "gestation",
+    "title": "Breeding & gestation",
+    "text": "360–396 days.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "temperament_social",
+    "title": "Temperament & social structure",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "habitat_needs",
+    "title": "Habitat needs",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "us_regions",
+    "title": "Where they thrive (Texas / US)",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "space",
+    "title": "Space per animal",
+    "text": "No verified species-specific stocking rate was found. Carrying capacity depends on rainfall, range condition and competing grazers—get a range/stocking assessment (NRCS or Texas A&M AgriLife).",
+    "cite": []
+   },
+   {
+    "key": "housing_shelter",
+    "title": "Housing & shelter",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "fencing",
+    "title": "Fencing",
+    "text": "Woven-wire game fence, 6–8 ft, without barbed wire is common for zebra, but no primary-source minimum was verified; 8-ft game fence is the TPWD deer standard.",
+    "cite": [
+     2
+    ]
+   },
+   {
+    "key": "diet",
+    "title": "Natural diet",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "feed_supplementation",
+    "title": "Feed & supplementation",
+    "text": "No verified species-specific protein % or mineral formula was found. Texas deer guidance (16–20% CP pellet; 13–16% CP for growth/reproduction) is sometimes used as a reference point but is not antelope-specific—work with a ruminant nutritionist/exotic vet.",
+    "cite": [
+     3,
+     4
+    ]
+   },
+   {
+    "key": "health_parasites",
+    "title": "Common health issues & parasites",
+    "text": "No verified species-specific list for this page; equids are hindgut fermenters—consult an equine/exotic vet.",
+    "cite": []
+   },
+   {
+    "key": "vet",
+    "title": "Vet care & vaccination",
+    "text": "No vaccines are labeled for this species in the US; any vaccination protocol is extra-label and should be set by a veterinarian experienced with exotic hoofstock. (No specific protocol was verified for this page.)",
+    "cite": []
+   },
+   {
+    "key": "handling",
+    "title": "Handling & capture",
+    "text": "Capture myopathy—muscle damage from pursuit, restraint and transport—is often fatal in wild ungulates. Minimize chase time and stress, avoid hot conditions, use appropriate chemical immobilization by a vet, and release/unload quickly.",
+    "cite": [
+     5
+    ]
+   },
+   {
+    "key": "conservation",
+    "title": "Conservation status",
+    "text": "IUCN Red List: Near Threatened.",
+    "cite": [
+     6
+    ]
+   },
+   {
+    "key": "legal",
+    "title": "Legal notes (general info, not legal advice)",
+    "text": "General information, not legal advice. USDA APHIS licensing under the Animal Welfare Act applies to dealers and exhibitors; check USDA and your state wildlife and animal-health agencies before buying, moving or selling.",
+    "cite": [
+     7,
+     8
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "n": 1,
+    "title": "Animal Diversity Web (Univ. of Michigan) – Equus burchellii",
+    "url": "https://animaldiversity.org/accounts/Equus_burchellii/"
+   },
+   {
+    "n": 2,
+    "title": "TPWD, Local Control Methods (deer damage): 8-ft woven-wire/high-tensile game fence",
+    "url": "https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_1196.pdf"
+   },
+   {
+    "n": 3,
+    "title": "TPWD, Specific Habitat Management Practices – White-tailed Deer (16–20% protein pellet; corn 7–10% CP)",
+    "url": "https://tpwd.texas.gov/landwater/land/private/agricultural_land/stx2010/Appendix%20F%20White-tailed%20Deer.pdf"
+   },
+   {
+    "n": 4,
+    "title": "Tomeček, Texas A&M AgriLife Extension – Deer & goat co-management (6–7% CP maintenance; 13–16% CP growth/antlers/reproduction)",
+    "url": "https://agrilife.org/agrilifesheepandgoat/files/2019/09/5-DeerGoatCoMgmt-Dr.-John-Tomecek.pdf"
+   },
+   {
+    "n": 5,
+    "title": "Breed et al. 2019, Understanding capture myopathy (Conservation Physiology, PMC6612673)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6612673/"
+   },
+   {
+    "n": 6,
+    "title": "IUCN Red List – Equus quagga (assessment page)",
+    "url": "https://www.iucnredlist.org/species/41013/45172424"
+   },
+   {
+    "n": 7,
+    "title": "TPWD Outdoor Annual – Nongame, Exotic & Other Species (exotic status in Texas)",
+    "url": "https://tpwd.texas.gov/regulations/outdoor-annual/hunting/nongame-and-other-species"
+   },
+   {
+    "n": 8,
+    "title": "USDA APHIS – Animal Welfare Act licensing & registration",
+    "url": "https://www.aphis.usda.gov/awa"
+   }
+  ],
+  "image": {
+   "file": "img/plains-zebra.jpg",
+   "author": "Joachim Huber 2007-2025 (R.I.P.)",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Equus_quagga.jpg"
+  }
+ },
+ {
+  "id": "grevys-zebra",
+  "name": "Grévy's Zebra",
+  "scientific_name": "Equus grevyi",
+  "adw": "Equus_grevyi",
+  "sections": [
+   {
+    "key": "overview",
+    "title": "Overview",
+    "text": "See native range and biology below.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "native_range",
+    "title": "Native range",
+    "text": "Northern Kenya and small areas of southern Ethiopia; Kenya estimate 1,838–2,319, Ethiopia ~126 (ADW).",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "size",
+    "title": "Size",
+    "text": "349–451 kg.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "lifespan",
+    "title": "Lifespan",
+    "text": "Up to 18 years wild; 22–30 years captive.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "gestation",
+    "title": "Breeding & gestation",
+    "text": "358–438 days (avg 390).",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "temperament_social",
+    "title": "Temperament & social structure",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "habitat_needs",
+    "title": "Habitat needs",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "us_regions",
+    "title": "Where they thrive (Texas / US)",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "space",
+    "title": "Space per animal",
+    "text": "No verified species-specific stocking rate was found. Carrying capacity depends on rainfall, range condition and competing grazers—get a range/stocking assessment (NRCS or Texas A&M AgriLife).",
+    "cite": []
+   },
+   {
+    "key": "housing_shelter",
+    "title": "Housing & shelter",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "fencing",
+    "title": "Fencing",
+    "text": "Woven-wire game fence, 6–8 ft, without barbed wire is common for zebra, but no primary-source minimum was verified; 8-ft game fence is the TPWD deer standard.",
+    "cite": [
+     2
+    ]
+   },
+   {
+    "key": "diet",
+    "title": "Natural diet",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "feed_supplementation",
+    "title": "Feed & supplementation",
+    "text": "No verified species-specific protein % or mineral formula was found. Texas deer guidance (16–20% CP pellet; 13–16% CP for growth/reproduction) is sometimes used as a reference point but is not antelope-specific—work with a ruminant nutritionist/exotic vet.",
+    "cite": [
+     3,
+     4
+    ]
+   },
+   {
+    "key": "health_parasites",
+    "title": "Common health issues & parasites",
+    "text": "No verified species-specific list for this page; equids are hindgut fermenters—consult an equine/exotic vet.",
+    "cite": []
+   },
+   {
+    "key": "vet",
+    "title": "Vet care & vaccination",
+    "text": "No vaccines are labeled for this species in the US; any vaccination protocol is extra-label and should be set by a veterinarian experienced with exotic hoofstock. (No specific protocol was verified for this page.)",
+    "cite": []
+   },
+   {
+    "key": "handling",
+    "title": "Handling & capture",
+    "text": "Capture myopathy—muscle damage from pursuit, restraint and transport—is often fatal in wild ungulates. Minimize chase time and stress, avoid hot conditions, use appropriate chemical immobilization by a vet, and release/unload quickly.",
+    "cite": [
+     5
+    ]
+   },
+   {
+    "key": "conservation",
+    "title": "Conservation status",
+    "text": "IUCN Red List: Endangered.",
+    "cite": [
+     6
+    ]
+   },
+   {
+    "key": "legal",
+    "title": "Legal notes (general info, not legal advice)",
+    "text": "Listed Threatened under the US ESA (44 FR 49218, 1979). General information, not legal advice. USDA APHIS licensing under the Animal Welfare Act applies to dealers and exhibitors; check USDA and your state wildlife and animal-health agencies before buying, moving or selling.",
+    "cite": [
+     7,
+     8,
+     9
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "n": 1,
+    "title": "Animal Diversity Web (Univ. of Michigan) – Equus grevyi",
+    "url": "https://animaldiversity.org/accounts/Equus_grevyi/"
+   },
+   {
+    "n": 2,
+    "title": "TPWD, Local Control Methods (deer damage): 8-ft woven-wire/high-tensile game fence",
+    "url": "https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_1196.pdf"
+   },
+   {
+    "n": 3,
+    "title": "TPWD, Specific Habitat Management Practices – White-tailed Deer (16–20% protein pellet; corn 7–10% CP)",
+    "url": "https://tpwd.texas.gov/landwater/land/private/agricultural_land/stx2010/Appendix%20F%20White-tailed%20Deer.pdf"
+   },
+   {
+    "n": 4,
+    "title": "Tomeček, Texas A&M AgriLife Extension – Deer & goat co-management (6–7% CP maintenance; 13–16% CP growth/antlers/reproduction)",
+    "url": "https://agrilife.org/agrilifesheepandgoat/files/2019/09/5-DeerGoatCoMgmt-Dr.-John-Tomecek.pdf"
+   },
+   {
+    "n": 5,
+    "title": "Breed et al. 2019, Understanding capture myopathy (Conservation Physiology, PMC6612673)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6612673/"
+   },
+   {
+    "n": 6,
+    "title": "IUCN Red List – Equus grevyi (assessment page)",
+    "url": "https://www.iucnredlist.org/species/7950/89624491"
+   },
+   {
+    "n": 7,
+    "title": "USFWS – 44 FR 49218 (1979): Threatened status for Grévy's zebra",
+    "url": "https://www.fws.gov/species-publication-action/etwp-determination-threatened-status-grevys-zebra-and-hartmanns-0"
+   },
+   {
+    "n": 8,
+    "title": "USFWS ECOS – Listed Animals (current ESA status)",
+    "url": "https://ecos.fws.gov/ecp0/pub/listedAnimals.jsp"
+   },
+   {
+    "n": 9,
+    "title": "USDA APHIS – Animal Welfare Act licensing & registration",
+    "url": "https://www.aphis.usda.gov/awa"
+   }
+  ],
+  "image": {
+   "file": "img/grevys-zebra.jpg",
+   "author": "Rainbirder",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Grevy%27s_Zebra_Stallion.jpg"
+  }
+ },
+ {
+  "id": "elk",
+  "name": "Elk (Wapiti)",
+  "scientific_name": "Cervus canadensis",
+  "adw": "Cervus_elaphus",
+  "sections": [
+   {
+    "key": "overview",
+    "title": "Overview",
+    "text": "See native range and biology below.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "native_range",
+    "title": "Native range",
+    "text": "North America (ADW account treats elk under C. elaphus).",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "size",
+    "title": "Size",
+    "text": "Males 178–497 kg (avg 331), females 171–292 kg (avg 241).",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "lifespan",
+    "title": "Lifespan",
+    "text": "Can exceed 20 years.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "gestation",
+    "title": "Breeding & gestation",
+    "text": "240–262 days; single calf 15–16 kg; weaned within 60 days.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "temperament_social",
+    "title": "Temperament & social structure",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "habitat_needs",
+    "title": "Habitat needs",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "us_regions",
+    "title": "Where they thrive (Texas / US)",
+    "text": "A free-ranging elk tested CWD-positive in Dallam County (Panhandle) in 2016; no fuller Texas distribution was found. See the interactive Texas species map (../site/map.html).",
+    "cite": [
+     2
+    ]
+   },
+   {
+    "key": "space",
+    "title": "Space per animal",
+    "text": "No verified species-specific stocking rate was found. Carrying capacity depends on rainfall, range condition and competing grazers—get a range/stocking assessment (NRCS or Texas A&M AgriLife).",
+    "cite": []
+   },
+   {
+    "key": "housing_shelter",
+    "title": "Housing & shelter",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "fencing",
+    "title": "Fencing",
+    "text": "Texas Parks & Wildlife states game fences at least 8 ft high (woven-wire or high-tensile) are the only fully reliable deer-exclusion fence. That is the common high-fence standard for deer and antelope; a species-specific minimum for this animal was not found in a primary source.",
+    "cite": [
+     3
+    ]
+   },
+   {
+    "key": "diet",
+    "title": "Natural diet",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "feed_supplementation",
+    "title": "Feed & supplementation",
+    "text": "For supplementation TPWD recommends a 16–20% crude-protein pelleted feed rather than corn (corn is only 7–10% CP). AgriLife cites ~6–7% CP for rumen maintenance and 13–16% CP for growth, antler production and reproduction (white-tailed deer data; applied to exotic deer by analogy). Mineral program: set with a nutritionist/vet; no verified species figure.",
+    "cite": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "key": "health_parasites",
+    "title": "Common health issues & parasites",
+    "text": "Haemonchus contortus and Longistrongylus dominate abomasal worm burdens in free-ranging exotic antelope in Texas (sable, addax, blesbok studied); captive wild ruminants show anthelmintic resistance, so use fecal egg counts and fecal egg-count reduction tests instead of routine blanket deworming.",
+    "cite": [
+     7,
+     8
+    ]
+   },
+   {
+    "key": "vet",
+    "title": "Vet care & vaccination",
+    "text": "No vaccines are labeled for this species in the US; any vaccination protocol is extra-label and should be set by a veterinarian experienced with exotic hoofstock. (No specific protocol was verified for this page.)",
+    "cite": []
+   },
+   {
+    "key": "handling",
+    "title": "Handling & capture",
+    "text": "Capture myopathy—muscle damage from pursuit, restraint and transport—is often fatal in wild ungulates. Minimize chase time and stress, avoid hot conditions, use appropriate chemical immobilization by a vet, and release/unload quickly.",
+    "cite": [
+     9
+    ]
+   },
+   {
+    "key": "conservation",
+    "title": "Conservation status",
+    "text": "IUCN Red List: Least Concern.",
+    "cite": [
+     10
+    ]
+   },
+   {
+    "key": "legal",
+    "title": "Legal notes (general info, not legal advice)",
+    "text": " In Texas, exotic CWD-susceptible species (elk, red deer, sika and others) must carry official ID, have movements reported to TAHC within 48 hours, and eligible mortalities tested; TAHC ended its voluntary CWD Herd Certification Program on Sept 16, 2025. General information, not legal advice. USDA APHIS licensing under the Animal Welfare Act applies to dealers and exhibitors; check USDA and your state wildlife and animal-health agencies before buying, moving or selling.",
+    "cite": [
+     2,
+     11,
+     12,
+     13
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "n": 1,
+    "title": "Animal Diversity Web (Univ. of Michigan) – Cervus elaphus",
+    "url": "https://animaldiversity.org/accounts/Cervus_elaphus/"
+   },
+   {
+    "n": 2,
+    "title": "TAHC – Chronic Wasting Disease & exotic CWD-susceptible species",
+    "url": "https://www.tahc.texas.gov/animal_health/elk-deer/"
+   },
+   {
+    "n": 3,
+    "title": "TPWD, Local Control Methods (deer damage): 8-ft woven-wire/high-tensile game fence",
+    "url": "https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_1196.pdf"
+   },
+   {
+    "n": 4,
+    "title": "TPWD, Specific Habitat Management Practices – White-tailed Deer (16–20% protein pellet; corn 7–10% CP)",
+    "url": "https://tpwd.texas.gov/landwater/land/private/agricultural_land/stx2010/Appendix%20F%20White-tailed%20Deer.pdf"
+   },
+   {
+    "n": 5,
+    "title": "Tomeček, Texas A&M AgriLife Extension – Deer & goat co-management (6–7% CP maintenance; 13–16% CP growth/antlers/reproduction)",
+    "url": "https://agrilife.org/agrilifesheepandgoat/files/2019/09/5-DeerGoatCoMgmt-Dr.-John-Tomecek.pdf"
+   },
+   {
+    "n": 6,
+    "title": "Texas A&M AgriLife – Supplemental Feeding of White-tailed Deer",
+    "url": "https://mytexas.ag.tamu.edu/publications/supplemental-feeding-of-white-tailed-deer/"
+   },
+   {
+    "n": 7,
+    "title": "Longistrongylus/Haemonchus in free-ranging exotic antelope in Texas (J. Wildl. Dis., PubMed 8355363)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8355363/"
+   },
+   {
+    "n": 8,
+    "title": "Anthelmintic activity in captive wild ruminants by fecal egg reduction tests (J. Zoo Wildl. Med. 2000)",
+    "url": "https://doi.org/10.1638/1042-7260(2000)031[0348:eoaaic]2.0.co;2"
+   },
+   {
+    "n": 9,
+    "title": "Breed et al. 2019, Understanding capture myopathy (Conservation Physiology, PMC6612673)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6612673/"
+   },
+   {
+    "n": 10,
+    "title": "IUCN Red List – Cervus canadensis (assessment page)",
+    "url": "https://www.iucnredlist.org/species/55997823/142396828"
+   },
+   {
+    "n": 11,
+    "title": "TAHC Complete Rules (4 TAC Part 2; Ch. 40 CWD §40.5 movement/ID/reporting; Ch. 41 Fever Ticks)",
+    "url": "https://www.tahc.texas.gov/regs/pdf/TAHCCompleteRules.pdf"
+   },
+   {
+    "n": 12,
+    "title": "TPWD Outdoor Annual – Nongame, Exotic & Other Species (exotic status in Texas)",
+    "url": "https://tpwd.texas.gov/regulations/outdoor-annual/hunting/nongame-and-other-species"
+   },
+   {
+    "n": 13,
+    "title": "USDA APHIS – Animal Welfare Act licensing & registration",
+    "url": "https://www.aphis.usda.gov/awa"
+   }
+  ],
+  "image": {
+   "file": "img/elk.jpg",
+   "author": "Membeth",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "source": "https://commons.wikimedia.org/wiki/File:Jasper.Wapiti-Hirsch.P1033401.jpg"
+  }
+ },
+ {
+  "id": "red-deer",
+  "name": "Red Deer",
+  "scientific_name": "Cervus elaphus",
+  "adw": "Cervus_elaphus",
+  "sections": [
+   {
+    "key": "overview",
+    "title": "Overview",
+    "text": "See native range and biology below.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "native_range",
+    "title": "Native range",
+    "text": "Europe, western Asia, North Africa.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "size",
+    "title": "Size",
+    "text": "Varies widely by subspecies; European red deer weights not verified separately (ADW's account is elk-focused).",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "lifespan",
+    "title": "Lifespan",
+    "text": "Not verified separately.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "gestation",
+    "title": "Breeding & gestation",
+    "text": "~240–262 days (ADW, elk-focused account).",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "temperament_social",
+    "title": "Temperament & social structure",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "habitat_needs",
+    "title": "Habitat needs",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "us_regions",
+    "title": "Where they thrive (Texas / US)",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "space",
+    "title": "Space per animal",
+    "text": "No verified species-specific stocking rate was found. Carrying capacity depends on rainfall, range condition and competing grazers—get a range/stocking assessment (NRCS or Texas A&M AgriLife).",
+    "cite": []
+   },
+   {
+    "key": "housing_shelter",
+    "title": "Housing & shelter",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "fencing",
+    "title": "Fencing",
+    "text": "Texas Parks & Wildlife states game fences at least 8 ft high (woven-wire or high-tensile) are the only fully reliable deer-exclusion fence. That is the common high-fence standard for deer and antelope; a species-specific minimum for this animal was not found in a primary source.",
+    "cite": [
+     2
+    ]
+   },
+   {
+    "key": "diet",
+    "title": "Natural diet",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "feed_supplementation",
+    "title": "Feed & supplementation",
+    "text": "For supplementation TPWD recommends a 16–20% crude-protein pelleted feed rather than corn (corn is only 7–10% CP). AgriLife cites ~6–7% CP for rumen maintenance and 13–16% CP for growth, antler production and reproduction (white-tailed deer data; applied to exotic deer by analogy). Mineral program: set with a nutritionist/vet; no verified species figure.",
+    "cite": [
+     3,
+     4,
+     5
+    ]
+   },
+   {
+    "key": "health_parasites",
+    "title": "Common health issues & parasites",
+    "text": "Haemonchus contortus and Longistrongylus dominate abomasal worm burdens in free-ranging exotic antelope in Texas (sable, addax, blesbok studied); captive wild ruminants show anthelmintic resistance, so use fecal egg counts and fecal egg-count reduction tests instead of routine blanket deworming.",
+    "cite": [
+     6,
+     7
+    ]
+   },
+   {
+    "key": "vet",
+    "title": "Vet care & vaccination",
+    "text": "No vaccines are labeled for this species in the US; any vaccination protocol is extra-label and should be set by a veterinarian experienced with exotic hoofstock. (No specific protocol was verified for this page.)",
+    "cite": []
+   },
+   {
+    "key": "handling",
+    "title": "Handling & capture",
+    "text": "Capture myopathy—muscle damage from pursuit, restraint and transport—is often fatal in wild ungulates. Minimize chase time and stress, avoid hot conditions, use appropriate chemical immobilization by a vet, and release/unload quickly.",
+    "cite": [
+     8
+    ]
+   },
+   {
+    "key": "conservation",
+    "title": "Conservation status",
+    "text": "IUCN Red List: Least Concern.",
+    "cite": [
+     9
+    ]
+   },
+   {
+    "key": "legal",
+    "title": "Legal notes (general info, not legal advice)",
+    "text": " In Texas, exotic CWD-susceptible species (elk, red deer, sika and others) must carry official ID, have movements reported to TAHC within 48 hours, and eligible mortalities tested; TAHC ended its voluntary CWD Herd Certification Program on Sept 16, 2025. General information, not legal advice. USDA APHIS licensing under the Animal Welfare Act applies to dealers and exhibitors; check USDA and your state wildlife and animal-health agencies before buying, moving or selling.",
+    "cite": [
+     10,
+     11,
+     12,
+     13
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "n": 1,
+    "title": "Animal Diversity Web (Univ. of Michigan) – Cervus elaphus",
+    "url": "https://animaldiversity.org/accounts/Cervus_elaphus/"
+   },
+   {
+    "n": 2,
+    "title": "TPWD, Local Control Methods (deer damage): 8-ft woven-wire/high-tensile game fence",
+    "url": "https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_1196.pdf"
+   },
+   {
+    "n": 3,
+    "title": "TPWD, Specific Habitat Management Practices – White-tailed Deer (16–20% protein pellet; corn 7–10% CP)",
+    "url": "https://tpwd.texas.gov/landwater/land/private/agricultural_land/stx2010/Appendix%20F%20White-tailed%20Deer.pdf"
+   },
+   {
+    "n": 4,
+    "title": "Tomeček, Texas A&M AgriLife Extension – Deer & goat co-management (6–7% CP maintenance; 13–16% CP growth/antlers/reproduction)",
+    "url": "https://agrilife.org/agrilifesheepandgoat/files/2019/09/5-DeerGoatCoMgmt-Dr.-John-Tomecek.pdf"
+   },
+   {
+    "n": 5,
+    "title": "Texas A&M AgriLife – Supplemental Feeding of White-tailed Deer",
+    "url": "https://mytexas.ag.tamu.edu/publications/supplemental-feeding-of-white-tailed-deer/"
+   },
+   {
+    "n": 6,
+    "title": "Longistrongylus/Haemonchus in free-ranging exotic antelope in Texas (J. Wildl. Dis., PubMed 8355363)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8355363/"
+   },
+   {
+    "n": 7,
+    "title": "Anthelmintic activity in captive wild ruminants by fecal egg reduction tests (J. Zoo Wildl. Med. 2000)",
+    "url": "https://doi.org/10.1638/1042-7260(2000)031[0348:eoaaic]2.0.co;2"
+   },
+   {
+    "n": 8,
+    "title": "Breed et al. 2019, Understanding capture myopathy (Conservation Physiology, PMC6612673)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6612673/"
+   },
+   {
+    "n": 9,
+    "title": "IUCN Red List – Cervus elaphus (assessment page)",
+    "url": "https://www.iucnredlist.org/species/55997072/142404453"
+   },
+   {
+    "n": 10,
+    "title": "TAHC – Chronic Wasting Disease & exotic CWD-susceptible species",
+    "url": "https://www.tahc.texas.gov/animal_health/elk-deer/"
+   },
+   {
+    "n": 11,
+    "title": "TAHC Complete Rules (4 TAC Part 2; Ch. 40 CWD §40.5 movement/ID/reporting; Ch. 41 Fever Ticks)",
+    "url": "https://www.tahc.texas.gov/regs/pdf/TAHCCompleteRules.pdf"
+   },
+   {
+    "n": 12,
+    "title": "TPWD Outdoor Annual – Nongame, Exotic & Other Species (exotic status in Texas)",
+    "url": "https://tpwd.texas.gov/regulations/outdoor-annual/hunting/nongame-and-other-species"
+   },
+   {
+    "n": 13,
+    "title": "USDA APHIS – Animal Welfare Act licensing & registration",
+    "url": "https://www.aphis.usda.gov/awa"
+   }
+  ],
+  "image": {
+   "file": "img/red-deer.jpg",
+   "author": "Lviatour",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cervus_elaphus_Luc_Viatour_6.jpg"
+  }
+ },
+ {
+  "id": "mouflon",
+  "name": "Mouflon",
+  "scientific_name": "Ovis gmelini (O. aries musimon)",
+  "adw": "Ovis_aries",
+  "sections": [
+   {
+    "key": "overview",
+    "title": "Overview",
+    "text": "See native range and biology below.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "native_range",
+    "title": "Native range",
+    "text": "Western Asia; feral in Corsica and Sardinia (ADW notes domestic sheep derive from mouflon).",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "size",
+    "title": "Size",
+    "text": "Not verified from a primary source.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "lifespan",
+    "title": "Lifespan",
+    "text": "Not verified.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "gestation",
+    "title": "Breeding & gestation",
+    "text": "Not verified.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "temperament_social",
+    "title": "Temperament & social structure",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "habitat_needs",
+    "title": "Habitat needs",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "us_regions",
+    "title": "Where they thrive (Texas / US)",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "space",
+    "title": "Space per animal",
+    "text": "No verified species-specific stocking rate was found. Carrying capacity depends on rainfall, range condition and competing grazers—get a range/stocking assessment (NRCS or Texas A&M AgriLife).",
+    "cite": []
+   },
+   {
+    "key": "housing_shelter",
+    "title": "Housing & shelter",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "fencing",
+    "title": "Fencing",
+    "text": "Texas Parks & Wildlife states game fences at least 8 ft high (woven-wire or high-tensile) are the only fully reliable deer-exclusion fence. That is the common high-fence standard for deer and antelope; a species-specific minimum for this animal was not found in a primary source.",
+    "cite": [
+     2
+    ]
+   },
+   {
+    "key": "diet",
+    "title": "Natural diet",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "feed_supplementation",
+    "title": "Feed & supplementation",
+    "text": "No verified species-specific protein % or mineral formula was found. Texas deer guidance (16–20% CP pellet; 13–16% CP for growth/reproduction) is sometimes used as a reference point but is not antelope-specific—work with a ruminant nutritionist/exotic vet.",
+    "cite": [
+     3,
+     4
+    ]
+   },
+   {
+    "key": "health_parasites",
+    "title": "Common health issues & parasites",
+    "text": "Haemonchus contortus and Longistrongylus dominate abomasal worm burdens in free-ranging exotic antelope in Texas (sable, addax, blesbok studied); captive wild ruminants show anthelmintic resistance, so use fecal egg counts and fecal egg-count reduction tests instead of routine blanket deworming.",
+    "cite": [
+     5,
+     6
+    ]
+   },
+   {
+    "key": "vet",
+    "title": "Vet care & vaccination",
+    "text": "No vaccines are labeled for this species in the US; any vaccination protocol is extra-label and should be set by a veterinarian experienced with exotic hoofstock. (No specific protocol was verified for this page.)",
+    "cite": []
+   },
+   {
+    "key": "handling",
+    "title": "Handling & capture",
+    "text": "Capture myopathy—muscle damage from pursuit, restraint and transport—is often fatal in wild ungulates. Minimize chase time and stress, avoid hot conditions, use appropriate chemical immobilization by a vet, and release/unload quickly.",
+    "cite": [
+     7
+    ]
+   },
+   {
+    "key": "conservation",
+    "title": "Conservation status",
+    "text": "IUCN Red List: Near Threatened.",
+    "cite": [
+     8
+    ]
+   },
+   {
+    "key": "legal",
+    "title": "Legal notes (general info, not legal advice)",
+    "text": "General information, not legal advice. USDA APHIS licensing under the Animal Welfare Act applies to dealers and exhibitors; check USDA and your state wildlife and animal-health agencies before buying, moving or selling.",
+    "cite": [
+     9,
+     10
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "n": 1,
+    "title": "Animal Diversity Web (Univ. of Michigan) – Ovis aries",
+    "url": "https://animaldiversity.org/accounts/Ovis_aries/"
+   },
+   {
+    "n": 2,
+    "title": "TPWD, Local Control Methods (deer damage): 8-ft woven-wire/high-tensile game fence",
+    "url": "https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_1196.pdf"
+   },
+   {
+    "n": 3,
+    "title": "TPWD, Specific Habitat Management Practices – White-tailed Deer (16–20% protein pellet; corn 7–10% CP)",
+    "url": "https://tpwd.texas.gov/landwater/land/private/agricultural_land/stx2010/Appendix%20F%20White-tailed%20Deer.pdf"
+   },
+   {
+    "n": 4,
+    "title": "Tomeček, Texas A&M AgriLife Extension – Deer & goat co-management (6–7% CP maintenance; 13–16% CP growth/antlers/reproduction)",
+    "url": "https://agrilife.org/agrilifesheepandgoat/files/2019/09/5-DeerGoatCoMgmt-Dr.-John-Tomecek.pdf"
+   },
+   {
+    "n": 5,
+    "title": "Longistrongylus/Haemonchus in free-ranging exotic antelope in Texas (J. Wildl. Dis., PubMed 8355363)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8355363/"
+   },
+   {
+    "n": 6,
+    "title": "Anthelmintic activity in captive wild ruminants by fecal egg reduction tests (J. Zoo Wildl. Med. 2000)",
+    "url": "https://doi.org/10.1638/1042-7260(2000)031[0348:eoaaic]2.0.co;2"
+   },
+   {
+    "n": 7,
+    "title": "Breed et al. 2019, Understanding capture myopathy (Conservation Physiology, PMC6612673)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6612673/"
+   },
+   {
+    "n": 8,
+    "title": "IUCN Red List – Ovis gmelini (O. aries musimon) (assessment page)",
+    "url": "https://www.iucnredlist.org/species/54940218/22147055"
+   },
+   {
+    "n": 9,
+    "title": "TPWD Outdoor Annual – Nongame, Exotic & Other Species (exotic status in Texas)",
+    "url": "https://tpwd.texas.gov/regulations/outdoor-annual/hunting/nongame-and-other-species"
+   },
+   {
+    "n": 10,
+    "title": "USDA APHIS – Animal Welfare Act licensing & registration",
+    "url": "https://www.aphis.usda.gov/awa"
+   }
+  ],
+  "image": {
+   "file": "img/mouflon.jpg",
+   "author": "Charles J. Sharp",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cyprus_mouflon_(Ovis_gmelini_ophion).jpg"
+  }
+ },
+ {
+  "id": "ibex",
+  "name": "Alpine Ibex",
+  "scientific_name": "Capra ibex",
+  "adw": "Capra_ibex",
+  "sections": [
+   {
+    "key": "overview",
+    "title": "Overview",
+    "text": "See native range and biology below.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "native_range",
+    "title": "Native range",
+    "text": "European Alps.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "size",
+    "title": "Size",
+    "text": "Males 80–100 kg (65–105 cm shoulder); females 30–50 kg (65–70 cm).",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "lifespan",
+    "title": "Lifespan",
+    "text": "10–18 years wild; record 21 yr 3 mo captive.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "gestation",
+    "title": "Breeding & gestation",
+    "text": "147–180 days; mature 8–12 months, breed at 2–3 years.",
+    "cite": [
+     1
+    ]
+   },
+   {
+    "key": "temperament_social",
+    "title": "Temperament & social structure",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "habitat_needs",
+    "title": "Habitat needs",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "us_regions",
+    "title": "Where they thrive (Texas / US)",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "space",
+    "title": "Space per animal",
+    "text": "No verified species-specific stocking rate was found. Carrying capacity depends on rainfall, range condition and competing grazers—get a range/stocking assessment (NRCS or Texas A&M AgriLife).",
+    "cite": []
+   },
+   {
+    "key": "housing_shelter",
+    "title": "Housing & shelter",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "fencing",
+    "title": "Fencing",
+    "text": "Texas Parks & Wildlife states game fences at least 8 ft high (woven-wire or high-tensile) are the only fully reliable deer-exclusion fence. That is the common high-fence standard for deer and antelope; a species-specific minimum for this animal was not found in a primary source.",
+    "cite": [
+     2
+    ]
+   },
+   {
+    "key": "diet",
+    "title": "Natural diet",
+    "text": "Not verified from a primary source for this page.",
+    "cite": []
+   },
+   {
+    "key": "feed_supplementation",
+    "title": "Feed & supplementation",
+    "text": "No verified species-specific protein % or mineral formula was found. Texas deer guidance (16–20% CP pellet; 13–16% CP for growth/reproduction) is sometimes used as a reference point but is not antelope-specific—work with a ruminant nutritionist/exotic vet.",
+    "cite": [
+     3,
+     4
+    ]
+   },
+   {
+    "key": "health_parasites",
+    "title": "Common health issues & parasites",
+    "text": "Haemonchus contortus and Longistrongylus dominate abomasal worm burdens in free-ranging exotic antelope in Texas (sable, addax, blesbok studied); captive wild ruminants show anthelmintic resistance, so use fecal egg counts and fecal egg-count reduction tests instead of routine blanket deworming.",
+    "cite": [
+     5,
+     6
+    ]
+   },
+   {
+    "key": "vet",
+    "title": "Vet care & vaccination",
+    "text": "No vaccines are labeled for this species in the US; any vaccination protocol is extra-label and should be set by a veterinarian experienced with exotic hoofstock. (No specific protocol was verified for this page.)",
+    "cite": []
+   },
+   {
+    "key": "handling",
+    "title": "Handling & capture",
+    "text": "Capture myopathy—muscle damage from pursuit, restraint and transport—is often fatal in wild ungulates. Minimize chase time and stress, avoid hot conditions, use appropriate chemical immobilization by a vet, and release/unload quickly.",
+    "cite": [
+     7
+    ]
+   },
+   {
+    "key": "conservation",
+    "title": "Conservation status",
+    "text": "IUCN: Least Concern (Alpine ibex); Nubian ibex is Vulnerable.",
+    "cite": [
+     8
+    ]
+   },
+   {
+    "key": "legal",
+    "title": "Legal notes (general info, not legal advice)",
+    "text": "General information, not legal advice. USDA APHIS licensing under the Animal Welfare Act applies to dealers and exhibitors; check USDA and your state wildlife and animal-health agencies before buying, moving or selling.",
+    "cite": [
+     9,
+     10
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "n": 1,
+    "title": "Animal Diversity Web (Univ. of Michigan) – Capra ibex",
+    "url": "https://animaldiversity.org/accounts/Capra_ibex/"
+   },
+   {
+    "n": 2,
+    "title": "TPWD, Local Control Methods (deer damage): 8-ft woven-wire/high-tensile game fence",
+    "url": "https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_1196.pdf"
+   },
+   {
+    "n": 3,
+    "title": "TPWD, Specific Habitat Management Practices – White-tailed Deer (16–20% protein pellet; corn 7–10% CP)",
+    "url": "https://tpwd.texas.gov/landwater/land/private/agricultural_land/stx2010/Appendix%20F%20White-tailed%20Deer.pdf"
+   },
+   {
+    "n": 4,
+    "title": "Tomeček, Texas A&M AgriLife Extension – Deer & goat co-management (6–7% CP maintenance; 13–16% CP growth/antlers/reproduction)",
+    "url": "https://agrilife.org/agrilifesheepandgoat/files/2019/09/5-DeerGoatCoMgmt-Dr.-John-Tomecek.pdf"
+   },
+   {
+    "n": 5,
+    "title": "Longistrongylus/Haemonchus in free-ranging exotic antelope in Texas (J. Wildl. Dis., PubMed 8355363)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8355363/"
+   },
+   {
+    "n": 6,
+    "title": "Anthelmintic activity in captive wild ruminants by fecal egg reduction tests (J. Zoo Wildl. Med. 2000)",
+    "url": "https://doi.org/10.1638/1042-7260(2000)031[0348:eoaaic]2.0.co;2"
+   },
+   {
+    "n": 7,
+    "title": "Breed et al. 2019, Understanding capture myopathy (Conservation Physiology, PMC6612673)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6612673/"
+   },
+   {
+    "n": 8,
+    "title": "IUCN Red List – Capra ibex (assessment page)",
+    "url": "https://www.iucnredlist.org/species/42397/161916377"
+   },
+   {
+    "n": 9,
+    "title": "TPWD Outdoor Annual – Nongame, Exotic & Other Species (exotic status in Texas)",
+    "url": "https://tpwd.texas.gov/regulations/outdoor-annual/hunting/nongame-and-other-species"
+   },
+   {
+    "n": 10,
+    "title": "USDA APHIS – Animal Welfare Act licensing & registration",
+    "url": "https://www.aphis.usda.gov/awa"
+   }
+  ],
+  "image": {
+   "file": "img/ibex.jpg",
+   "author": "Giles Laurent",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:003_Wild_Alpine_Ibex_Sunset_Creux_du_Van_Mont_Racine_Photo_by_Giles_Laurent.jpg"
+  }
+ }
+]
