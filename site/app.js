@@ -20,6 +20,7 @@ document.addEventListener('click',function(e){
  var p=primary(card);if(!p)return;e.preventDefault();
  if(isExt(p.getAttribute('href')))openExt(p.href);else location.href=p.href},false);
 var st=document.createElement('style');st.textContent='.card.clickable{cursor:pointer;transition:box-shadow .15s,transform .15s}.card.clickable:hover{box-shadow:0 6px 18px rgba(0,0,0,.18);transform:translateY(-2px)}.card .visit{margin-top:8px;font-weight:600;color:#5b2c83;font-size:.9em}';
-function start(){document.head.appendChild(st);scan(document);new MutationObserver(function(m){m.forEach(function(x){x.addedNodes.forEach(function(n){if(n.nodeType===1)scan(n)})})}).observe(document.body,{childList:true,subtree:true})}
+function homeLink(){var h=document.querySelector('header h1');if(!h||h.querySelector('a'))return;var home=/\/species\//.test(location.pathname)?'../site/index.html':'index.html';h.innerHTML='<a href="'+home+'" style="color:inherit;text-decoration:none">'+h.innerHTML+'</a>'}
+function start(){document.head.appendChild(st);homeLink();scan(document);new MutationObserver(function(m){m.forEach(function(x){x.addedNodes.forEach(function(n){if(n.nodeType===1)scan(n)})})}).observe(document.body,{childList:true,subtree:true})}
 if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',start);else start();
 })();
