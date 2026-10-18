@@ -173,5 +173,495 @@
   "license": "CC BY-SA 2.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
   "source": "https://commons.wikimedia.org/wiki/File:Equus_quagga.jpg"
+ },
+ "banteng": {
+  "file": "img/banteng.jpg",
+  "author": "Buyung Sukananda",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Alas_Purwo_banteng_close_up.jpg"
+ },
+ "barasingha": {
+  "file": "img/barasingha.jpg",
+  "author": "T. R. Shankar Raman",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Barasingha_females.JPG"
+ },
+ "american-bison": {
+  "file": "img/american-bison.jpg",
+  "author": "Jack Dykinga",
+  "license": "Public domain",
+  "license_url": "https://commons.wikimedia.org/wiki/File:American_bison_k5680-1.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:American_bison_k5680-1.jpg"
+ },
+ "european-bison": {
+  "file": "img/european-bison.jpg",
+  "author": "Charles J. Sharp",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:European_bison_(Bison_bonasus)_male_Bia%C5%82owieza.jpg"
+ },
+ "bongo": {
+  "file": "img/bongo.jpg",
+  "author": "Joanne Merriam",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source": "https://commons.wikimedia.org/wiki/File:Bongo_NashvilleZoo.jpg"
+ },
+ "bushbuck": {
+  "file": "img/bushbuck.jpg",
+  "author": "Hans Hillewaert",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Tragelaphus_scriptus_(male).jpg"
+ },
+ "sitatunga": {
+  "file": "img/sitatunga.jpg",
+  "author": "User:Løken",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Sitatunga_at_Oji_Zoo.JPG"
+ },
+ "cape-buffalo": {
+  "file": "img/cape-buffalo.jpg",
+  "author": "Paul M Rae",
+  "license": "CC BY 2.5",
+  "license_url": "https://creativecommons.org/licenses/by/2.5",
+  "source": "https://commons.wikimedia.org/wiki/File:African_Buffalo.JPG"
+ },
+ "gaur": {
+  "file": "img/gaur.jpg",
+  "author": "PJeganathan",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Indian_Gaur_from_anaimalai_hills_JEG5290.jpg"
+ },
+ "chamois": {
+  "file": "img/chamois.jpg",
+  "author": "Giles Laurent",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:064_Wild_Chamois_Parc_r%C3%A9gional_Chasseral_Photo_by_Giles_Laurent.jpg"
+ },
+ "chinese-water-deer": {
+  "file": "img/chinese-water-deer.jpg",
+  "author": "Altaileopard",
+  "license": "Public domain",
+  "license_url": "https://commons.wikimedia.org/wiki/File:Hydropotes_inermis_male.JPG",
+  "source": "https://commons.wikimedia.org/wiki/File:Hydropotes_inermis_male.JPG"
+ },
+ "kirks-dik-dik": {
+  "file": "img/kirks-dik-dik.jpg",
+  "author": "Yathin S Krishnappa",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Madoqua_kirkii_-_male_(Namutoni).jpg"
+ },
+ "elds-deer": {
+  "file": "img/elds-deer.jpg",
+  "author": "Unknown",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source": "https://commons.wikimedia.org/wiki/File:Cervus_eldii4.jpg"
+ },
+ "cuviers-gazelle": {
+  "file": "img/cuviers-gazelle.jpg",
+  "author": "en:User:Cburnett",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source": "https://commons.wikimedia.org/wiki/File:Cuvier%27s_Gazelle.jpg"
+ },
+ "dama-gazelle": {
+  "file": "img/dama-gazelle.jpg",
+  "author": "Ltshears",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Gazella_dama_mhorr_2.jpg"
+ },
+ "dorcas-gazelle": {
+  "file": "img/dorcas-gazelle.jpg",
+  "author": "Frithjof Spangenberg",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "source": "https://commons.wikimedia.org/wiki/File:Gazella-dorcas.jpg"
+ },
+ "grants-gazelle": {
+  "file": "img/grants-gazelle.jpg",
+  "author": "Ikiwaner",
+  "license": "GFDL 1.2",
+  "license_url": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+  "source": "https://commons.wikimedia.org/wiki/File:Ngorongoro_Grant-Gazelle.jpg"
+ },
+ "goitered-gazelle": {
+  "file": "img/goitered-gazelle.jpg",
+  "author": "kallerna",
+  "license": "Public domain",
+  "license_url": "https://commons.wikimedia.org/wiki/File:Kuhertajagaselli_Korkeasaari.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Kuhertajagaselli_Korkeasaari.jpg"
+ },
+ "thomsons-gazelle": {
+  "file": "img/thomsons-gazelle.jpg",
+  "author": "Diego Delso",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Gacela_de_Thomson_(Eudorcas_thomsonii),_parque_nacional_de_Amboseli,_Kenia,_2024-05-23,_DD_11.jpg"
+ },
+ "bezoar-ibex": {
+  "file": "img/bezoar-ibex.jpg",
+  "author": "Alexander Malkhasyan",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:6_Bezoar_Goat.jpg"
+ },
+ "west-caucasian-tur": {
+  "file": "img/west-caucasian-tur.jpg",
+  "author": "Dmano at English Wikipedia",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Zoo_033_edited.jpg"
+ },
+ "wild-boar": {
+  "file": "img/wild-boar.jpg",
+  "author": "Valentin Panzirsch",
+  "license": "CC BY-SA 3.0 at",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+  "source": "https://commons.wikimedia.org/wiki/File:Wildschwein,_N%C3%A4he_Pulverstampftor.jpg"
+ },
+ "collared-peccary": {
+  "file": "img/collared-peccary.jpg",
+  "author": "Chrumps",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source": "https://commons.wikimedia.org/wiki/File:Tayassu_tajacu.jpg"
+ },
+ "common-warthog": {
+  "file": "img/common-warthog.jpg",
+  "author": "Charles J. Sharp",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Nolan_warthog_(Phacochoerus_africanus_africanus).jpg"
+ },
+ "hog-deer": {
+  "file": "img/hog-deer.jpg",
+  "author": "Benjamin Cody",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source": "https://commons.wikimedia.org/wiki/File:Hog_deer.JPG"
+ },
+ "nubian-ibex": {
+  "file": "img/nubian-ibex.jpg",
+  "author": "Greg Schechter from San Francisco, USA",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Israel._Nubian_ibex_(15625972648).jpg"
+ },
+ "siberian-ibex": {
+  "file": "img/siberian-ibex.jpg",
+  "author": "Gunnar Ries",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "source": "https://commons.wikimedia.org/wiki/File:Steinbock1000943.JPG"
+ },
+ "impala": {
+  "file": "img/impala.jpg",
+  "author": "Mutari",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Aepyceros_melampus_-_001.jpg"
+ },
+ "red-kangaroo": {
+  "file": "img/red-kangaroo.jpg",
+  "author": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Canon 70-200mm f/2.8 L",
+  "license": "GFDL 1.2",
+  "license_url": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+  "source": "https://commons.wikimedia.org/wiki/File:Red_kangaroo_-_melbourne_zoo.jpg"
+ },
+ "red-necked-wallaby": {
+  "file": "img/red-necked-wallaby.jpg",
+  "author": "Noodle snacks (https://www.jjharrison.com.au/)Bennett's Wallaby)",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Macropus_rufogriseus_rufogriseus_Bruny.jpg"
+ },
+ "common-wallaroo": {
+  "file": "img/common-wallaroo.jpg",
+  "author": "Michael Barritt & Karen May",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Macropus_robustus2.jpg"
+ },
+ "kob": {
+  "file": "img/kob.jpg",
+  "author": "Charles J. Sharp",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Ugandan_kob_(Kobus_kob_thomasi)_male.jpg"
+ },
+ "lesser-kudu": {
+  "file": "img/lesser-kudu.jpg",
+  "author": "Lip Kee Yap",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Lesser_Kudu_Male_(Tragelaphus_imberbis).jpg"
+ },
+ "southern-lechwe": {
+  "file": "img/southern-lechwe.jpg",
+  "author": "Charles J. Sharp",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Red_lechwe_(Kobus_leche_leche)_male.jpg"
+ },
+ "ring-tailed-lemur": {
+  "file": "img/ring-tailed-lemur.jpg",
+  "author": "Alex Dunkel (Maky)",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Lemur_catta_001.jpg"
+ },
+ "markhor": {
+  "file": "img/markhor.jpg",
+  "author": "Rufus46",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Markhor_Schraubenziege_Capra_falconeri_Zoo_Augsburg-02.jpg"
+ },
+ "mule-deer": {
+  "file": "img/mule-deer.jpg",
+  "author": "Dcrjsr",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Mule_deer_doe_backlit.jpg"
+ },
+ "reeves-muntjac": {
+  "file": "img/reeves-muntjac.jpg",
+  "author": "KaurJmeb",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Formosan_Reeve%27s_muntjac.jpg"
+ },
+ "nyala": {
+  "file": "img/nyala.jpg",
+  "author": "Charles J. Sharp",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Nyala_(Tragelaphus_angasii)_male_Maputo.jpg"
+ },
+ "arabian-oryx": {
+  "file": "img/arabian-oryx.jpg",
+  "author": "MathKnight",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Reem-Lavan001.jpg"
+ },
+ "beisa-oryx": {
+  "file": "img/beisa-oryx.jpg",
+  "author": "Charles J. Sharp",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Common_beisa_oryx_(Oryx_beisa_beisa)_female.jpg"
+ },
+ "patagonian-mara": {
+  "file": "img/patagonian-mara.jpg",
+  "author": "Diana",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source": "https://commons.wikimedia.org/wiki/File:Mara_1.jpg"
+ },
+ "pere-davids-deer": {
+  "file": "img/pere-davids-deer.jpg",
+  "author": "DiverDave",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Elaphurus_davidianus_01.JPG"
+ },
+ "crested-porcupine": {
+  "file": "img/crested-porcupine.jpg",
+  "author": "Jean-Pol GRANDMONT",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:0_Hystrix_cristata_-_Porc-%C3%A9pics_%C3%A0_cr%C3%AAte_(1).JPG"
+ },
+ "north-american-porcupine": {
+  "file": "img/north-american-porcupine.jpg",
+  "author": "Unknown",
+  "license": "Public domain",
+  "license_url": "https://commons.wikimedia.org/wiki/File:Porcupine_NPS11952.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Porcupine_NPS11952.jpg"
+ },
+ "pronghorn": {
+  "file": "img/pronghorn.jpg",
+  "author": "www.naturespicsonline.com",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Antilocapra_americana.jpg"
+ },
+ "reindeer": {
+  "file": "img/reindeer.jpg",
+  "author": "Dean Biggins (U.S. Fish and Wildlife Service)",
+  "license": "Public domain",
+  "license_url": "https://commons.wikimedia.org/wiki/File:Caribou.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Caribou.jpg"
+ },
+ "black-rhinoceros": {
+  "file": "img/black-rhinoceros.jpg",
+  "author": "Yathin S Krishnappa",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:2012_Black_Rhinoceros_Gemsbokvlakte.jpg"
+ },
+ "indian-rhinoceros": {
+  "file": "img/indian-rhinoceros.jpg",
+  "author": "Aditya Pal",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Greater_one-horned_rhinoceros_at_Chitwan.jpg"
+ },
+ "javan-rhinoceros": {
+  "file": "img/javan-rhinoceros.jpg",
+  "author": "T.Dixon. The Zoological Society of London",
+  "license": "Public domain",
+  "license_url": "https://commons.wikimedia.org/wiki/File:Rhinoceros_sondaicus_in_London_Zoo.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:Rhinoceros_sondaicus_in_London_Zoo.jpg"
+ },
+ "sumatran-rhinoceros": {
+  "file": "img/sumatran-rhinoceros.jpg",
+  "author": "Charles W. Hardin",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Sumatran_Rhino_2.jpg"
+ },
+ "white-rhinoceros": {
+  "file": "img/white-rhinoceros.jpg",
+  "author": "Payamfarahani",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:White_rhinoceros_africa.jpg"
+ },
+ "rusa-deer": {
+  "file": "img/rusa-deer.jpg",
+  "author": "Candra Firmansyah",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Kawanan_Rusa.jpg"
+ },
+ "sambar": {
+  "file": "img/sambar.jpg",
+  "author": "Rashityagi",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:A_Sambal_Deer_at_Peace.jpg"
+ },
+ "bighorn-sheep": {
+  "file": "img/bighorn-sheep.jpg",
+  "author": "Jwanamaker",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:New_Mexico_Bighorn_Sheep.JPG"
+ },
+ "urial": {
+  "file": "img/urial.jpg",
+  "author": "Fabrice Stoger",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:20170309_2597_Ulley-Leh_Urial.jpg"
+ },
+ "springbok": {
+  "file": "img/springbok.jpg",
+  "author": "Yathin S Krishnappa",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Antidorcas_marsupialis,_female_(Etosha,_2012).jpg"
+ },
+ "water-buffalo": {
+  "file": "img/water-buffalo.jpg",
+  "author": "Fabian Roudra Baroi",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Water_Buffal,Sylhet_01.jpg"
+ },
+ "white-lipped-deer": {
+  "file": "img/white-lipped-deer.jpg",
+  "author": "Fanghong",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:CervusAlbirostris2.jpg"
+ },
+ "white-tailed-deer": {
+  "file": "img/white-tailed-deer.jpg",
+  "author": "USDA photo by Scott Bauer",
+  "license": "Public domain",
+  "license_url": "https://commons.wikimedia.org/wiki/File:White-tailed_deer.jpg",
+  "source": "https://commons.wikimedia.org/wiki/File:White-tailed_deer.jpg"
+ },
+ "yak": {
+  "file": "img/yak.jpg",
+  "author": "travelwayoflife",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Bos_grunniens_at_Letdar_on_Annapurna_Circuit.jpg"
+ },
+ "capybara": {
+  "file": "img/capybara.jpg",
+  "author": "Bernard DUPONT from FRANCE",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Capybaras_(Hydrochoerus_hydrachaeris)_female_and_young_suckling_..._(48427191032).jpg"
+ },
+ "senegal-bushbaby": {
+  "file": "img/senegal-bushbaby.jpg",
+  "author": "OpenCage",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "source": "https://commons.wikimedia.org/wiki/File:Galago_senegalensis.jpg"
+ },
+ "alpaca": {
+  "file": "img/alpaca.jpg",
+  "author": "Christophe Meneboeuf",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "source": "https://commons.wikimedia.org/wiki/File:Alpacas_Sillustani_(pixinn.net).jpg"
+ },
+ "blesbok": {
+  "file": "img/blesbok.jpg",
+  "author": "Derek Keats from Johannesburg, South Africa",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Blesbok,_Damaliscus_pygargus_phillipsi,_at_Krugersdorp_Game_Reserve,_Gauteng,_South_Africa_(26872993194).jpg"
+ },
+ "himalayan-tahr": {
+  "file": "img/himalayan-tahr.jpg",
+  "author": "H. Zell",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Hemitragus_jemlahicus_-_Tierpark_Hagenbeck_01.jpg"
+ },
+ "nile-lechwe": {
+  "file": "img/nile-lechwe.jpg",
+  "author": "Hatem Moushir",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Kobus_megaceros_at_Giza_Zoo_1.JPG"
+ },
+ "tufted-deer": {
+  "file": "img/tufted-deer.jpg",
+  "author": "Shell Kinney",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Elaphodus_cephalophus_Side_view_Columbus_Zoo_2010-05-21.JPG"
+ },
+ "dall-sheep": {
+  "file": "img/dall-sheep.jpg",
+  "author": "Lauren",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Ovis_dalli_ssp._dalli.jpg"
+ },
+ "llama": {
+  "file": "img/llama.jpg",
+  "author": "Garst, Warren, 1922-2016, photographer",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Llamas_standing_with_vicunas_-_DPLA_-_52f39bbf915fce794b2c8452ba50b822.jpg"
  }
 }
