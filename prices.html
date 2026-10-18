@@ -1,0 +1,35 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Market / Auction Price Tracker (Draft)</title>
+<link rel="stylesheet" href="style.css"><script src="vendor/chart.umd.min.js"></script><script src="prices-data.js"></script>
+<style>.panel{background:#fff;border-radius:10px;padding:16px 20px;margin-bottom:18px;box-shadow:0 2px 8px rgba(60,40,20,.12);font-family:Arial,sans-serif;font-size:13px}
+table{border-collapse:collapse;width:100%}th,td{border-bottom:1px solid #eee;padding:5px 7px;text-align:right}th:first-child,td:first-child{text-align:left}th{background:#f3ece0}
+.note{color:#7a6a50;font-size:12px}.chartbox{height:440px}label{margin-right:12px}</style></head><body>
+<header><h1>Lone Star Exotics Hub</h1><p>Market / Auction price tracker · 2016–2026 · DRAFT</p>
+<nav id="nav" data-on="prices.html"></nav></header>
+<main>
+<div class="panel"><b>Read this first:</b> Every price below comes from a cited public source. Nothing is estimated or filled in. Years with no data are left blank. Most auction houses, WildLife Partners included, don't show winning bids publicly, so coverage is thin for now.
+<br><label><input type="checkbox" id="hunt"> Also chart hunt/trophy prices (shown as dashed lines)</label></div>
+<div class="panel"><h3>Average price per head by year (live sales)</h3><div class="chartbox"><canvas id="c"></canvas></div><p class="note">Average of all live-sale data points for that species and year: auction results, reported averages, and breeder price lists. Classes are mixed (sex and age differ). Hover over a point to see how many data points it averages (n).</p></div>
+<div class="panel"><h3>Year-over-year % change (live sales)</h3><div id="yoy"></div><p class="note">Change is only calculated between two consecutive years that both have data.</p></div>
+<div class="panel"><h3>Data points per year</h3><div id="cnt"></div></div>
+<div class="panel"><h3>Sale totals</h3><div id="agg"></div></div>
+<div class="panel"><h3>All data points</h3><div id="all"></div></div>
+<div class="panel"><h3>Sources</h3><ul id="src"></ul></div>
+</main>
+<script>
+const Y=[...Array(11)].map((_,i)=>2016+i),LIVE=['auction_result','reported_average','list_price'];
+const P=PRICES.points,fmt=v=>v==null?'':'$'+Math.round(v).toLocaleString();
+function avg(types){const m={};P.filter(p=>types.includes(p.type)).forEach(p=>{(m[p.species]??={})[p.year]??=[];m[p.species][p.year].push(p.price_per_head)});return m}
+const pal=['#8a5a2b','#3f5d3a','#2b5d8a','#b04a2a','#6b4a8a','#c0902b','#2b8a7a','#7a2b5d','#555','#a0522d','#4682b4'];
+let ch;function draw(){const L=avg(LIVE),H=avg(['hunt_price']);const ds=[];let i=0;
+for(const s in L){const col=pal[i++%pal.length];ds.push({label:s,borderColor:col,backgroundColor:col,spanGaps:false,pointRadius:6,data:Y.map(y=>L[s][y]?L[s][y].reduce((a,b)=>a+b)/L[s][y].length:null),n:Y.map(y=>L[s][y]?.length||0)})}
+if(hunt.checked)for(const s in H){const col=pal[i++%pal.length];ds.push({label:s+' (hunt)',borderColor:col,borderDash:[6,4],pointStyle:'triangle',pointRadius:5,data:Y.map(y=>H[s][y]?H[s][y].reduce((a,b)=>a+b)/H[s][y].length:null),n:Y.map(y=>H[s][y]?.length||0)})}
+ch&&ch.destroy();ch=new Chart(c,{type:'line',data:{labels:Y,datasets:ds},options:{maintainAspectRatio:false,animation:false,scales:{y:{type:'logarithmic',title:{display:true,text:'USD per head (log scale)'}}},plugins:{tooltip:{callbacks:{label:x=>`${x.dataset.label}: ${fmt(x.raw)} (n=${x.dataset.n[x.dataIndex]})`}}}}})}
+hunt.onchange=draw;draw();
+const L=avg(LIVE);let h='<table><tr><th>Species</th>'+Y.slice(1).map(y=>`<th>${y-1}→${y}</th>`).join('')+'</tr>';
+for(const s in L){h+=`<tr><td>${s}</td>`+Y.slice(1).map(y=>{const a=L[s][y-1],b=L[s][y];if(!a||!b)return'<td></td>';const A=a.reduce((x,z)=>x+z)/a.length,B=b.reduce((x,z)=>x+z)/b.length;return`<td>${((B/A-1)*100).toFixed(0)}%</td>`}).join('')+'</tr>'}
+yoy.innerHTML=h+'</table>';
+cnt.innerHTML='<table><tr><th>Type</th>'+Y.map(y=>`<th>${y}</th>`).join('')+'</tr>'+['auction_result','reported_average','list_price','reported_estimate','hunt_price'].map(t=>`<tr><td>${t}</td>`+Y.map(y=>`<td>${P.filter(p=>p.type==t&&p.year==y).length||''}</td>`).join('')+'</tr>').join('')+'</table>';
+agg.innerHTML='<table><tr><th>Event</th><th>Year</th><th>Lots</th><th>Total</th><th>Note</th></tr>'+PRICES.aggregates.map(a=>`<tr><td><a href="${a.url}">${a.event}</a></td><td>${a.year}</td><td>${a.lots}</td><td>${fmt(a.total_sales)}</td><td>${a.note}</td></tr>`).join('')+'</table>';
+all.innerHTML='<table><tr><th>Species</th><th>Class</th><th>Year</th><th>Type</th><th>Head</th><th>Lot</th><th>Per head</th><th>Source</th></tr>'+P.map(p=>`<tr><td>${p.species}</td><td>${p.sex_class}</td><td>${p.year}</td><td>${p.type}</td><td>${p.head}</td><td>${fmt(p.lot_price)}</td><td>${fmt(p.price_per_head)}</td><td><a href="${p.url}" title="${p.note}">${p.source}</a></td></tr>`).join('')+'</table>';
+src.innerHTML=[...new Map(P.map(p=>[p.url,p.source])).entries()].map(([u,s])=>`<li>${s}: <a href="${u}">${u}</a></li>`).join('');
+</script><script src="nav.js"></script></body></html>

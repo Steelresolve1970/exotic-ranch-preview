@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lone Star Exotics Hub//Auction Calendar//EN
+BEGIN:VEVENT
+UID:huntsville-2026-11-13@lonestarexoticshub
+DTSTAMP:20261016T200000Z
+DTSTART:20261113T160000Z
+DTEND:20261113T230000Z
+SUMMARY:Huntsville Exotic Auction
+LOCATION:Huntsville Livestock Auction\, 1846 I-45\, Huntsville\, TX 77340
+DESCRIPTION:Monthly exotic sale (2nd Friday). Consignment lists are posted the week of the sale. Online bidding through DVAuction. Verify with organizer: https://www.huntsvillelivestock.com/
+URL:https://www.huntsvillelivestock.com/
+END:VEVENT
+END:VCALENDAR

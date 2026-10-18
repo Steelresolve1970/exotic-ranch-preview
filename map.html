@@ -1,0 +1,53 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Texas Species Suitability Map – Lone Star Exotics Hub</title>
+<link rel="stylesheet" href="style.css"><link rel="stylesheet" href="lib/leaflet.css">
+<script src="lib/leaflet.js"></script><script src="data/tx-counties.js"></script><script src="data/tx-eco.js"></script><script src="data/species-map.js"></script><script src="data/suitability.js"></script><script src="data.js"></script>
+<style>#wrap{max-width:1150px;margin:auto;padding:16px}#map{height:640px;border-radius:8px;background:#e9e3d3}.mbar{display:flex;gap:14px;align-items:center;flex-wrap:wrap;margin:10px 0}select{font-size:1em;padding:6px}.lg span{display:inline-block;width:14px;height:14px;border:1px solid #555;margin:0 3px -2px 10px}.note{background:#fff;border-radius:8px;padding:12px 16px;margin:10px 0;box-shadow:0 1px 3px #0002}.inf{background:#fff3cd;border-left:4px solid #c9a227}table{border-collapse:collapse;font-size:.88em}td,th{border:1px solid #ccc;padding:4px 6px;vertical-align:top}ol{font-size:.9em}.mbar label{display:inline-flex;gap:5px;align-items:center;width:auto}.mbar input[type=checkbox]{width:auto;margin:0}.mbar.lg{gap:2px;font-size:.85em}.mbar.lg span{flex:none}.leaflet-popup-content{font-size:12px}</style></head><body>
+<header><h1>Lone Star Exotics Hub</h1><p>Texas suitability map — where each hoofstock species fits best by climate, terrain and vegetation</p>
+<nav id="nav" data-on="map.html"></nav></header>
+<div id="wrap"><div class="mbar"><label>Species: <select id="sp"></select></label><a id="pg" href="#">Species guide →</a>
+<label><input type="checkbox" id="oDoc"> Documented populations</label><label><input type="checkbox" id="oDir"> Directory ranches</label></div>
+<div class="mbar lg"><b>Suitability:</b><span style="background:#1a7f37"></span>Excellent (80–100)<span style="background:#7cc36b"></span>Good (65–79)<span style="background:#f2d16b"></span>Fair (50–64)<span style="background:#f09a4a"></span>Marginal (35–49)<span style="background:#c8423b"></span>Poor (&lt;35)<span style="background:none;border:2px solid #0b3d91"></span>Documented population<span style="background:#5b2c83;border-radius:50%"></span>Directory ranches (count)</div>
+<div id="map"></div>
+<div id="nt" class="note"></div>
+<div class="note inf"><b>This is a modeled, inferred suitability score — not a guarantee and not a record of where animals live.</b> It combines real county climate and terrain data with each species' native climate/habitat class from cited sources. Thresholds are our rubric choices (shown below), informed by the sources; only a few have direct numeric support (giraffe &lt;50 °F barn rule; nilgai freeze mortality). Good management (shelter, feed, water) can extend range; a high score does not remove legal, disease or fencing requirements.</div>
+<div class="note"><h3>Scoring rubric</h3>Each county gets 0–3 points per factor; weighted average → 0–100.
+<table><tr><th>Factor (weight)</th><th>Data</th><th>Scoring by species class</th></tr>
+<tr><td>Cold / heat (×3)</td><td>NOAA nClimDiv county Jan mean minimum & Jul mean maximum, 1991–2020 average</td><td><b>Cold-sensitive (tropical/subtropical native)</b>: Jan min ≥45 °F=3, 38–45=2, 32–38=1, &lt;32=0 (score capped at Marginal if 0). <b>Giraffe</b>: max 1 point; always capped at Marginal because AZA/USDA require a heated barn below a 50 °F average. <b>Cold-hardy</b>: 3 (2 if Jul max &gt;96 °F). <b>Cold-climate natives (elk, red deer, ibex)</b>: Jul max ≤90 °F=3, ≤95=2, ≤98=1, else 0. <b>Highveld (black wildebeest)</b>: Jan min ≥28 °F=3 else 2.</td></tr>
+<tr><td>Moisture (×2)</td><td>NOAA nClimDiv county annual precipitation, 1991–2020</td><td><b>Arid</b>: &lt;15 in=3, 15–25=2, 25–35=1, &gt;35=0. <b>Semi-arid</b>: &lt;22=3, 22–30=2, 30–40=1. <b>Savanna</b>: 20–35=3, 15–45=2, else 1. <b>Moist woodland</b>: ≥35=3, 28–35=2, 18–28=1. <b>Water-dependent</b>: ≥35=3, 25–35=2, 15–25=1. (Humidity data not included; rainfall used as the wetness proxy.)</td></tr>
+<tr><td>Vegetation (×2)</td><td>US EPA Level III ecoregion (county centroid)</td><td>Ecoregion matched to habitat type: brush/browse, open grass, mixed savanna, forest, desert, rocky. 3 = close match, 2 = partial, 1 = weak, 0 = mismatch (desert species outside arid regions).</td></tr>
+<tr><td>Terrain (×1.5, only where relevant)</td><td>USGS 3DEP elevation (Elevation Point Query Service), relief = max−min of ~13 sample points per county</td><td><b>Climbers (aoudad, ibex, mouflon)</b>: ≥800 ft=3, 400–800=2, 200–400=1, else 0. <b>Open-plains species</b>: &lt;300 ft=3, &lt;600=2, else 1. Others: not weighted.</td></tr></table>
+Levels: Excellent ≥80 · Good 65–79 · Fair 50–64 · Marginal 35–49 · Poor &lt;35. Click any county for its factor breakdown.</div>
+<div class="note"><b>Species basis & sources</b><div id="basis"></div><ol id="src"></ol><b>Data sources</b><ol>
+<li><a href="https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/">NOAA NCEI nClimDiv county climate (tmin, tmax, precip), 1991–2020</a></li>
+<li><a href="https://apps.nationalmap.gov/epqs/">USGS 3DEP Elevation Point Query Service</a></li>
+<li><a href="https://www.epa.gov/eco-research/level-iii-and-iv-ecoregions-continental-united-states">US EPA Level III Ecoregions</a></li>
+<li><a href="https://tigerweb.geo.census.gov/">US Census TIGERweb county boundaries</a></li>
+<li><a href="https://assets.speakcdn.com/assets/2332/aza_giraffe_care_manual.pdf">AZA Giraffe Care Manual</a> · <a href="http://www.subplantsci.org/wp-content/uploads/2021/07/Goolsby-et-al.2021_2-1.pdf">Goolsby et al. 2021 (nilgai freeze)</a> · <a href="https://animaldiversity.org/">Animal Diversity Web species accounts</a></li>
+<li>Leaflet 1.9.4 (BSD-2)</li></ol></div></div>
+<script>
+const S=SPMAP.species,R=SPMAP.sources,sel=document.getElementById('sp'),COL=['#c8423b','#f09a4a','#f2d16b','#7cc36b','#1a7f37'],LV=['Poor','Marginal','Fair','Good','Excellent'];
+const NM={"axis-deer":/axis/i,"fallow-deer":/fallow/i,"sika-deer":/sika/i,"blackbuck":/blackbuck/i,"nilgai":/nilgai/i,"aoudad":/aoudad|barbary/i,"scimitar-oryx":/scimitar/i,"gemsbok":/gemsbok/i,"addax":/addax/i,"greater-kudu":/kudu/i,"eland":/eland/i,"sable":/sable/i,"roan":/roan/i,"waterbuck":/waterbuck/i,"blue-wildebeest":/blue wildebeest|^wildebeest/i,"black-wildebeest":/black wildebeest/i,"plains-zebra":/grant|plains zebra|^zebra/i,"grevys-zebra":/gr[eé]vy/i,"giraffe":/giraffe/i,"elk":/\belk\b/i,"red-deer":/red (deer|stag)/i,"mouflon":/mouflon/i,"ibex":/ibex/i,"camel-dromedary":/dromedar|camel/i,"camel-bactrian":/bactrian/i};
+S.forEach((s,i)=>sel.add(new Option(s.name,i)));
+const map=L.map('map',{zoomSnap:.25});
+L.geoJSON(TXE,{style:{color:'#6b5d42',weight:1,dashArray:'4',fill:false},interactive:false}).addTo(map);
+const lay=L.geoJSON(TXC).addTo(map);map.fitBounds(lay.getBounds());
+const dirL=L.layerGroup().addTo(map);const cent={};lay.eachLayer(l=>cent[l.feature.properties.NAME]=l.getBounds().getCenter());
+function docStat(s,p){if(s.counties[p.NAME])return s.counties[p.NAME][0]=='documented';if(p.ECO&&s.regions[p.ECO])return s.regions[p.ECO][0]=='documented';return false}
+function draw(){const s=S[sel.value],U=SUIT[s.id],od=document.getElementById('oDoc').checked,odir=document.getElementById('oDir').checked;
+ document.getElementById('pg').href='../species/'+s.id+'.html';
+ const dir={};(window.RANCHES||[]).forEach(r=>{if(r.county&&r.species.some(x=>NM[s.id]&&NM[s.id].test(x)))(dir[r.county]=dir[r.county]||[]).push(r)});
+ lay.eachLayer(l=>{const p=l.feature.properties,u=U?U.counties[p.NAME]:null,doc=od&&docStat(s,p),m=CMETA[p.GEOID];
+  l.setStyle({fillColor:u?COL[u[1]]:'#ddd',fillOpacity:.8,color:doc?'#0b3d91':'#777',weight:doc?3:.5});
+  let h='<b>'+p.NAME+' County</b> — '+(u?'<b>'+LV[u[1]]+'</b> ('+u[0]+'/100)':'no score')+'<br><small>'+(p.ECO||'')+' · Jan min '+m.jan_tmin+'°F · Jul max '+m.jul_tmax+'°F · '+m.ann_pcp+' in/yr · elev '+m.elev_ft+' ft · relief '+m.relief_ft+' ft</small>';
+  if(u)h+='<table>'+u[2].map(f=>'<tr><td>'+(f[0]===null?'–':f[0]+'/3')+'</td><td>×'+f[1]+'</td><td>'+f[2]+'</td></tr>').join('')+'</table>';
+  if(docStat(s,p))h+='<div><b>Documented population</b> in cited source.</div>';
+  if(dir[p.NAME])h+='<div><b>Directory ranches listing this species:</b> '+dir[p.NAME].map(r=>'<a href="index.html#r-'+r.id+'">'+r.name+'</a>').join(', ')+'</div>';
+  l.bindPopup(h,{maxWidth:420})});
+ dirL.clearLayers();if(odir)for(const c in dir)if(cent[c])L.marker(cent[c],{icon:L.divIcon({className:'',html:'<div style="background:#5b2c83;color:#fff;border-radius:50%;width:22px;height:22px;line-height:22px;text-align:center;font:bold 12px sans-serif;border:2px solid #fff">'+dir[c].length+'</div>'})}).bindPopup('<b>'+c+' County</b> — directory ranches listing '+s.name+':<br>'+dir[c].map(r=>'<a href="index.html#r-'+r.id+'">'+r.name+'</a>').join('<br>')).addTo(dirL);
+ const n=Object.values(dir).flat().length;
+ document.getElementById('nt').innerHTML='<b>'+s.name+':</b> '+(U?U.basis:'')+' <br><small>Documented-population note: '+s.note+(odir?' · Directory: '+n+' ranch listing(s) in '+Object.keys(dir).length+' counties (directory is a growing sample, not a census).':'')+'</small>';
+ document.getElementById('basis').innerHTML=U?'<p>'+s.name+' classes — cold: <b>'+U.classes[0]+'</b>, moisture: <b>'+U.classes[1]+'</b>, terrain: <b>'+U.classes[2]+'</b>, vegetation: <b>'+U.classes[3]+'</b>. Basis: '+U.basis+'</p>':'';
+ document.getElementById('src').innerHTML=s.src.map(k=>'<li><a href="'+R[k].u+'">'+R[k].t+'</a></li>').join('')}
+sel.onchange=draw;oDoc.onchange=draw;oDir.onchange=draw;
+const q=new URLSearchParams(location.search);sel.value=Math.max(0,S.findIndex(s=>s.id==(q.get('sp')||'greater-kudu')));if(q.get('doc'))oDoc.checked=true;if(q.get('dir'))oDir.checked=true;draw();
+</script><div id="newsletter"></div><script src="nav.js"></script></body></html>

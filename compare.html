@@ -1,0 +1,23 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Species comparison · Lone Star Exotics Hub</title>
+<link rel="stylesheet" href="style.css"></head><body>
+<header><h1>Lone Star Exotics Hub</h1><p>Compare 2–3 hoofstock species side by side</p><nav id="nav" data-on="compare.html"></nav></header>
+<main><div class="wrap"><h2 style="margin-top:0">Species comparison</h2><p class="lead">Choose two or three species. Every row comes from the cited species-guide entries, the published price points on the Market page, and the county suitability model behind the Species Map. If no verified figure exists, the cell says so.</p>
+<div class="panel" style="display:flex;gap:12px;flex-wrap:wrap;align-items:end" id="pick"></div>
+<div id="cmp" style="overflow-x:auto"></div>
+<script src="data/compare-data.js"></script>
+<script>
+const LV=['Poor','Marginal','Fair','Good','Excellent'],ROWS=[['size','Size'],['space','Space / stocking'],['fencing','Fencing'],['housing_shelter','Cold tolerance & shelter'],['diet','Natural diet'],['feed_supplementation','Feed & supplementation'],['health_parasites','Health risks'],['legal','Legal status']];
+const by=Object.fromEntries(CMP.map(s=>[s.id,s]));const pk=document.getElementById('pick');
+const q=new URLSearchParams(location.search);let sel=(q.get('s')||'greater-kudu,sable,gemsbok').split(',');
+for(let i=0;i<3;i++){const l=document.createElement('label');l.style.cssText='font:13px Arial;flex:1;min-width:200px';l.innerHTML='Species '+(i+1)+(i==2?' (optional)':'')+'<br>';const s=document.createElement('select');s.style.cssText='width:100%;padding:8px;margin-top:4px';s.innerHTML=(i==2?'<option value="">— none —</option>':'')+CMP.map(x=>`<option value="${x.id}">${x.name}</option>`).join('');s.value=sel[i]||'';s.onchange=()=>{sel[i]=s.value;draw()};l.appendChild(s);pk.appendChild(l)}
+const cite=c=>c.c.length?' '+c.c.map((x,i)=>`<sup><a href="${x.u}" title="${x.t}" target="_blank">[${i+1}]</a></sup>`).join(''):'';
+function draw(){const L=sel.filter(Boolean).map(i=>by[i]);history.replaceState(0,'','?s='+sel.filter(Boolean).join(','));
+let h='<table class="t"><tr><th style="width:160px"></th>'+L.map(s=>`<th><img src="${s.img}" style="width:100%;height:150px;object-fit:contain;background:#2b2416;border-radius:6px"><div style="font:bold 16px Georgia;margin-top:6px"><a href="../species/${s.id}.html" style="color:#4a3420">${s.name}</a></div><i style="font-weight:normal">${s.sci}</i><div class="note" style="font-weight:normal">Photo: ${s.credit.author}, <a href="${s.credit.license_url}">${s.credit.license}</a> (<a href="${s.credit.source}">source</a>)</div></th>`).join('')+'</tr>';
+for(const [k,t] of ROWS)h+=`<tr><th>${t}</th>`+L.map(s=>{const c=s.f[k];return '<td>'+(c?c.t+cite(c):'<span class="note">No verified info</span>')+'</td>'}).join('')+'</tr>';
+h+='<tr><th>Verified price points</th>'+L.map(s=>'<td>'+(s.prices.length?s.prices.map(p=>`<div>$${p.price_per_head.toLocaleString()}/head · ${p.sex_class||''} · ${p.year} <a href="${p.url}" target="_blank" title="${p.source}">[src]</a></div>`).join('')+'<div class="note">Historical published figures, not a quote. See <a href="prices.html">Market Prices</a>.</div>':'<span class="note">No published price point in our dataset</span>')+'</td>').join('')+'</tr>';
+h+='<tr><th>Texas suitability</th>'+L.map(s=>'<td>'+(s.suit?s.suit.counts.map((n,i)=>`<span class="pill">${LV[i]}: ${n}</span>`).join('')+`<div style="margin-top:6px">Top-scoring counties: ${s.suit.best.join(', ')}</div><div class="note">${s.suit.basis}</div><a href="map.html?sp=${s.id}">Open on map →</a>`:'<span class="note">Not modeled</span>')+'</td>').join('')+'</tr></table>';
+document.getElementById('cmp').innerHTML=h}draw();
+</script></div></main>
+<div id="newsletter"></div>
+<footer>Information is compiled from public sources, and each item links to its source. Things change, so confirm with the seller, organizer or agency. General information only; this isn't legal or veterinary advice.</footer>
+<script src="nav.js"></script></body></html>
