@@ -1,5 +1,5 @@
-<!doctype html><html lang="en"><head><link rel="icon" type="image/svg+xml" href="img/favicon.svg"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Startup cost guide · Exotic Ranch &amp; Wildlife Network</title>
-<link rel="stylesheet" href="style.css"></head><body>
+<!doctype html><html lang="en"><head><meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="0"><link rel="icon" type="image/svg+xml" href="img/favicon.svg?v=20261018052536"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Startup cost guide · Exotic Ranch &amp; Wildlife Network</title>
+<link rel="stylesheet" href="style.css?v=20261018052536"></head><body>
 <header><h1>Exotic Ranch &amp; Wildlife Network</h1><p>Estimate fencing, feed, water and handling costs. Sourced figures are cited; enter your own quotes for everything else</p><nav id="nav" data-on="costs.html"></nav></header>
 <main><div class="wrap"><h2 style="margin-top:0">Startup cost guide</h2><p class="lead">This guide only pre-fills numbers we can cite. Unsourced items start blank: enter your own quotes from local suppliers. The totals are planning estimates, not bids.</p>
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:18px">
@@ -10,7 +10,7 @@
 <label>Head of stock</label><input id="hd" type="number" value="20" min="0">
 <h2 style="margin-top:18px">2. Fencing</h2>
 <label>Installed high fence cost per mile ($)</label><input id="fm" type="number" value="55000">
-<div class="note">Default: TPWD estimate of about <b>$55,000 per mile</b> for a fence of at least 7 ft that holds deer; it "could be higher or lower depending on terrain." <a href="https://tpwd.texas.gov/business/feedback/meetings/2026/0820/agenda/item.phtml?item=7" target="_blank">TPWD Commission, Aug 20 2026, Item 7</a>. TPWD also notes 8-ft woven-wire/high-tensile game fence is the only fully reliable deer exclusion (<a href="https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_1196.pdf">TPWD</a>).</div>
+<div class="note">Default: TPWD estimate of about <b>$55,000 per mile</b> for a fence of at least 7 ft that holds deer; it "could be higher or lower depending on terrain." <a href="https://tpwd.texas.gov/business/feedback/meetings/2026/0820/agenda/item.phtml?item=7" target="_blank">TPWD Commission, Aug 20 2026, Item 7</a>. TPWD also notes 8-ft woven-wire/high-tensile game fence is the only fully reliable deer exclusion (<a href="https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_1196.pdf" target="_blank" rel="noopener noreferrer">TPWD</a>).</div>
 <label>Gates, water gaps, clearing (your quote, $)</label><input id="fx" type="number" placeholder="enter quote">
 <h2 style="margin-top:18px">3. Feed (annual)</h2>
 <label>Feed cost per head per day ($): your supplier quote</label><input id="fd" type="number" step=".01" placeholder="no sourced default">
@@ -31,4 +31,4 @@ const one=[fence,fx,wt,hn,an].filter(x=>!isNaN(x)).reduce((a,b)=>a+b,0),yr=[feed
 document.getElementById('out').innerHTML=`<tr><td>Perimeter</td><td>${Math.round(per).toLocaleString()} ft (${mi.toFixed(2)} mi)</td></tr><tr><td>High fence (TPWD rate or yours)</td><td>${$(fence)}</td></tr><tr><td>Gates / gaps / clearing</td><td>${$(fx)}</td></tr><tr><td>Water</td><td>${$(wt)}</td></tr><tr><td>Handling facilities</td><td>${$(hn)}</td></tr><tr><td>Animals</td><td>${$(an)}</td></tr><tr><th>One-time total</th><th>${$(one)}</th></tr><tr><td>Feed (per year)</td><td>${$(feed)}</td></tr><tr><td>Hay / supplement</td><td>${$(hay)}</td></tr><tr><td>Vet & deworming</td><td>${$(vt)}</td></tr><tr><th>Annual operating</th><th>${$(yr)}</th></tr><tr><td>Fence cost per acre</td><td>${$(fence/v('ac'))}</td></tr>`}calc();</script></div></main>
 <div id="newsletter"></div>
 <footer>Information is compiled from public sources, and each item links to its source. Things change, so confirm with the seller, organizer or agency. General information only; this isn't legal or veterinary advice.</footer>
-<script src="nav.js"></script></body></html>
+<script src="nav.js?v=20261018052536"></script></body></html>
